@@ -3751,3 +3751,963 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.25-14.27.26:781][265]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.25-14.27.26:781][265]AssetCheck: /Game/Input/Actions/IA_Focus Validando recurso
 [2026.05.25-14.27.26:802][265]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.25-14.29.33:099][722]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3967.435303
+[2026.05.25-14.29.34:099][725]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.25-14.29.34:099][725]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3968.101807, Update Interval: 305.971252
+[2026.05.25-14.30.22:763][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.30.22:791][ 19]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.30.22:791][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.30.22:809][ 19]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-14.30.22:810][ 19]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System9A188B504A4AACBBB17A6091CA175FFB.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-14.30.22:819][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.455 ms (total: 3.41 sec)
+[2026.05.25-14.30.22:873][ 19]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.30.22:873][ 19]LogContentValidation: Enabled validators:
+[2026.05.25-14.30.22:873][ 19]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.30.22:873][ 19]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.30.22:873][ 19]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.30.22:873][ 19]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.30.22:873][ 19]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.30.22:873][ 19]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.30.22:873][ 19]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-14.30.35:919][940]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.05.25-14.30.35:931][940]LogContentBrowser: Creating deferred item: NewFolder
+[2026.05.25-14.30.35:949][941]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.05.25-14.30.39:353][216]LogContentBrowser: Attempting asset rename: NewFolder -> Interfaces
+[2026.05.25-14.30.39:353][216]LogContentBrowser: End creating deferred item NewFolder
+[2026.05.25-14.30.50:713][146]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2026.05.25-14.30.50:728][146]LogContentBrowser: Creating deferred item: NewInterface
+[2026.05.25-14.30.50:767][148]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2026.05.25-14.31.02:561][ 86]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_DamageSystem
+[2026.05.25-14.31.02:566][ 86]LogContentBrowser: End creating deferred item NewInterface
+[2026.05.25-14.31.03:060][123]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LiesOfPLevel/Blueprints/Interfaces/BPI_DamageSystem.BPI_DamageSystem
+[2026.05.25-14.31.03:060][123]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.05.25-14.31.43:189][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.31.43:253][814]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Interfaces/BPI_DamageSystem] ([2] browsable assets)...
+[2026.05.25-14.31.43:253][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Interfaces/BPI_DamageSystem]
+[2026.05.25-14.31.43:255][814]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Interfaces/BPI_DamageSystem
+[2026.05.25-14.31.43:255][814]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPI_DamageSystem77396CAB4D1928591DB6D1A6CD3AA693.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Interfaces/BPI_DamageSystem.uasset'
+[2026.05.25-14.31.43:265][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.436 ms (total: 3.48 sec)
+[2026.05.25-14.31.43:309][814]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.31.43:309][814]LogContentValidation: Enabled validators:
+[2026.05.25-14.31.43:309][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.31.43:309][814]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.31.43:309][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.31.43:309][814]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.31.43:309][814]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.31.43:309][814]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.31.43:309][814]AssetCheck: /Game/LiesOfPLevel/Blueprints/Interfaces/BPI_DamageSystem Validando recurso
+[2026.05.25-14.31.43:330][814]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.25-14.32.03:895][764]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.32.03:946][764]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Interfaces/BPI_DamageSystem] ([2] browsable assets)...
+[2026.05.25-14.32.03:946][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Interfaces/BPI_DamageSystem]
+[2026.05.25-14.32.03:949][764]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Interfaces/BPI_DamageSystem
+[2026.05.25-14.32.03:949][764]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPI_DamageSystemF9D8DA244BD0D3AB55C0808FBDDD31F1.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Interfaces/BPI_DamageSystem.uasset'
+[2026.05.25-14.32.03:958][764]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.566 ms (total: 3.55 sec)
+[2026.05.25-14.32.03:987][764]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.32.03:987][764]LogContentValidation: Enabled validators:
+[2026.05.25-14.32.03:987][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.32.03:987][764]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.32.03:987][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.32.03:987][764]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.32.03:987][764]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.32.03:987][764]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.32.03:987][764]AssetCheck: /Game/LiesOfPLevel/Blueprints/Interfaces/BPI_DamageSystem Validando recurso
+[2026.05.25-14.34.05:184][907]LogSlate: Window 'Elige la clase padre' being destroyed
+[2026.05.25-14.34.05:195][907]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.05.25-14.34.05:215][907]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.05.25-14.34.05:230][908]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.05.25-14.34.17:300][985]LogContentBrowser: Attempting asset rename: NewBlueprint -> BPC_DamageSystem
+[2026.05.25-14.34.17:309][985]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.05.25-14.34.18:867][124]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem.BPC_DamageSystem
+[2026.05.25-14.34.18:868][124]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.05.25-14.34.21:996][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.34.22:050][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem] ([2] browsable assets)...
+[2026.05.25-14.34.22:050][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem]
+[2026.05.25-14.34.22:053][371]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem
+[2026.05.25-14.34.22:053][371]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_DamageSystem598388E94EF883802DC6B39701257014.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem.uasset'
+[2026.05.25-14.34.22:063][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.884 ms (total: 3.61 sec)
+[2026.05.25-14.34.22:103][371]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.34.22:103][371]LogContentValidation: Enabled validators:
+[2026.05.25-14.34.22:103][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.34.22:103][371]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.34.22:103][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.34.22:103][371]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.34.22:103][371]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.34.22:103][371]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.34.22:103][371]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem Validando recurso
+[2026.05.25-14.34.22:134][371]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.25-14.35.13:705][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.35.13:766][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem] ([2] browsable assets)...
+[2026.05.25-14.35.13:766][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem]
+[2026.05.25-14.35.13:769][995]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem
+[2026.05.25-14.35.13:769][995]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_DamageSystemDDCEEB624EFCE960091F9D8020A0B3A5.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem.uasset'
+[2026.05.25-14.35.13:777][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.434 ms (total: 3.69 sec)
+[2026.05.25-14.35.13:822][995]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.35.13:822][995]LogContentValidation: Enabled validators:
+[2026.05.25-14.35.13:822][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.35.13:822][995]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.35.13:822][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.35.13:822][995]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.35.13:822][995]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.35.13:822][995]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.35.13:822][995]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem Validando recurso
+[2026.05.25-14.35.13:842][995]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4308.199219
+[2026.05.25-14.35.13:982][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.25-14.35.13:982][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4308.329102, Update Interval: 321.286652
+[2026.05.25-14.35.29:057][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.35.29:119][203]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem] ([2] browsable assets)...
+[2026.05.25-14.35.29:119][203]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem]
+[2026.05.25-14.35.29:122][203]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem
+[2026.05.25-14.35.29:122][203]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_DamageSystem635002DA4493033283F3AC978CFE295D.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem.uasset'
+[2026.05.25-14.35.29:131][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.053 ms (total: 3.76 sec)
+[2026.05.25-14.35.29:173][203]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.35.29:173][203]LogContentValidation: Enabled validators:
+[2026.05.25-14.35.29:173][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.35.29:173][203]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.35.29:173][203]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.35.29:173][203]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.35.29:173][203]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.35.29:173][203]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.35.29:174][203]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem Validando recurso
+[2026.05.25-14.35.38:557][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.05.25-14.36.27:560][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.36.27:622][760]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem] ([2] browsable assets)...
+[2026.05.25-14.36.27:623][760]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem]
+[2026.05.25-14.36.27:625][760]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem
+[2026.05.25-14.36.27:626][760]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_DamageSystem5EF4820E4598CB547E7587970D0705D7.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem.uasset'
+[2026.05.25-14.36.27:634][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.367 ms (total: 3.83 sec)
+[2026.05.25-14.36.27:678][760]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.36.27:678][760]LogContentValidation: Enabled validators:
+[2026.05.25-14.36.27:678][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.36.27:678][760]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.36.27:678][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.36.27:678][760]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.36.27:678][760]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.36.27:678][760]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.36.27:678][760]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem Validando recurso
+[2026.05.25-14.36.36:706][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.36.36:759][637]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem] ([2] browsable assets)...
+[2026.05.25-14.36.36:760][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem]
+[2026.05.25-14.36.36:764][637]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem
+[2026.05.25-14.36.36:764][637]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_DamageSystem6E96D3D24ED471D29F4B98BBE8FC76E1.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem.uasset'
+[2026.05.25-14.36.36:771][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.063 ms (total: 3.90 sec)
+[2026.05.25-14.36.36:813][637]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.36.36:813][637]LogContentValidation: Enabled validators:
+[2026.05.25-14.36.36:813][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.36.36:813][637]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.36.36:813][637]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.36.36:813][637]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.36.36:813][637]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.36.36:813][637]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.36.36:815][637]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem Validando recurso
+[2026.05.25-14.36.49:917][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.36.49:982][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem] ([2] browsable assets)...
+[2026.05.25-14.36.49:983][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem]
+[2026.05.25-14.36.49:987][867]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem
+[2026.05.25-14.36.49:987][867]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_DamageSystemD6F254EF4EFC319ACE9D9C808E2BB647.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem.uasset'
+[2026.05.25-14.36.49:995][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.990 ms (total: 3.98 sec)
+[2026.05.25-14.36.50:038][867]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.36.50:038][867]LogContentValidation: Enabled validators:
+[2026.05.25-14.36.50:038][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.36.50:038][867]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.36.50:038][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.36.50:038][867]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.36.50:038][867]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.36.50:038][867]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.36.50:038][867]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem Validando recurso
+[2026.05.25-14.37.11:734][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.37.11:789][ 60]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem] ([2] browsable assets)...
+[2026.05.25-14.37.11:789][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem]
+[2026.05.25-14.37.11:793][ 60]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem
+[2026.05.25-14.37.11:794][ 60]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_DamageSystem1942F07B474C53720E46009042080905.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem.uasset'
+[2026.05.25-14.37.11:803][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.787 ms (total: 4.05 sec)
+[2026.05.25-14.37.11:859][ 60]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.37.11:859][ 60]LogContentValidation: Enabled validators:
+[2026.05.25-14.37.11:859][ 60]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.37.11:859][ 60]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.37.11:859][ 60]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.37.11:859][ 60]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.37.11:859][ 60]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.37.11:859][ 60]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.37.11:859][ 60]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem Validando recurso
+[2026.05.25-14.37.45:182][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.37.45:246][221]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem] ([2] browsable assets)...
+[2026.05.25-14.37.45:246][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem]
+[2026.05.25-14.37.45:251][221]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem
+[2026.05.25-14.37.45:252][221]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_DamageSystemABA003EA4FDEAEFF5FB590A5576B010E.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem.uasset'
+[2026.05.25-14.37.45:260][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.072 ms (total: 4.12 sec)
+[2026.05.25-14.37.45:303][221]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.37.45:303][221]LogContentValidation: Enabled validators:
+[2026.05.25-14.37.45:303][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.37.45:303][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.37.45:303][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.37.45:303][221]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.37.45:303][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.37.45:303][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.37.45:303][221]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem Validando recurso
+[2026.05.25-14.38.38:293][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.38.38:356][661]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem] ([2] browsable assets)...
+[2026.05.25-14.38.38:356][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem]
+[2026.05.25-14.38.38:360][661]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem
+[2026.05.25-14.38.38:360][661]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_DamageSystemE28F6C0147A0D9AFC269268BA5E6D349.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem.uasset'
+[2026.05.25-14.38.38:370][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.694 ms (total: 4.20 sec)
+[2026.05.25-14.38.38:426][661]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.38.38:426][661]LogContentValidation: Enabled validators:
+[2026.05.25-14.38.38:426][661]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.38.38:426][661]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.38.38:426][661]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.38.38:426][661]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.38.38:426][661]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.38.38:426][661]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.38.38:426][661]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem Validando recurso
+[2026.05.25-14.38.48:184][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.38.48:228][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem] ([2] browsable assets)...
+[2026.05.25-14.38.48:228][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem]
+[2026.05.25-14.38.48:232][545]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem
+[2026.05.25-14.38.48:233][545]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_DamageSystem89498BDB420241F6E32F00B4D8C82412.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem.uasset'
+[2026.05.25-14.38.48:241][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.860 ms (total: 4.26 sec)
+[2026.05.25-14.38.48:284][545]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.38.48:284][545]LogContentValidation: Enabled validators:
+[2026.05.25-14.38.48:285][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.38.48:285][545]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.38.48:285][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.38.48:285][545]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.38.48:285][545]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.38.48:285][545]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.38.48:285][545]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem Validando recurso
+[2026.05.25-14.40.08:476][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.40.08:523][806]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem] ([2] browsable assets)...
+[2026.05.25-14.40.08:523][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem]
+[2026.05.25-14.40.08:528][806]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem
+[2026.05.25-14.40.08:529][806]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_DamageSystem37D7D25E45189DBB7D42CEBD3D5A545E.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem.uasset'
+[2026.05.25-14.40.08:537][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.951 ms (total: 4.32 sec)
+[2026.05.25-14.40.08:579][806]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.40.08:579][806]LogContentValidation: Enabled validators:
+[2026.05.25-14.40.08:579][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.40.08:579][806]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.40.08:579][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.40.08:579][806]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.40.08:579][806]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.40.08:579][806]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.40.08:579][806]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem Validando recurso
+[2026.05.25-14.40.11:464][890]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.40.11:513][890]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem] ([2] browsable assets)...
+[2026.05.25-14.40.11:513][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem]
+[2026.05.25-14.40.11:518][890]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem
+[2026.05.25-14.40.11:519][890]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_DamageSystem85462BCC49763664D0E7C1B0AAD744D7.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem.uasset'
+[2026.05.25-14.40.11:527][890]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.170 ms (total: 4.38 sec)
+[2026.05.25-14.40.11:553][890]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.40.11:553][890]LogContentValidation: Enabled validators:
+[2026.05.25-14.40.11:553][890]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.40.11:553][890]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.40.11:554][890]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.40.11:554][890]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.40.11:554][890]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.40.11:554][890]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.40.11:554][890]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem Validando recurso
+[2026.05.25-14.40.30:852][622]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.40.30:913][622]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem] ([2] browsable assets)...
+[2026.05.25-14.40.30:914][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem]
+[2026.05.25-14.40.30:918][622]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem
+[2026.05.25-14.40.30:918][622]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_DamageSystem6D8EBC814605A666CE289784163488A1.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem.uasset'
+[2026.05.25-14.40.30:928][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.730 ms (total: 4.46 sec)
+[2026.05.25-14.40.30:982][622]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.40.30:982][622]LogContentValidation: Enabled validators:
+[2026.05.25-14.40.30:982][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.40.30:982][622]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.40.30:982][622]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.40.30:982][622]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.40.30:982][622]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.40.30:982][622]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.40.30:982][622]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem Validando recurso
+[2026.05.25-14.41.17:951][738]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.41.17:999][738]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.41.17:999][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.41.18:018][738]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-14.41.18:018][738]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System99B2F8B94816303C752DAEA7091FEC44.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-14.41.18:027][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.127 ms (total: 4.53 sec)
+[2026.05.25-14.41.18:082][738]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.41.18:082][738]LogContentValidation: Enabled validators:
+[2026.05.25-14.41.18:082][738]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.41.18:082][738]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.41.18:082][738]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.41.18:082][738]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.41.18:082][738]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.41.18:082][738]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.41.18:083][738]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-14.41.24:226][794]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4678.596191
+[2026.05.25-14.41.25:227][797]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.25-14.41.25:227][797]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4679.262207, Update Interval: 336.898712
+[2026.05.25-14.41.47:112][ 61]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.05.25-14.41.47:128][ 61]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.05.25-14.41.47:146][ 62]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.05.25-14.41.57:363][881]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Attack
+[2026.05.25-14.41.57:364][881]LogContentBrowser: End creating deferred item NewInputAction
+[2026.05.25-14.42.04:148][220]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Default.IMC_Default
+[2026.05.25-14.42.31:060][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.42.31:117][978]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2026.05.25-14.42.31:117][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2026.05.25-14.42.31:117][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Input/IMC_Default.uasset" SILENT=true
+[2026.05.25-14.42.31:119][978]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2026.05.25-14.42.31:120][978]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/IMC_Default38E1FBBA469E632FC54B0FAFFDEA0907.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Input/IMC_Default.uasset'
+[2026.05.25-14.42.31:128][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.725 ms (total: 4.60 sec)
+[2026.05.25-14.42.31:173][978]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.42.31:173][978]LogContentValidation: Enabled validators:
+[2026.05.25-14.42.31:173][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.42.31:173][978]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.42.31:173][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.42.31:173][978]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.42.31:173][978]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.42.31:173][978]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.42.31:173][978]AssetCheck: /Game/Input/IMC_Default Validando recurso
+[2026.05.25-14.42.37:741][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.42.37:794][571]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.42.37:794][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.42.37:812][571]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-14.42.37:812][571]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_SystemDEACDEBC4F7EA5C37DF10D8CAE1AF293.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-14.42.37:821][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.933 ms (total: 4.68 sec)
+[2026.05.25-14.42.37:848][571]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.42.37:848][571]LogContentValidation: Enabled validators:
+[2026.05.25-14.42.37:848][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.42.37:848][571]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.42.37:848][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.42.37:848][571]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.42.37:848][571]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.42.37:848][571]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.42.37:848][571]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-14.43.21:656][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.43.21:696][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.43.21:696][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.43.21:715][758]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-14.43.21:715][758]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System0B0C160D40A3F506CCB244B71063D5CE.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-14.43.21:724][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.069 ms (total: 4.75 sec)
+[2026.05.25-14.43.21:780][758]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.43.21:780][758]LogContentValidation: Enabled validators:
+[2026.05.25-14.43.21:780][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.43.21:780][758]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.43.21:780][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.43.21:780][758]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.43.21:780][758]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.43.21:780][758]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.43.21:780][758]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-14.44.18:133][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.44.18:196][ 49]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.44.18:196][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.44.18:216][ 49]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-14.44.18:217][ 49]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System7D76DEFF42D6FF4076F7078C5B561F0D.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-14.44.18:227][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.040 ms (total: 4.84 sec)
+[2026.05.25-14.44.18:266][ 49]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.44.18:266][ 49]LogContentValidation: Enabled validators:
+[2026.05.25-14.44.18:266][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.44.18:266][ 49]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.44.18:266][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.44.18:266][ 49]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.44.18:266][ 49]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.44.18:266][ 49]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.44.18:266][ 49]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-14.46.15:432][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.46.15:482][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.46.15:482][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.46.15:503][923]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-14.46.15:503][923]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System4169CC884B811C9BA06B939E3CED9C91.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-14.46.15:514][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.559 ms (total: 4.92 sec)
+[2026.05.25-14.46.15:565][923]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.46.15:565][923]LogContentValidation: Enabled validators:
+[2026.05.25-14.46.15:565][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.46.15:565][923]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.46.15:565][923]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.46.15:565][923]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.46.15:565][923]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.46.15:565][923]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.46.15:565][923]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-14.46.22:664][463]LogBlueprint: Error: [AssetLog] E:\_GITHUB\LD_FinalTest_UnrealEngine\LiesOfP_Level\Content\LiesOfPLevel\Blueprints\Components\BPC_Combat_System.uasset: [Compiler] Este blueprint (sí mismo) no es un Actor, por lo que “ Target ” debe tener una conexión.
+[2026.05.25-14.46.22:769][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.05.25-14.46.47:758][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.46.47:801][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.46.47:801][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.46.47:822][537]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-14.46.47:822][537]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System8C2EB30B433BB57878468FA601FEC302.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-14.46.47:833][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.280 ms (total: 5.00 sec)
+[2026.05.25-14.46.47:884][537]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.46.47:884][537]LogContentValidation: Enabled validators:
+[2026.05.25-14.46.47:884][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.46.47:884][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.46.47:884][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.46.47:884][537]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.46.47:884][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.46.47:884][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.46.47:884][537]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-14.46.49:293][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.05.25-14.47.29:323][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.47.29:380][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.47.29:380][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.47.29:400][733]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-14.47.29:401][733]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System0921F202480D89D092ECA8A3110A45F6.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-14.47.29:411][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.504 ms (total: 5.09 sec)
+[2026.05.25-14.47.29:464][733]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.47.29:464][733]LogContentValidation: Enabled validators:
+[2026.05.25-14.47.29:464][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.47.29:464][733]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.47.29:464][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.47.29:464][733]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.47.29:464][733]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.47.29:464][733]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.47.29:464][733]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-14.47.32:504][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5046.884277
+[2026.05.25-14.47.32:652][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.25-14.47.32:652][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5047.022461, Update Interval: 332.877594
+[2026.05.25-14.47.42:806][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.47.42:855][699]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.47.42:856][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.47.42:876][699]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-14.47.42:876][699]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System3E88E83842E57D76AE92739CC6112EEF.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-14.47.42:886][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.612 ms (total: 5.17 sec)
+[2026.05.25-14.47.42:925][699]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.47.42:925][699]LogContentValidation: Enabled validators:
+[2026.05.25-14.47.42:925][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.47.42:925][699]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.47.42:925][699]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.47.42:925][699]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.47.42:925][699]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.47.42:925][699]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.47.42:925][699]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-14.47.48:198][ 66]LogDebuggerCommands: Repeating last play command: Nueva ventana del editor (PIE)
+[2026.05.25-14.47.48:205][ 66]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.25-14.47.48:205][ 66]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.05.25-14.47.48:206][ 66]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 874 us (total: 13.369 ms)
+[2026.05.25-14.47.48:207][ 66]LogPlayLevel: [PlayLevel] Compiling BPC_Combat_System before play...
+[2026.05.25-14.47.48:266][ 66]LogPlayLevel: [PlayLevel] Compiling BPI_DamageSystem before play...
+[2026.05.25-14.47.48:274][ 66]LogPlayLevel: [PlayLevel] Compiling BPC_DamageSystem before play...
+[2026.05.25-14.47.48:307][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.05.25-14.47.48:311][ 66]LogPlayLevel: PlayLevel: Blueprint regeneration took 105 ms (3 blueprints)
+[2026.05.25-14.47.48:311][ 66]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.25-14.47.48:318][ 66]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.25-14.47.48:319][ 66]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.221 ms (total: 24.450 ms)
+[2026.05.25-14.47.48:319][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007585s)
+[2026.05.25-14.47.48:319][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.007615s)
+[2026.05.25-14.47.48:346][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.05.25-14.47.48:347][ 66]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.05.25-14.47.48:350][ 66]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.25-14.47.48:350][ 66]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.25-14.47.48:350][ 66]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.25-14.47.48:350][ 66]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.25-14.47.48:351][ 66]LogWorldPartition: Display: WorldPartition initialize took 1.492 ms (total: 88.272 ms)
+[2026.05.25-14.47.48:351][ 66]LogPlayLevel: PIE: World Init took: (0.003438s)
+[2026.05.25-14.47.48:352][ 66]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.05.25-14.47.48:352][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.25-14.47.48:352][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.25-14.47.48:352][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.25-14.47.48:352][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.25-14.47.48:352][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.25-14.47.48:352][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.25-14.47.48:352][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.25-14.47.48:352][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.25-14.47.48:352][ 66]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.25-14.47.48:352][ 66]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.25-14.47.48:352][ 66]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.25-14.47.48:355][ 66]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.25-14.47.48:378][ 66]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.25-14.47.48:378][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.25-14.47.48:378][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.25-14.47.48:378][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.25-14.47.48:378][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.05.25-14.47.48:378][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.05.25-14.47.48:381][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.05.25-14.47.48:381][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.05.25-14.47.48:381][ 66]LogInit: FAudioDevice initialized with ID 21.
+[2026.05.25-14.47.48:381][ 66]LogAudio: Display: Audio Device (ID: 21) registered with world 'MainLevel'.
+[2026.05.25-14.47.48:381][ 66]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.05.25-14.47.48:428][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-14.47.48:428][ 66]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.25-14.47.48:432][ 66]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.05.25-16.47.48
+[2026.05.25-14.47.48:432][ 66]LogWorld: Bringing up level for play took: 0.003487
+[2026.05.25-14.47.48:434][ 66]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.05.25-14.47.48:442][ 66]PIE: El servidor ha iniciado sesión
+[2026.05.25-14.47.48:446][ 66]PIE: Tiempo de inicio total de la reproducción en el editor de 0,241 segundos.
+[2026.05.25-14.48.15:258][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-14.48.15:258][183]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.25-14.48.15:259][183]LogSlate: Window 'Previsualización de LiesOfP_Level [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2026.05.25-14.48.15:264][183]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-14.48.15:265][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-14.48.15:265][183]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.05.25-14.48.15:267][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.25-14.48.15:272][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-14.48.15:301][183]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.05.25-14.48.15:301][183]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2026.05.25-14.48.15:303][183]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2026.05.25-14.48.15:311][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.05.25-14.48.15:346][184]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.05.25-14.48.16:221][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.48.16:290][268]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.48.16:290][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.48.16:311][268]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-14.48.16:311][268]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_SystemA9A294F443A40F0D2BD6AC92DDC67379.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-14.48.16:322][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.656 ms (total: 5.27 sec)
+[2026.05.25-14.48.16:370][268]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.48.16:370][268]LogContentValidation: Enabled validators:
+[2026.05.25-14.48.16:370][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.48.16:370][268]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.48.16:370][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.48.16:370][268]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.48.16:370][268]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.48.16:370][268]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.48.16:370][268]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-14.48.53:017][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.05.25-14.48.53:022][208]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LiesOfPLevel/MainLevel' took 0.035
+[2026.05.25-14.48.53:023][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.48.53:023][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.48.53:044][208]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System_Auto4
+[2026.05.25-14.48.53:044][208]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System_Auto42A2BAFB2437C003DB52D12BE601D7793.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/Autosaves/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System_Auto4.uasset'
+[2026.05.25-14.48.53:045][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Attack] ([1] browsable assets)...
+[2026.05.25-14.48.53:045][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Attack]
+[2026.05.25-14.48.53:046][208]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_Attack_Auto4
+[2026.05.25-14.48.53:046][208]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/IA_Attack_Auto4506E3FA74837B44AFEA9EDAC8FE75F65.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/Autosaves/Game/Input/Actions/IA_Attack_Auto4.uasset'
+[2026.05.25-14.48.53:046][208]LogFileHelpers: Auto-saving content packages took 0.024
+[2026.05.25-14.49.05:490][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.49.05:556][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.49.05:556][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.49.05:578][745]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-14.49.05:578][745]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_SystemAE12CD774C70A5EFF59C6980E5F73317.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-14.49.05:588][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.916 ms (total: 5.37 sec)
+[2026.05.25-14.49.05:639][745]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.49.05:639][745]LogContentValidation: Enabled validators:
+[2026.05.25-14.49.05:639][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.49.05:639][745]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.49.05:639][745]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.49.05:639][745]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.49.05:639][745]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.49.05:639][745]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.49.05:639][745]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-14.49.13:634][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.49.13:677][517]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.49.13:677][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.49.13:698][517]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-14.49.13:699][517]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System4D94ACCD48DED40DEA95848E9E4B8E13.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-14.49.13:710][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.613 ms (total: 5.44 sec)
+[2026.05.25-14.49.13:760][517]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.49.13:760][517]LogContentValidation: Enabled validators:
+[2026.05.25-14.49.13:760][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.49.13:760][517]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.49.13:760][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.49.13:760][517]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.49.13:760][517]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.49.13:760][517]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.49.13:760][517]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-14.50.53:700][712]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.50.53:761][712]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LiesOfPLevel/Blueprints/BP_Dummie] ([2] browsable assets)...
+[2026.05.25-14.50.53:777][712]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LiesOfPLevel/Blueprints/BP_Dummie.BP_Dummie]
+[2026.05.25-14.50.53:777][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/BP_Dummie]
+[2026.05.25-14.50.53:777][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LiesOfPLevel/Blueprints/BP_Dummie" FILE="E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset" SILENT=true
+[2026.05.25-14.50.53:782][712]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/BP_Dummie
+[2026.05.25-14.50.53:783][712]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_Dummie98B7E4B14EB17E112F3443AECE45F365.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset'
+[2026.05.25-14.50.53:793][712]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.613 ms (total: 5.53 sec)
+[2026.05.25-14.50.53:830][712]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.50.53:830][712]LogContentValidation: Enabled validators:
+[2026.05.25-14.50.53:830][712]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.50.53:830][712]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.50.53:830][712]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.50.53:830][712]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.50.53:830][712]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.50.53:830][712]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.50.53:830][712]AssetCheck: /Game/LiesOfPLevel/Blueprints/BP_Dummie Validando recurso
+[2026.05.25-14.51.18:378][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.51.18:430][870]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LiesOfPLevel/Blueprints/BP_Dummie] ([2] browsable assets)...
+[2026.05.25-14.51.18:430][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/BP_Dummie]
+[2026.05.25-14.51.18:430][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LiesOfPLevel/Blueprints/BP_Dummie" FILE="E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset" SILENT=true
+[2026.05.25-14.51.18:435][870]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/BP_Dummie
+[2026.05.25-14.51.18:435][870]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_DummieC9393177415C1DC861592F9F7DDAB2AE.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset'
+[2026.05.25-14.51.18:443][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.386 ms (total: 5.60 sec)
+[2026.05.25-14.51.18:471][870]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.51.18:472][870]LogContentValidation: Enabled validators:
+[2026.05.25-14.51.18:472][870]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.51.18:472][870]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.51.18:472][870]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.51.18:472][870]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.51.18:472][870]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.51.18:472][870]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.51.18:472][870]AssetCheck: /Game/LiesOfPLevel/Blueprints/BP_Dummie Validando recurso
+[2026.05.25-14.52.09:036][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.52.09:090][990]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LiesOfPLevel/Blueprints/BP_Dummie] ([2] browsable assets)...
+[2026.05.25-14.52.09:110][990]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LiesOfPLevel/Blueprints/BP_Dummie.BP_Dummie]
+[2026.05.25-14.52.09:110][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/BP_Dummie]
+[2026.05.25-14.52.09:110][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LiesOfPLevel/Blueprints/BP_Dummie" FILE="E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset" SILENT=true
+[2026.05.25-14.52.09:116][990]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/BP_Dummie
+[2026.05.25-14.52.09:116][990]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_DummieDB73FDB04AB5416EFE37CCA10D9DD2D1.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset'
+[2026.05.25-14.52.09:125][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.596 ms (total: 5.69 sec)
+[2026.05.25-14.52.09:174][990]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.52.09:174][990]LogContentValidation: Enabled validators:
+[2026.05.25-14.52.09:174][990]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.52.09:174][990]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.52.09:174][990]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.52.09:174][990]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.52.09:174][990]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.52.09:174][990]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.52.09:174][990]AssetCheck: /Game/LiesOfPLevel/Blueprints/BP_Dummie Validando recurso
+[2026.05.25-14.53.37:813][484]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5412.173340
+[2026.05.25-14.53.38:813][487]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.25-14.53.38:813][487]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5412.839844, Update Interval: 349.434479
+[2026.05.25-14.53.43:220][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.53.43:277][750]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.53.43:277][750]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.53.43:300][750]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-14.53.43:301][750]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_SystemA38A44FE463BE618C0FA83A72FE4105B.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-14.53.43:311][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.254 ms (total: 5.78 sec)
+[2026.05.25-14.53.43:362][750]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.53.43:362][750]LogContentValidation: Enabled validators:
+[2026.05.25-14.53.43:362][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.53.43:362][750]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.53.43:362][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.53.43:362][750]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.53.43:362][750]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.53.43:362][750]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.53.43:362][750]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-14.53.52:474][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.53.52:525][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.53.52:525][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.53.52:548][580]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-14.53.52:549][580]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System25B48DCC42DFD6D854FEB384EA88B2CD.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-14.53.52:560][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.201 ms (total: 5.87 sec)
+[2026.05.25-14.53.52:610][580]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.53.52:610][580]LogContentValidation: Enabled validators:
+[2026.05.25-14.53.52:610][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.53.52:610][580]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.53.52:610][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.53.52:610][580]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.53.52:610][580]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.53.52:610][580]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.53.52:611][580]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-14.53.59:232][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.53.59:283][ 94]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.53.59:283][ 94]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.53.59:305][ 94]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-14.53.59:305][ 94]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System8E759402433D7DE668188DBE1FE97CA5.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-14.53.59:316][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.254 ms (total: 5.95 sec)
+[2026.05.25-14.53.59:367][ 94]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.53.59:367][ 94]LogContentValidation: Enabled validators:
+[2026.05.25-14.53.59:367][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.53.59:367][ 94]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.53.59:367][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.53.59:367][ 94]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.53.59:367][ 94]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.53.59:367][ 94]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.53.59:367][ 94]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-14.54.24:631][344]LogEditorTransaction: Undo Elimina los elementos seleccionados.
+[2026.05.25-14.54.24:924][349]LogEditorTransaction: Undo Crear vínculo entre pines
+[2026.05.25-14.54.57:878][ 17]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-14.54.57:878][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-14.54.57:931][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.05.25-14.56.18:935][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.56.19:004][106]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LiesOfPLevel/Blueprints/BP_Dummie] ([2] browsable assets)...
+[2026.05.25-14.56.19:025][106]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LiesOfPLevel/Blueprints/BP_Dummie.BP_Dummie]
+[2026.05.25-14.56.19:025][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/BP_Dummie]
+[2026.05.25-14.56.19:025][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LiesOfPLevel/Blueprints/BP_Dummie" FILE="E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset" SILENT=true
+[2026.05.25-14.56.19:032][106]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/BP_Dummie
+[2026.05.25-14.56.19:032][106]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_DummieE2AB4458466F19E7EFE1A3B88970945B.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset'
+[2026.05.25-14.56.19:041][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.371 ms (total: 6.05 sec)
+[2026.05.25-14.56.19:104][106]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.56.19:104][106]LogContentValidation: Enabled validators:
+[2026.05.25-14.56.19:104][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.56.19:104][106]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.56.19:104][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.56.19:104][106]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.56.19:104][106]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.56.19:104][106]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.56.19:104][106]AssetCheck: /Game/LiesOfPLevel/Blueprints/BP_Dummie Validando recurso
+[2026.05.25-14.56.36:145][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.56.36:202][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LiesOfPLevel/Blueprints/BP_Dummie] ([2] browsable assets)...
+[2026.05.25-14.56.36:202][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/BP_Dummie]
+[2026.05.25-14.56.36:202][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LiesOfPLevel/Blueprints/BP_Dummie" FILE="E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset" SILENT=true
+[2026.05.25-14.56.36:208][355]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/BP_Dummie
+[2026.05.25-14.56.36:209][355]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_Dummie1FBA89FA4AC1296B2B87F7BD208AF33C.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset'
+[2026.05.25-14.56.36:217][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.708 ms (total: 6.13 sec)
+[2026.05.25-14.56.36:258][355]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.56.36:258][355]LogContentValidation: Enabled validators:
+[2026.05.25-14.56.36:258][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.56.36:258][355]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.56.36:258][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.56.36:258][355]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.56.36:258][355]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.56.36:258][355]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.56.36:258][355]AssetCheck: /Game/LiesOfPLevel/Blueprints/BP_Dummie Validando recurso
+[2026.05.25-14.57.01:236][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.57.01:274][  7]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem] ([2] browsable assets)...
+[2026.05.25-14.57.01:274][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem]
+[2026.05.25-14.57.01:280][  7]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem
+[2026.05.25-14.57.01:280][  7]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_DamageSystem50FF67D948E4D6B19351B1BB83019E8A.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem.uasset'
+[2026.05.25-14.57.01:289][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.507 ms (total: 6.18 sec)
+[2026.05.25-14.57.01:345][  7]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.57.01:345][  7]LogContentValidation: Enabled validators:
+[2026.05.25-14.57.01:345][  7]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.57.01:345][  7]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.57.01:345][  7]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.57.01:345][  7]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.57.01:345][  7]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.57.01:345][  7]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.57.01:345][  7]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_DamageSystem Validando recurso
+[2026.05.25-14.57.25:832][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.57.25:875][ 40]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LiesOfPLevel/Blueprints/BP_Dummie] ([2] browsable assets)...
+[2026.05.25-14.57.25:889][ 40]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LiesOfPLevel/Blueprints/BP_Dummie.BP_Dummie]
+[2026.05.25-14.57.25:889][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/BP_Dummie]
+[2026.05.25-14.57.25:889][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LiesOfPLevel/Blueprints/BP_Dummie" FILE="E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset" SILENT=true
+[2026.05.25-14.57.25:895][ 40]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/BP_Dummie
+[2026.05.25-14.57.25:895][ 40]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_Dummie51CAAF1C41B81EB4AF95A1BAECA93253.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset'
+[2026.05.25-14.57.25:904][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.102 ms (total: 6.25 sec)
+[2026.05.25-14.57.25:959][ 40]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.57.25:959][ 40]LogContentValidation: Enabled validators:
+[2026.05.25-14.57.25:959][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.57.25:959][ 40]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.57.25:959][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.57.25:959][ 40]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.57.25:959][ 40]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.57.25:959][ 40]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.57.25:959][ 40]AssetCheck: /Game/LiesOfPLevel/Blueprints/BP_Dummie Validando recurso
+[2026.05.25-14.57.35:835][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.57.35:888][711]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LiesOfPLevel/Blueprints/BP_Dummie] ([2] browsable assets)...
+[2026.05.25-14.57.35:902][711]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LiesOfPLevel/Blueprints/BP_Dummie.BP_Dummie]
+[2026.05.25-14.57.35:902][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/BP_Dummie]
+[2026.05.25-14.57.35:902][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LiesOfPLevel/Blueprints/BP_Dummie" FILE="E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset" SILENT=true
+[2026.05.25-14.57.35:907][711]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/BP_Dummie
+[2026.05.25-14.57.35:907][711]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_Dummie5365922747E8445106559CB1C8EB0F65.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset'
+[2026.05.25-14.57.35:917][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.648 ms (total: 6.33 sec)
+[2026.05.25-14.57.35:972][711]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.57.35:972][711]LogContentValidation: Enabled validators:
+[2026.05.25-14.57.35:972][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.57.35:972][711]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.57.35:972][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.57.35:972][711]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.57.35:972][711]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.57.35:972][711]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.57.35:972][711]AssetCheck: /Game/LiesOfPLevel/Blueprints/BP_Dummie Validando recurso
+[2026.05.25-14.57.52:693][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.57.52:742][  7]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LiesOfPLevel/Blueprints/BP_Dummie] ([2] browsable assets)...
+[2026.05.25-14.57.52:756][  7]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LiesOfPLevel/Blueprints/BP_Dummie.BP_Dummie]
+[2026.05.25-14.57.52:756][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/BP_Dummie]
+[2026.05.25-14.57.52:756][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LiesOfPLevel/Blueprints/BP_Dummie" FILE="E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset" SILENT=true
+[2026.05.25-14.57.52:762][  7]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/BP_Dummie
+[2026.05.25-14.57.52:763][  7]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_Dummie1A2876C646A2DFF03739FE96EE9FE7E3.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset'
+[2026.05.25-14.57.52:773][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.422 ms (total: 6.41 sec)
+[2026.05.25-14.57.52:825][  7]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.57.52:825][  7]LogContentValidation: Enabled validators:
+[2026.05.25-14.57.52:825][  7]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.57.52:825][  7]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.57.52:825][  7]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.57.52:825][  7]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.57.52:825][  7]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.57.52:825][  7]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.57.52:825][  7]AssetCheck: /Game/LiesOfPLevel/Blueprints/BP_Dummie Validando recurso
+[2026.05.25-14.57.56:951][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.57.57:037][ 80]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LiesOfPLevel/Blueprints/BP_Dummie] ([2] browsable assets)...
+[2026.05.25-14.57.57:037][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/BP_Dummie]
+[2026.05.25-14.57.57:037][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LiesOfPLevel/Blueprints/BP_Dummie" FILE="E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset" SILENT=true
+[2026.05.25-14.57.57:042][ 80]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/BP_Dummie
+[2026.05.25-14.57.57:042][ 80]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_Dummie0A0F1926466D958B334835B6B7175A7D.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/BP_Dummie.uasset'
+[2026.05.25-14.57.57:052][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.863 ms (total: 6.51 sec)
+[2026.05.25-14.57.57:094][ 80]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.57.57:094][ 80]LogContentValidation: Enabled validators:
+[2026.05.25-14.57.57:094][ 80]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.57.57:094][ 80]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.57.57:094][ 80]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.57.57:094][ 80]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.57.57:094][ 80]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.57.57:094][ 80]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.57.57:094][ 80]AssetCheck: /Game/LiesOfPLevel/Blueprints/BP_Dummie Validando recurso
+[2026.05.25-14.58.09:719][223]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-14.58.09:779][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-14.58.09:779][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-14.58.09:801][223]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-14.58.09:801][223]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System920F15B042F62CC69BA0F5A15B2178A2.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-14.58.09:812][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.681 ms (total: 6.61 sec)
+[2026.05.25-14.58.09:862][223]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-14.58.09:862][223]LogContentValidation: Enabled validators:
+[2026.05.25-14.58.09:862][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-14.58.09:862][223]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-14.58.09:862][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-14.58.09:862][223]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-14.58.09:862][223]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-14.58.09:862][223]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-14.58.09:862][223]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-15.00.03:067][501]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-15.00.03:100][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-15.00.03:100][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-15.00.03:123][501]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-15.00.03:123][501]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_SystemE7A8C727420852ADDDD3B1AEE8F211A9.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-15.00.03:133][501]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.798 ms (total: 6.67 sec)
+[2026.05.25-15.00.03:184][501]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-15.00.03:184][501]LogContentValidation: Enabled validators:
+[2026.05.25-15.00.03:184][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-15.00.03:184][501]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-15.00.03:184][501]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-15.00.03:184][501]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-15.00.03:184][501]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-15.00.03:184][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-15.00.03:184][501]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-15.00.25:511][222]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5819.843750
+[2026.05.25-15.00.25:674][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.25-15.00.25:674][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5819.994141, Update Interval: 303.885620
+[2026.05.25-15.00.41:855][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-15.00.41:956][496]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-15.00.41:956][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-15.00.41:980][496]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-15.00.41:981][496]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_SystemEDACD94347EF66D6B5626FB5E66CFAED.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-15.00.41:992][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.657 ms (total: 6.81 sec)
+[2026.05.25-15.00.42:037][496]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-15.00.42:037][496]LogContentValidation: Enabled validators:
+[2026.05.25-15.00.42:037][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-15.00.42:037][496]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-15.00.42:037][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-15.00.42:037][496]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-15.00.42:037][496]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-15.00.42:037][496]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-15.00.42:037][496]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-15.01.05:962][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.05.25-15.01.05:965][367]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LiesOfPLevel/MainLevel' took 0.035
+[2026.05.25-15.01.05:965][367]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-15.01.05:965][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-15.01.05:987][367]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System_Auto5
+[2026.05.25-15.01.05:987][367]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System_Auto58F203D4C4B315DDD9A6AC8A5770EDBE6.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/Autosaves/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System_Auto5.uasset'
+[2026.05.25-15.01.05:989][367]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Attack] ([1] browsable assets)...
+[2026.05.25-15.01.05:989][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Attack]
+[2026.05.25-15.01.05:990][367]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_Attack_Auto5
+[2026.05.25-15.01.05:990][367]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/IA_Attack_Auto55E16824F4DB69E4F3CAC14B7C5AE5E01.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/Autosaves/Game/Input/Actions/IA_Attack_Auto5.uasset'
+[2026.05.25-15.01.05:991][367]LogFileHelpers: Auto-saving content packages took 0.025
+[2026.05.25-15.01.26:939][959]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-15.01.26:982][959]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-15.01.26:982][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-15.01.27:005][959]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-15.01.27:006][959]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System31C181C548352B567065F4A51E10114A.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-15.01.27:016][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.932 ms (total: 6.89 sec)
+[2026.05.25-15.01.27:065][959]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-15.01.27:066][959]LogContentValidation: Enabled validators:
+[2026.05.25-15.01.27:066][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-15.01.27:066][959]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-15.01.27:066][959]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-15.01.27:066][959]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-15.01.27:066][959]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-15.01.27:066][959]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-15.01.27:066][959]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-15.01.53:625][135]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-15.01.53:669][135]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-15.01.53:669][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-15.01.53:692][135]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-15.01.53:692][135]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_SystemEDBFFE3F4ACD552142BD65A53A693DEF.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-15.01.53:705][135]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.474 ms (total: 6.97 sec)
+[2026.05.25-15.01.53:738][135]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-15.01.53:738][135]LogContentValidation: Enabled validators:
+[2026.05.25-15.01.53:738][135]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-15.01.53:738][135]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-15.01.53:738][135]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-15.01.53:738][135]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-15.01.53:738][135]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-15.01.53:738][135]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-15.01.53:738][135]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-15.01.59:504][512]LogDebuggerCommands: Repeating last play command: Nueva ventana del editor (PIE)
+[2026.05.25-15.01.59:510][512]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.25-15.01.59:510][512]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.05.25-15.01.59:510][512]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 625 us (total: 13.995 ms)
+[2026.05.25-15.01.59:511][512]LogPlayLevel: [PlayLevel] Compiling BP_Dummie before play...
+[2026.05.25-15.01.59:511][512]LogPlayLevel: [PlayLevel]   Compiling BPC_DamageSystem as a dependent...
+[2026.05.25-15.01.59:572][512]LogPlayLevel: [PlayLevel] Compiling BPC_Combat_System before play...
+[2026.05.25-15.01.59:669][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.05.25-15.01.59:673][512]LogPlayLevel: PlayLevel: Blueprint regeneration took 162 ms (3 blueprints)
+[2026.05.25-15.01.59:673][512]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.25-15.01.59:680][512]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.25-15.01.59:681][512]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.105 ms (total: 25.555 ms)
+[2026.05.25-15.01.59:681][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007560s)
+[2026.05.25-15.01.59:681][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.007591s)
+[2026.05.25-15.01.59:709][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.05.25-15.01.59:710][512]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.05.25-15.01.59:712][512]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.25-15.01.59:712][512]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.25-15.01.59:712][512]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.25-15.01.59:712][512]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.25-15.01.59:713][512]LogWorldPartition: Display: WorldPartition initialize took 1.444 ms (total: 89.716 ms)
+[2026.05.25-15.01.59:713][512]LogPlayLevel: PIE: World Init took: (0.003263s)
+[2026.05.25-15.01.59:714][512]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.05.25-15.01.59:714][512]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.25-15.01.59:714][512]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.25-15.01.59:714][512]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.25-15.01.59:714][512]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.25-15.01.59:714][512]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.25-15.01.59:714][512]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.25-15.01.59:714][512]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.25-15.01.59:714][512]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.25-15.01.59:714][512]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.25-15.01.59:714][512]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.25-15.01.59:714][512]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.25-15.01.59:718][512]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.25-15.01.59:740][512]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.25-15.01.59:740][512]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.25-15.01.59:740][512]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.25-15.01.59:740][512]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.25-15.01.59:741][512]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.05.25-15.01.59:741][512]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.05.25-15.01.59:743][512]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.05.25-15.01.59:743][512]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.05.25-15.01.59:743][512]LogInit: FAudioDevice initialized with ID 22.
+[2026.05.25-15.01.59:743][512]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainLevel'.
+[2026.05.25-15.01.59:743][512]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.05.25-15.01.59:770][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-15.01.59:770][512]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.25-15.01.59:773][512]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.05.25-17.01.59
+[2026.05.25-15.01.59:774][512]LogWorld: Bringing up level for play took: 0.003331
+[2026.05.25-15.01.59:776][512]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.05.25-15.01.59:783][512]PIE: El servidor ha iniciado sesión
+[2026.05.25-15.01.59:786][512]PIE: Tiempo de inicio total de la reproducción en el editor de 0,278 segundos.
+[2026.05.25-15.02.17:198][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-15.02.17:198][687]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.25-15.02.17:199][687]LogSlate: Window 'Previsualización de LiesOfP_Level [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2026.05.25-15.02.17:206][687]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-15.02.17:206][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-15.02.17:206][687]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.05.25-15.02.17:208][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.25-15.02.17:212][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-15.02.17:241][687]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.05.25-15.02.17:241][687]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.05.25-15.02.17:242][687]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.05.25-15.02.17:250][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.05.25-15.02.17:285][688]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.05.25-15.02.18:803][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-15.02.18:853][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-15.02.18:853][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-15.02.18:876][759]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-15.02.18:878][759]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System9E535DFA4A1474003DD290852D520090.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-15.02.18:888][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.501 ms (total: 7.05 sec)
+[2026.05.25-15.02.18:937][759]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-15.02.18:937][759]LogContentValidation: Enabled validators:
+[2026.05.25-15.02.18:937][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-15.02.18:937][759]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-15.02.18:937][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-15.02.18:937][759]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-15.02.18:937][759]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-15.02.18:937][759]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-15.02.18:937][759]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-15.03.18:069][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-15.03.18:126][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-15.03.18:126][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-15.03.18:149][796]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-15.03.18:150][796]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System2CCE22E54158E6A202A8C88E6CB05D32.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-15.03.18:160][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.337 ms (total: 7.14 sec)
+[2026.05.25-15.03.18:204][796]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-15.03.18:204][796]LogContentValidation: Enabled validators:
+[2026.05.25-15.03.18:204][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-15.03.18:204][796]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-15.03.18:204][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-15.03.18:204][796]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-15.03.18:204][796]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-15.03.18:204][796]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-15.03.18:204][796]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
+[2026.05.25-15.03.20:175][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-15.03.20:222][966]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System] ([2] browsable assets)...
+[2026.05.25-15.03.20:222][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System]
+[2026.05.25-15.03.20:244][966]LogSavePackage: Moving output files for package: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System
+[2026.05.25-15.03.20:244][966]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BPC_Combat_System68C64BE34CFDAA7E0D9151A810EFFD35.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.uasset'
+[2026.05.25-15.03.20:255][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.385 ms (total: 7.22 sec)
+[2026.05.25-15.03.20:291][966]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-15.03.20:291][966]LogContentValidation: Enabled validators:
+[2026.05.25-15.03.20:291][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-15.03.20:291][966]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-15.03.20:291][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-15.03.20:291][966]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-15.03.20:291][966]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-15.03.20:291][966]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-15.03.20:291][966]AssetCheck: /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System Validando recurso
