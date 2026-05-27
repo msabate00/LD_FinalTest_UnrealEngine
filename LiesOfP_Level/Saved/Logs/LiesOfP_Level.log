@@ -2252,3 +2252,1198 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.05.27-17.51.00:258][886]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.27-17.51.00:258][886]AssetCheck: /Game/LiesOfPLevel/MainLevel Validando recurso
 [2026.05.27-17.51.17:732][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.05.27-17.52.13:392][906]LogDebuggerCommands: Repeating last play command: Nueva ventana del editor (PIE)
+[2026.05.27-17.52.13:398][906]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.27-17.52.13:398][906]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.05.27-17.52.13:399][906]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 1.122 ms (total: 9.189 ms)
+[2026.05.27-17.52.13:402][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.27-17.52.13:402][906]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.27-17.52.13:462][906]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.27-17.52.13:468][906]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.605 ms (total: 39.442 ms)
+[2026.05.27-17.52.13:468][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066194s)
+[2026.05.27-17.52.13:468][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.066235s)
+[2026.05.27-17.52.13:498][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.05.27-17.52.13:499][906]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.05.27-17.52.13:501][906]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.27-17.52.13:501][906]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.27-17.52.13:501][906]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.27-17.52.13:501][906]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.27-17.52.13:506][906]LogWorldPartition: Display: WorldPartition initialize took 5.541 ms (total: 351.893 ms)
+[2026.05.27-17.52.13:506][906]LogPlayLevel: PIE: World Init took: (0.007659s)
+[2026.05.27-17.52.13:507][906]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.05.27-17.52.13:507][906]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.27-17.52.13:507][906]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.27-17.52.13:507][906]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.27-17.52.13:507][906]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.27-17.52.13:507][906]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.27-17.52.13:507][906]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.27-17.52.13:507][906]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.27-17.52.13:507][906]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.27-17.52.13:507][906]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.27-17.52.13:507][906]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.27-17.52.13:507][906]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.27-17.52.13:510][906]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.27-17.52.13:526][906]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.27-17.52.13:526][906]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.27-17.52.13:526][906]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.27-17.52.13:526][906]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.27-17.52.13:526][906]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.05.27-17.52.13:526][906]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.05.27-17.52.13:528][906]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.05.27-17.52.13:528][906]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.05.27-17.52.13:528][906]LogInit: FAudioDevice initialized with ID 10.
+[2026.05.27-17.52.13:528][906]LogAudio: Display: Audio Device (ID: 10) registered with world 'MainLevel'.
+[2026.05.27-17.52.13:528][906]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.05.27-17.52.13:556][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.27-17.52.13:556][906]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.27-17.52.13:564][906]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.05.27-19.52.13
+[2026.05.27-17.52.13:565][906]LogWorld: Bringing up level for play took: 0.008677
+[2026.05.27-17.52.13:568][906]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.05.27-17.52.13:575][906]PIE: El servidor ha iniciado sesión
+[2026.05.27-17.52.13:579][906]PIE: Tiempo de inicio total de la reproducción en el editor de 0,181 segundos.
+[2026.05.27-17.52.18:479][406]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-17.52.20:145][581]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-17.52.21:572][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.27-17.52.21:572][709]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.27-17.52.21:572][709]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.27-17.52.21:573][709]LogSlate: Window 'Previsualización de LiesOfP_Level [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2026.05.27-17.52.21:585][709]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.05.27-17.52.21:587][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-17.52.21:587][709]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.05.27-17.52.21:588][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.27-17.52.21:593][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-17.52.21:621][709]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.05.27-17.52.21:621][709]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.05.27-17.52.21:622][709]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.05.27-17.52.21:630][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.05.27-17.52.21:811][710]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.05.27-17.52.23:461][864]LogSlate: Window 'Registro de mensajes' being destroyed
+[2026.05.27-17.52.23:469][864]LogSlate: Window 'Registro de mensajes' being destroyed
+[2026.05.27-17.52.54:016][128]LogDebuggerCommands: Repeating last play command: Nueva ventana del editor (PIE)
+[2026.05.27-17.52.54:021][128]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.27-17.52.54:021][128]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.05.27-17.52.54:022][128]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 1.054 ms (total: 10.244 ms)
+[2026.05.27-17.52.54:025][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.27-17.52.54:025][128]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.27-17.52.54:088][128]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.27-17.52.54:092][128]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.475 ms (total: 43.918 ms)
+[2026.05.27-17.52.54:092][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066961s)
+[2026.05.27-17.52.54:092][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.067000s)
+[2026.05.27-17.52.54:120][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.05.27-17.52.54:123][128]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.05.27-17.52.54:125][128]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.27-17.52.54:125][128]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.27-17.52.54:125][128]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.27-17.52.54:125][128]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.27-17.52.54:131][128]LogWorldPartition: Display: WorldPartition initialize took 5.980 ms (total: 357.874 ms)
+[2026.05.27-17.52.54:131][128]LogPlayLevel: PIE: World Init took: (0.007983s)
+[2026.05.27-17.52.54:132][128]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.05.27-17.52.54:132][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.27-17.52.54:132][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.27-17.52.54:132][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.27-17.52.54:132][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.27-17.52.54:132][128]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.27-17.52.54:132][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.27-17.52.54:132][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.27-17.52.54:132][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.27-17.52.54:132][128]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.27-17.52.54:132][128]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.27-17.52.54:132][128]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.27-17.52.54:134][128]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.27-17.52.54:149][128]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.27-17.52.54:149][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.27-17.52.54:149][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.27-17.52.54:149][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.27-17.52.54:149][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.05.27-17.52.54:149][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.05.27-17.52.54:151][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.05.27-17.52.54:151][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.05.27-17.52.54:151][128]LogInit: FAudioDevice initialized with ID 11.
+[2026.05.27-17.52.54:151][128]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainLevel'.
+[2026.05.27-17.52.54:151][128]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.05.27-17.52.54:205][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.27-17.52.54:205][128]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.27-17.52.54:214][128]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.05.27-19.52.54
+[2026.05.27-17.52.54:216][128]LogWorld: Bringing up level for play took: 0.010134
+[2026.05.27-17.52.54:218][128]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.05.27-17.52.54:226][128]PIE: El servidor ha iniciado sesión
+[2026.05.27-17.52.54:230][128]PIE: Tiempo de inicio total de la reproducción en el editor de 0,208 segundos.
+[2026.05.27-17.53.07:446][493]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_0.StateTreeTask_FaceLocation_C_2
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:00B2
+[2026.05.27-17.53.07:446][493]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-17.53.09:316][688]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_0.StateTreeTask_FaceLocation_C_2
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:0050
+[2026.05.27-17.53.09:316][688]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-17.53.09:685][727]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-17.53.11:509][921]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-17.53.11:821][954]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_0.StateTreeTask_FaceLocation_C_0
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:00B2
+[2026.05.27-17.53.11:821][954]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-17.53.12:654][ 39]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_0.StateTreeTask_FaceLocation_C_0
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:0050
+[2026.05.27-17.53.12:654][ 39]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-17.53.22:741][ 69]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-17.53.23:697][170]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-17.53.28:161][642]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_1.StateTreeTask_FaceLocation_C_0
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:00B2
+[2026.05.27-17.53.28:161][642]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-17.53.29:927][831]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_1.StateTreeTask_FaceLocation_C_0
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:0050
+[2026.05.27-17.53.29:927][831]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-17.53.31:366][981]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_1.StateTreeTask_FaceLocation_C_2
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:00B2
+[2026.05.27-17.53.31:366][981]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-17.53.32:881][137]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_1.StateTreeTask_FaceLocation_C_2
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:0050
+[2026.05.27-17.53.32:881][137]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-17.53.34:691][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.27-17.53.34:691][320]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.27-17.53.34:691][320]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.27-17.53.34:692][320]LogSlate: Window 'Previsualización de LiesOfP_Level [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2026.05.27-17.53.34:698][320]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.05.27-17.53.34:699][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-17.53.34:699][320]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.05.27-17.53.34:700][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.27-17.53.34:705][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-17.53.34:736][320]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.05.27-17.53.34:736][320]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.05.27-17.53.34:737][320]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.05.27-17.53.34:745][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.05.27-17.53.34:919][321]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.05.27-17.53.36:481][441]LogSlate: Window 'Registro de mensajes' being destroyed
+[2026.05.27-17.53.36:488][441]LogSlate: Window 'Registro de mensajes' being destroyed
+[2026.05.27-17.53.37:524][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-17.53.37:598][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.05.27-17.53.37:629][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.05.27-17.53.37:659][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.05.27-17.53.37:670][540]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/1/4E/M39JSVWVYIW1IDSUXBRLBY
+[2026.05.27-17.53.37:670][540]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/M39JSVWVYIW1IDSUXBRLBY2096838A45158A701AC08A869BBC94AA.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/1/4E/M39JSVWVYIW1IDSUXBRLBY.uasset'
+[2026.05.27-17.53.37:679][540]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/B/KS/G2S3AFHY8U6D1PYU0SQ323
+[2026.05.27-17.53.37:679][540]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/G2S3AFHY8U6D1PYU0SQ3232F0E47B64A52DB8194F293AB83C08821.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/B/KS/G2S3AFHY8U6D1PYU0SQ323.uasset'
+[2026.05.27-17.53.37:687][540]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/B/VO/TSH09HTTPMAVS6DZD1BK2I
+[2026.05.27-17.53.37:687][540]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/TSH09HTTPMAVS6DZD1BK2I47F913D74997F1DDACE87AB6BE2B633B.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/B/VO/TSH09HTTPMAVS6DZD1BK2I.uasset'
+[2026.05.27-17.53.37:699][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.282 ms (total: 1.25 sec)
+[2026.05.27-17.53.37:746][540]LogContentValidation: Display: Starting to validate 3 assets
+[2026.05.27-17.53.37:746][540]LogContentValidation: Enabled validators:
+[2026.05.27-17.53.37:747][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-17.53.37:747][540]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-17.53.37:747][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-17.53.37:747][540]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-17.53.37:747][540]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-17.53.37:747][540]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-17.53.37:747][540]AssetCheck: /Game/LiesOfPLevel/MainLevel Validando recurso
+[2026.05.27-17.54.05:430][200]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy
+[2026.05.27-17.54.05:431][200]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.05.27-17.54.43:411][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.05.27-17.54.43:424][905]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LiesOfPLevel/MainLevel/D/S0/K58CG6C34BU10C4DS6PORP_Auto1
+[2026.05.27-17.54.43:424][905]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/K58CG6C34BU10C4DS6PORP_Auto1C8437A5B46DF9FD1CDA86F9A988B30D5.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/Autosaves/Game/__ExternalActors__/LiesOfPLevel/MainLevel/D/S0/K58CG6C34BU10C4DS6PORP_Auto1.uasset'
+[2026.05.27-17.54.43:424][905]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LiesOfPLevel/MainLevel' took 0.054
+[2026.05.27-17.54.43:424][905]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2026.05.27-17.55.19:759][127]LogSlate: Window 'BP_CombatEnemy' being destroyed
+[2026.05.27-17.55.19:766][127]LogSlate: Window 'BP_CombatEnemy' being destroyed
+[2026.05.27-17.55.19:769][127]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.05.27-17.55.19:769][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-17.55.19:841][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.05.27-17.55.22:834][437]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner.BP_Combat_EnemySpawner
+[2026.05.27-17.55.22:835][437]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.05.27-17.55.37:728][308]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.05.27-17.55.37:728][308]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.05.27-17.55.44:183][558]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LiesOfPLevel/Blueprints/Components/BPC_Combat_System.BPC_Combat_System
+[2026.05.27-17.55.44:183][558]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.05.27-17.56.01:687][743]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2494.937500
+[2026.05.27-17.56.02:687][746]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.27-17.56.02:687][746]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2495.602539, Update Interval: 323.333832
+[2026.05.27-17.59.52:545][295]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy
+[2026.05.27-17.59.52:545][295]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.05.27-18.00.38:068][588]LogSlate: Took 0.006888 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.05.27-18.02.11:668][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2864.925537
+[2026.05.27-18.02.11:981][135]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.27-18.02.11:981][135]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2865.219727, Update Interval: 347.755371
+[2026.05.27-18.06.03:385][273]LogSlate: Window 'Cambiar tipo de variable' being destroyed
+[2026.05.27-18.06.21:295][621]LogSlate: Window 'Buscar en blueprints' being destroyed
+[2026.05.27-18.06.21:303][621]LogSlate: Window 'Buscar en blueprints' being destroyed
+[2026.05.27-18.08.50:162][ 83]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3263.423096
+[2026.05.27-18.08.50:327][ 93]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.27-18.08.50:327][ 93]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3263.571777, Update Interval: 340.103149
+[2026.05.27-18.09.56:002][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.09.56:432][497]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.09.56:445][497]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.09.56:445][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.09.56:491][497]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.09.56:492][497]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemyA9D54A73408A0B69642A328D98A4CD39.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.09.56:529][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 527.777 ms (total: 1.78 sec)
+[2026.05.27-18.09.56:584][497]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.09.56:584][497]LogContentValidation: Enabled validators:
+[2026.05.27-18.09.56:584][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.09.56:584][497]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.09.56:584][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.09.56:584][497]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.09.56:584][497]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.09.56:584][497]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.09.56:584][497]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.09.56:604][497]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.27-18.12.50:291][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.12.50:338][484]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.12.50:351][484]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.12.50:351][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.12.50:401][484]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.12.50:401][484]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemyFA0A0CEF4EA096BBF55DA8940033D112.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.12.50:411][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.025 ms (total: 1.90 sec)
+[2026.05.27-18.12.50:462][484]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.12.50:462][484]LogContentValidation: Enabled validators:
+[2026.05.27-18.12.50:462][484]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.12.50:462][484]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.12.50:462][484]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.12.50:462][484]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.12.50:462][484]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.12.50:462][484]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.12.50:462][484]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.13.55:743][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.05.27-18.13.55:746][842]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LiesOfPLevel/MainLevel' took 0.118
+[2026.05.27-18.13.55:748][842]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.13.55:761][842]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.13.55:761][842]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.13.55:808][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy_Auto2
+[2026.05.27-18.13.55:809][842]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemy_Auto2836347854666E7F1551B8AAB0C764BD4.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/Autosaves/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy_Auto2.uasset'
+[2026.05.27-18.13.55:809][842]LogFileHelpers: Auto-saving content packages took 0.062
+[2026.05.27-18.14.17:161][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.14.17:194][153]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.14.17:207][153]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.14.17:207][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.14.17:255][153]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.14.17:255][153]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemy4843B1D549D2F2F4FCC63C8F19D5F775.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.14.17:267][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.750 ms (total: 2.01 sec)
+[2026.05.27-18.14.17:322][153]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.14.17:322][153]LogContentValidation: Enabled validators:
+[2026.05.27-18.14.17:322][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.14.17:322][153]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.14.17:322][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.14.17:322][153]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.14.17:322][153]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.14.17:322][153]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.14.17:322][153]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.15.07:945][277]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3641.195801
+[2026.05.27-18.15.08:095][287]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.27-18.15.08:095][287]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3641.329834, Update Interval: 345.213776
+[2026.05.27-18.15.21:650][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.15.21:693][ 78]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.15.21:706][ 78]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.15.21:706][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.15.21:756][ 78]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.15.21:756][ 78]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemy221668674B5AD80938D5699BF99498D2.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.15.21:768][ 78]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.840 ms (total: 2.12 sec)
+[2026.05.27-18.15.21:818][ 78]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.15.21:818][ 78]LogContentValidation: Enabled validators:
+[2026.05.27-18.15.21:818][ 78]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.15.21:818][ 78]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.15.21:818][ 78]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.15.21:818][ 78]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.15.21:818][ 78]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.15.21:818][ 78]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.15.21:818][ 78]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.15.50:362][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.15.50:409][982]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.15.50:421][982]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.15.50:421][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.15.50:472][982]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.15.50:472][982]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemyFCDC42B14E17F4B2C581939C892C25A7.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.15.50:482][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.592 ms (total: 2.24 sec)
+[2026.05.27-18.15.50:533][982]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.15.50:533][982]LogContentValidation: Enabled validators:
+[2026.05.27-18.15.50:533][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.15.50:533][982]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.15.50:533][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.15.50:533][982]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.15.50:533][982]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.15.50:533][982]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.15.50:533][982]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.16.23:227][103]LogDerivedDataCache: C:/Users/aitra/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.27-18.17.04:178][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.17.04:224][517]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.17.04:236][517]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.17.04:236][517]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.17.04:287][517]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.17.04:287][517]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemy8E5BBCFA4F6C7C59F3AE638566AA00BD.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.17.04:298][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.563 ms (total: 2.37 sec)
+[2026.05.27-18.17.04:349][517]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.17.04:349][517]LogContentValidation: Enabled validators:
+[2026.05.27-18.17.04:349][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.17.04:349][517]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.17.04:349][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.17.04:349][517]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.17.04:349][517]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.17.04:349][517]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.17.04:349][517]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.17.18:241][366]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.17.18:283][366]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.17.18:283][366]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.17.18:335][366]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.17.18:335][366]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemy7DBF7E5A4E10DF81F79900A048F3C846.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.17.18:345][366]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.853 ms (total: 2.47 sec)
+[2026.05.27-18.17.18:393][366]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.17.18:393][366]LogContentValidation: Enabled validators:
+[2026.05.27-18.17.18:393][366]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.17.18:393][366]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.17.18:393][366]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.17.18:393][366]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.17.18:393][366]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.17.18:393][366]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.17.18:393][366]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.19.19:458][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.19.19:503][336]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.19.19:517][336]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.19.19:517][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.19.19:570][336]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.19.19:570][336]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemy4C4529884613BB8371CCE89EB8F2D1A1.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.19.19:582][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.856 ms (total: 2.59 sec)
+[2026.05.27-18.19.19:631][336]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.19.19:631][336]LogContentValidation: Enabled validators:
+[2026.05.27-18.19.19:631][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.19.19:631][336]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.19.19:631][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.19.19:631][336]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.19.19:631][336]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.19.19:631][336]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.19.19:631][336]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.20.46:231][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.20.46:279][484]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.20.46:292][484]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.20.46:292][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.20.46:343][484]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.20.46:343][484]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemy37A6B1A34DBE627445F726BD5DEAE19D.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.20.46:354][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.976 ms (total: 2.72 sec)
+[2026.05.27-18.20.46:404][484]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.20.46:404][484]LogContentValidation: Enabled validators:
+[2026.05.27-18.20.46:404][484]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.20.46:404][484]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.20.46:404][484]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.20.46:404][484]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.20.46:404][484]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.20.46:404][484]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.20.46:404][484]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.21.00:111][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.21.00:159][297]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.21.00:159][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.21.00:212][297]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.21.00:213][297]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemy1CA34B404232DB587D13EA8C95EA0ED1.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.21.00:225][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.082 ms (total: 2.83 sec)
+[2026.05.27-18.21.00:267][297]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.21.00:267][297]LogContentValidation: Enabled validators:
+[2026.05.27-18.21.00:267][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.21.00:267][297]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.21.00:267][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.21.00:267][297]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.21.00:267][297]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.21.00:267][297]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.21.00:267][297]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.21.24:073][769]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4017.313232
+[2026.05.27-18.21.24:248][779]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.27-18.21.24:248][779]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4017.469727, Update Interval: 344.680939
+[2026.05.27-18.22.23:285][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.22.23:331][229]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.22.23:344][229]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.22.23:344][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.22.23:397][229]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.22.23:397][229]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemyC886CF4D47A555D85DC31C99C06700F2.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.22.23:408][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.805 ms (total: 2.95 sec)
+[2026.05.27-18.22.23:455][229]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.22.23:455][229]LogContentValidation: Enabled validators:
+[2026.05.27-18.22.23:455][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.22.23:455][229]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.22.23:455][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.22.23:455][229]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.22.23:455][229]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.22.23:455][229]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.22.23:455][229]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.22.25:216][335]LogDebuggerCommands: Repeating last play command: Nueva ventana del editor (PIE)
+[2026.05.27-18.22.25:222][335]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.27-18.22.25:222][335]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.05.27-18.22.25:223][335]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 1.159 ms (total: 11.403 ms)
+[2026.05.27-18.22.25:237][335]LogPlayLevel: [PlayLevel] Compiling BP_CombatEnemy before play...
+[2026.05.27-18.22.25:447][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.05.27-18.22.25:451][335]LogPlayLevel: PlayLevel: Blueprint regeneration took 225 ms (1 blueprints)
+[2026.05.27-18.22.25:451][335]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.27-18.22.25:514][335]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.27-18.22.25:520][335]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.179 ms (total: 49.098 ms)
+[2026.05.27-18.22.25:520][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068032s)
+[2026.05.27-18.22.25:520][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.068067s)
+[2026.05.27-18.22.25:552][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.05.27-18.22.25:554][335]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.05.27-18.22.25:556][335]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.27-18.22.25:556][335]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.27-18.22.25:556][335]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.27-18.22.25:556][335]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.27-18.22.25:561][335]LogWorldPartition: Display: WorldPartition initialize took 5.784 ms (total: 363.658 ms)
+[2026.05.27-18.22.25:561][335]LogPlayLevel: PIE: World Init took: (0.007849s)
+[2026.05.27-18.22.25:562][335]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.05.27-18.22.25:562][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.27-18.22.25:562][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.27-18.22.25:562][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.27-18.22.25:562][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.27-18.22.25:562][335]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.27-18.22.25:562][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.27-18.22.25:562][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.27-18.22.25:562][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.27-18.22.25:562][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.27-18.22.25:562][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.27-18.22.25:562][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.27-18.22.25:565][335]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.27-18.22.25:581][335]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.27-18.22.25:582][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.27-18.22.25:582][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.27-18.22.25:582][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.27-18.22.25:582][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.05.27-18.22.25:582][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.05.27-18.22.25:585][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.05.27-18.22.25:585][335]LogInit: FAudioDevice initialized with ID 12.
+[2026.05.27-18.22.25:585][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.05.27-18.22.25:585][335]LogAudio: Display: Audio Device (ID: 12) registered with world 'MainLevel'.
+[2026.05.27-18.22.25:585][335]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.05.27-18.22.25:636][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.27-18.22.25:637][335]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.27-18.22.25:644][335]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.05.27-20.22.25
+[2026.05.27-18.22.25:645][335]LogWorld: Bringing up level for play took: 0.008381
+[2026.05.27-18.22.25:647][335]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.05.27-18.22.25:655][335]PIE: El servidor ha iniciado sesión
+[2026.05.27-18.22.25:660][335]PIE: Tiempo de inicio total de la reproducción en el editor de 0,439 segundos.
+[2026.05.27-18.22.30:622][604]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.31:847][675]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.35:829][897]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.37:323][982]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.46:642][517]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.52:102][832]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.52:121][833]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_0.StateTreeTask_FaceLocation_C_3
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:00B2
+[2026.05.27-18.22.52:121][833]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.52:624][862]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_0.StateTreeTask_FaceLocation_C_3
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:0050
+[2026.05.27-18.22.52:625][862]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.52:642][863]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_0.StateTreeTask_FaceLocation_C_4
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:00B2
+[2026.05.27-18.22.52:642][863]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.54:657][983]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_0.StateTreeTask_FaceLocation_C_4
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:0050
+[2026.05.27-18.22.54:658][983]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.54:691][985]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_0.StateTreeTask_FaceLocation_C_5
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:00B2
+[2026.05.27-18.22.54:691][985]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.55:267][ 19]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_0.StateTreeTask_FaceLocation_C_5
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:0050
+[2026.05.27-18.22.55:267][ 19]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.55:284][ 20]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_0.StateTreeTask_FaceLocation_C_6
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:00B2
+[2026.05.27-18.22.55:284][ 20]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.56:538][ 94]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_0.StateTreeTask_FaceLocation_C_6
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:0050
+[2026.05.27-18.22.56:538][ 94]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.56:571][ 96]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_0.StateTreeTask_FaceLocation_C_7
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:00B2
+[2026.05.27-18.22.56:571][ 96]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.57:844][172]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_0.StateTreeTask_FaceLocation_C_7
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:0050
+[2026.05.27-18.22.57:844][172]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.57:862][173]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_0.StateTreeTask_FaceLocation_C_8
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:00B2
+[2026.05.27-18.22.57:862][173]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.22.58:498][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.27-18.22.58:498][207]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.27-18.22.58:498][207]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.27-18.22.58:498][207]LogSlate: Window 'Previsualización de LiesOfP_Level [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2026.05.27-18.22.58:507][207]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.05.27-18.22.58:509][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-18.22.58:509][207]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.05.27-18.22.58:511][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.27-18.22.58:517][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-18.22.58:549][207]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.05.27-18.22.58:549][207]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.05.27-18.22.58:551][207]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.05.27-18.22.58:561][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.05.27-18.22.58:753][208]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.05.27-18.23.00:513][295]LogSlate: Window 'Registro de mensajes' being destroyed
+[2026.05.27-18.23.00:523][295]LogSlate: Window 'Registro de mensajes' being destroyed
+[2026.05.27-18.23.01:637][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.23.01:683][360]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.23.01:695][360]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.23.01:695][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.23.01:749][360]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.23.01:749][360]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemyA761511D4B5404F10B91B8BADE9770D5.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.23.01:760][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.612 ms (total: 3.08 sec)
+[2026.05.27-18.23.01:810][360]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.23.01:810][360]LogContentValidation: Enabled validators:
+[2026.05.27-18.23.01:810][360]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.23.01:810][360]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.23.01:810][360]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.23.01:810][360]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.23.01:810][360]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.23.01:810][360]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.23.01:810][360]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.23.17:242][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.05.27-18.23.39:697][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.23.39:745][550]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.23.39:758][550]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.23.39:758][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.23.39:810][550]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.23.39:811][550]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemy08B99C90439B67D60B66A2806FBF5028.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.23.39:822][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.971 ms (total: 3.20 sec)
+[2026.05.27-18.23.39:870][550]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.23.39:870][550]LogContentValidation: Enabled validators:
+[2026.05.27-18.23.39:870][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.23.39:870][550]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.23.39:870][550]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.23.39:870][550]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.23.39:870][550]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.23.39:870][550]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.23.39:870][550]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.23.41:509][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.05.27-18.25.28:565][986]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy_C
+[2026.05.27-18.25.28:565][986]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy_C
+[2026.05.27-18.25.28:570][986]LogActorFactory: Actor Factory spawned Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy as actor: BP_CombatEnemy_C /Game/LiesOfPLevel/MainLevel.MainLevel:PersistentLevel.BP_CombatEnemy_C_1
+[2026.05.27-18.25.28:573][986]LogActorFactory: Actor Factory spawned Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy as actor: BP_CombatEnemy_C /Game/LiesOfPLevel/MainLevel.MainLevel:PersistentLevel.BP_CombatEnemy_C_1
+[2026.05.27-18.25.29:134][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.05.27-18.25.29:155][ 26]LogEditorActor: Deleted 0 Actors (0.055 secs)
+[2026.05.27-18.25.29:161][ 26]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy_C
+[2026.05.27-18.25.29:161][ 26]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy_C
+[2026.05.27-18.25.29:170][ 26]LogActorFactory: Actor Factory spawned Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy as actor: BP_CombatEnemy_C /Game/LiesOfPLevel/MainLevel.MainLevel:PersistentLevel.BP_CombatEnemy_C_UAID_D85ED32CBAE326DF02_1739109675
+[2026.05.27-18.25.29:174][ 26]LogActorFactory: Actor Factory spawned Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy as actor: BP_CombatEnemy_C /Game/LiesOfPLevel/MainLevel.MainLevel:PersistentLevel.BP_CombatEnemy_C_UAID_D85ED32CBAE326DF02_1739109675
+[2026.05.27-18.25.39:927][ 43]Cmd: TRANSACTION UNDO
+[2026.05.27-18.25.39:927][ 43]LogEditorTransaction: Undo Colocar objetos
+[2026.05.27-18.27.09:754][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.05.27-18.27.09:767][604]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LiesOfPLevel/MainLevel/D/S0/K58CG6C34BU10C4DS6PORP_Auto3
+[2026.05.27-18.27.09:767][604]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/K58CG6C34BU10C4DS6PORP_Auto31C6BBB23498F0326942900B238A2A833.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/Autosaves/Game/__ExternalActors__/LiesOfPLevel/MainLevel/D/S0/K58CG6C34BU10C4DS6PORP_Auto3.uasset'
+[2026.05.27-18.27.09:767][604]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LiesOfPLevel/MainLevel' took 0.052
+[2026.05.27-18.27.09:767][604]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2026.05.27-18.28.02:444][932]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4415.686523
+[2026.05.27-18.28.03:445][935]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.27-18.28.03:445][935]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4416.354492, Update Interval: 317.858826
+[2026.05.27-18.28.54:826][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.28.54:859][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.28.54:880][172]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.28.54:880][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.28.54:934][172]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.28.54:934][172]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemy1954AE2146C077C9AEB7A4A0B87178C6.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.28.54:946][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.489 ms (total: 3.32 sec)
+[2026.05.27-18.28.54:997][172]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.28.54:997][172]LogContentValidation: Enabled validators:
+[2026.05.27-18.28.54:997][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.28.54:997][172]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.28.54:997][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.28.54:997][172]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.28.54:997][172]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.28.54:997][172]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.28.54:997][172]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.29.03:066][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.29.03:121][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.29.03:121][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.29.03:175][301]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.29.03:175][301]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemyC1337EC24D3C495D1A550B95EB00027E.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.29.03:185][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.050 ms (total: 3.44 sec)
+[2026.05.27-18.29.03:229][301]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.29.03:229][301]LogContentValidation: Enabled validators:
+[2026.05.27-18.29.03:229][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.29.03:229][301]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.29.03:229][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.29.03:229][301]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.29.03:229][301]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.29.03:229][301]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.29.03:230][301]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.33.56:728][866]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatAIController.BP_CombatAIController
+[2026.05.27-18.33.56:728][866]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.05.27-18.34.11:064][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4784.297363
+[2026.05.27-18.34.11:212][971]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.27-18.34.11:212][971]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4784.431641, Update Interval: 343.986938
+[2026.05.27-18.35.39:205][886]LogAssetEditorSubsystem: Opening Asset editor for StateTree /Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy.ST_CombatEnemy
+[2026.05.27-18.35.39:318][886]LogToolMenus: Warning: Menu already registered : AssetEditor.StateTreeEditor.MainMenu.File
+[2026.05.27-18.39.29:672][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.05.27-18.39.29:680][116]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LiesOfPLevel/MainLevel' took 0.082
+[2026.05.27-18.39.29:681][116]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.39.29:681][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.39.29:734][116]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy_Auto4
+[2026.05.27-18.39.29:734][116]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemy_Auto4DB55D1444DE746A88199A5B6ACD4E108.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/Autosaves/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy_Auto4.uasset'
+[2026.05.27-18.39.29:736][116]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatAIController] ([2] browsable assets)...
+[2026.05.27-18.39.29:736][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatAIController]
+[2026.05.27-18.39.29:742][116]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Combat/Blueprints/AI/BP_CombatAIController_Auto4
+[2026.05.27-18.39.29:742][116]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatAIController_Auto47BD5DBFD4661FA9A58F94DB1B9CD6C02.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/Autosaves/Game/Variant_Combat/Blueprints/AI/BP_CombatAIController_Auto4.uasset'
+[2026.05.27-18.39.29:744][116]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy] ([1] browsable assets)...
+[2026.05.27-18.39.29:744][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy]
+[2026.05.27-18.39.29:776][116]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy_Auto4
+[2026.05.27-18.39.29:776][116]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/ST_CombatEnemy_Auto43F5D5B744237438B155A5A89C43C4A9F.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/Autosaves/Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy_Auto4.uasset'
+[2026.05.27-18.39.29:776][116]LogFileHelpers: Auto-saving content packages took 0.095
+[2026.05.27-18.40.07:571][697]LogStateTreeEditor: StateTreeEditorData /Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy.ST_CombatEnemy:StateTreeEditorData_0: Fixing outer on state StateTreeState_1.
+[2026.05.27-18.40.51:047][785]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5184.287598
+[2026.05.27-18.40.51:212][795]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.27-18.40.51:212][795]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5184.435547, Update Interval: 352.435669
+[2026.05.27-18.41.10:071][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.41.10:125][176]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy] ([1] browsable assets)...
+[2026.05.27-18.41.10:125][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy]
+[2026.05.27-18.41.10:158][176]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy
+[2026.05.27-18.41.10:159][176]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/ST_CombatEnemy781C303149ED1CC6507AD49651AAC093.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/ST_CombatEnemy.uasset'
+[2026.05.27-18.41.10:169][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.469 ms (total: 3.54 sec)
+[2026.05.27-18.41.10:221][176]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.41.10:221][176]LogContentValidation: Enabled validators:
+[2026.05.27-18.41.10:221][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.41.10:221][176]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.41.10:221][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.41.10:221][176]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.41.10:221][176]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.41.10:221][176]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.41.10:221][176]AssetCheck: /Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy Validando recurso
+[2026.05.27-18.41.10:245][176]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.27-18.47.41:828][543]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5595.084961
+[2026.05.27-18.47.42:830][546]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.27-18.47.42:830][546]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5595.753418, Update Interval: 301.778015
+[2026.05.27-18.50.10:305][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.05.27-18.50.10:313][702]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LiesOfPLevel/MainLevel' took 0.041
+[2026.05.27-18.50.10:314][702]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy] ([1] browsable assets)...
+[2026.05.27-18.50.10:314][702]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy]
+[2026.05.27-18.50.10:827][702]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy_Auto5
+[2026.05.27-18.50.10:827][702]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/ST_CombatEnemy_Auto5272AD71B477306923B6434A078BEB277.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/Autosaves/Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy_Auto5.uasset'
+[2026.05.27-18.50.10:854][702]LogFileHelpers: Auto-saving content packages took 0.541
+[2026.05.27-18.50.45:249][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.50.45:300][848]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy] ([1] browsable assets)...
+[2026.05.27-18.50.45:300][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy]
+[2026.05.27-18.50.45:344][848]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy
+[2026.05.27-18.50.45:344][848]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/ST_CombatEnemy7269D00A4075C26CC2194597FE5ED9D4.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/ST_CombatEnemy.uasset'
+[2026.05.27-18.50.45:354][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.744 ms (total: 3.64 sec)
+[2026.05.27-18.50.45:411][848]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.50.45:411][848]LogContentValidation: Enabled validators:
+[2026.05.27-18.50.45:411][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.50.45:411][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.50.45:411][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.50.45:411][848]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.50.45:411][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.50.45:411][848]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.50.45:411][848]AssetCheck: /Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy Validando recurso
+[2026.05.27-18.51.06:979][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.51.07:035][186]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.51.07:049][186]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.51.07:049][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.51.07:102][186]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.51.07:103][186]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemyA81D0D474CAF3E5852233C951F7A9A01.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.51.07:115][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.606 ms (total: 3.78 sec)
+[2026.05.27-18.51.07:145][186]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.51.07:145][186]LogContentValidation: Enabled validators:
+[2026.05.27-18.51.07:145][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.51.07:145][186]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.51.07:145][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.51.07:145][186]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.51.07:145][186]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.51.07:145][186]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.51.07:145][186]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.52.15:189][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.52.15:245][894]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.52.15:258][894]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.52.15:258][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.52.15:308][894]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.52.15:309][894]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemy7DCD34E343B019076ED5A58A9EE62E46.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.52.15:319][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.928 ms (total: 3.91 sec)
+[2026.05.27-18.52.15:370][894]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.52.15:370][894]LogContentValidation: Enabled validators:
+[2026.05.27-18.52.15:370][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.52.15:370][894]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.52.15:370][894]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.52.15:370][894]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.52.15:370][894]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.52.15:370][894]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.52.15:370][894]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.52.46:956][581]LogStateTreeEditor: Compile StateTree 'StateTree /Game/Variant_Combat/Blueprints/AI/ST_CombatEnemy.ST_CombatEnemy' succeeded.
+[2026.05.27-18.52.54:480][877]LogDebuggerCommands: Repeating last play command: Nueva ventana del editor (PIE)
+[2026.05.27-18.52.54:486][877]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.27-18.52.54:486][877]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.05.27-18.52.54:487][877]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 1.233 ms (total: 12.636 ms)
+[2026.05.27-18.52.54:495][877]LogPlayLevel: [PlayLevel] Compiling BP_CombatEnemy before play...
+[2026.05.27-18.52.54:667][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.05.27-18.52.54:678][877]LogPlayLevel: PlayLevel: Blueprint regeneration took 187 ms (1 blueprints)
+[2026.05.27-18.52.54:678][877]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.27-18.52.54:742][877]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.27-18.52.54:747][877]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.439 ms (total: 53.537 ms)
+[2026.05.27-18.52.54:747][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069006s)
+[2026.05.27-18.52.54:747][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.069038s)
+[2026.05.27-18.52.54:775][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.05.27-18.52.54:778][877]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.05.27-18.52.54:780][877]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.27-18.52.54:780][877]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.27-18.52.54:780][877]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.27-18.52.54:780][877]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.27-18.52.54:785][877]LogWorldPartition: Display: WorldPartition initialize took 5.298 ms (total: 368.957 ms)
+[2026.05.27-18.52.54:786][877]LogPlayLevel: PIE: World Init took: (0.007316s)
+[2026.05.27-18.52.54:786][877]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.05.27-18.52.54:786][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.27-18.52.54:786][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.27-18.52.54:786][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.27-18.52.54:786][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.27-18.52.54:786][877]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.27-18.52.54:786][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.27-18.52.54:786][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.27-18.52.54:786][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.27-18.52.54:786][877]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.27-18.52.54:786][877]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.27-18.52.54:786][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.27-18.52.54:789][877]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.27-18.52.54:804][877]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.27-18.52.54:805][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.27-18.52.54:805][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.27-18.52.54:805][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.27-18.52.54:805][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.05.27-18.52.54:805][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.05.27-18.52.54:807][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.05.27-18.52.54:807][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.05.27-18.52.54:807][877]LogInit: FAudioDevice initialized with ID 13.
+[2026.05.27-18.52.54:807][877]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainLevel'.
+[2026.05.27-18.52.54:807][877]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.05.27-18.52.54:848][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.27-18.52.54:848][877]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.27-18.52.54:858][877]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.05.27-20.52.54
+[2026.05.27-18.52.54:859][877]LogWorld: Bringing up level for play took: 0.010257
+[2026.05.27-18.52.54:861][877]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.05.27-18.52.54:872][877]PIE: El servidor ha iniciado sesión
+[2026.05.27-18.52.54:878][877]PIE: Tiempo de inicio total de la reproducción en el editor de 0,392 segundos.
+[2026.05.27-18.53.20:195][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.27-18.53.20:195][ 46]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.27-18.53.20:195][ 46]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.27-18.53.20:195][ 46]LogSlate: Window 'Previsualización de LiesOfP_Level [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2026.05.27-18.53.20:202][ 46]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.05.27-18.53.20:203][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-18.53.20:203][ 46]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.05.27-18.53.20:207][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.27-18.53.20:213][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-18.53.20:249][ 46]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.05.27-18.53.20:249][ 46]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.05.27-18.53.20:252][ 46]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.05.27-18.53.20:269][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.05.27-18.53.20:351][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.05.27-18.53.21:848][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.53.21:916][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.05.27-18.53.21:949][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.05.27-18.53.21:977][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.05.27-18.53.21:988][212]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/D/S0/K58CG6C34BU10C4DS6PORP
+[2026.05.27-18.53.21:988][212]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/K58CG6C34BU10C4DS6PORPDC12EF3C499393B4B676A2BE424CBF1C.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/D/S0/K58CG6C34BU10C4DS6PORP.uasset'
+[2026.05.27-18.53.21:999][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.922 ms (total: 4.06 sec)
+[2026.05.27-18.53.22:050][212]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.53.22:050][212]LogContentValidation: Enabled validators:
+[2026.05.27-18.53.22:050][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.53.22:050][212]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.53.22:050][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.53.22:050][212]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.53.22:050][212]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.53.22:050][212]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.53.22:050][212]AssetCheck: /Game/LiesOfPLevel/MainLevel Validando recurso
+[2026.05.27-18.53.28:786][877]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy_C
+[2026.05.27-18.53.28:786][877]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy_C
+[2026.05.27-18.53.28:791][877]LogActorFactory: Actor Factory spawned Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy as actor: BP_CombatEnemy_C /Game/LiesOfPLevel/MainLevel.MainLevel:PersistentLevel.BP_CombatEnemy_C_2
+[2026.05.27-18.53.28:794][877]LogActorFactory: Actor Factory spawned Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy as actor: BP_CombatEnemy_C /Game/LiesOfPLevel/MainLevel.MainLevel:PersistentLevel.BP_CombatEnemy_C_2
+[2026.05.27-18.53.29:533][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.05.27-18.53.29:538][921]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2026.05.27-18.53.29:543][921]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy_C
+[2026.05.27-18.53.29:543][921]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy_C
+[2026.05.27-18.53.29:549][921]LogActorFactory: Actor Factory spawned Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy as actor: BP_CombatEnemy_C /Game/LiesOfPLevel/MainLevel.MainLevel:PersistentLevel.BP_CombatEnemy_C_UAID_D85ED32CBAE328DF02_1272008028
+[2026.05.27-18.53.29:552][921]LogActorFactory: Actor Factory spawned Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy as actor: BP_CombatEnemy_C /Game/LiesOfPLevel/MainLevel.MainLevel:PersistentLevel.BP_CombatEnemy_C_UAID_D85ED32CBAE328DF02_1272008028
+[2026.05.27-18.53.42:542][223]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5955.798828
+[2026.05.27-18.53.42:679][238]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.27-18.53.42:679][238]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5955.925781, Update Interval: 343.893555
+[2026.05.27-18.54.29:840][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.54.29:886][570]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.54.29:900][570]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.54.29:900][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.54.29:954][570]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.54.29:954][570]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemyC10F562C41CECC694BB85D9509512A46.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.54.29:966][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.361 ms (total: 4.19 sec)
+[2026.05.27-18.54.30:010][570]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.54.30:010][570]LogContentValidation: Enabled validators:
+[2026.05.27-18.54.30:010][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.54.30:010][570]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.54.30:010][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.54.30:010][570]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.54.30:010][570]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.54.30:010][570]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.54.30:010][570]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.54.58:134][573]LogDebuggerCommands: Repeating last play command: Nueva ventana del editor (PIE)
+[2026.05.27-18.54.58:139][573]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.27-18.54.58:139][573]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.05.27-18.54.58:139][573]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 1.167 ms (total: 13.804 ms)
+[2026.05.27-18.54.58:147][573]LogPlayLevel: [PlayLevel] Compiling BP_CombatEnemy before play...
+[2026.05.27-18.54.58:382][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.05.27-18.54.58:384][573]LogPlayLevel: PlayLevel: Blueprint regeneration took 241 ms (1 blueprints)
+[2026.05.27-18.54.58:384][573]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.27-18.54.58:445][573]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.27-18.54.58:449][573]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.445 ms (total: 57.983 ms)
+[2026.05.27-18.54.58:449][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065398s)
+[2026.05.27-18.54.58:449][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.065427s)
+[2026.05.27-18.54.58:480][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.05.27-18.54.58:483][573]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.05.27-18.54.58:484][573]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.27-18.54.58:484][573]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.27-18.54.58:484][573]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.27-18.54.58:484][573]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.27-18.54.58:489][573]LogWorldPartition: Display: WorldPartition initialize took 5.329 ms (total: 374.287 ms)
+[2026.05.27-18.54.58:489][573]LogPlayLevel: PIE: World Init took: (0.007137s)
+[2026.05.27-18.54.58:490][573]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.05.27-18.54.58:490][573]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.27-18.54.58:490][573]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.27-18.54.58:490][573]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.27-18.54.58:490][573]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.27-18.54.58:490][573]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.27-18.54.58:490][573]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.27-18.54.58:490][573]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.27-18.54.58:490][573]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.27-18.54.58:490][573]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.27-18.54.58:490][573]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.27-18.54.58:490][573]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.27-18.54.58:493][573]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.27-18.54.58:508][573]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.27-18.54.58:509][573]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.27-18.54.58:509][573]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.27-18.54.58:509][573]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.27-18.54.58:509][573]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.05.27-18.54.58:509][573]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.05.27-18.54.58:511][573]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.05.27-18.54.58:511][573]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.05.27-18.54.58:512][573]LogInit: FAudioDevice initialized with ID 14.
+[2026.05.27-18.54.58:512][573]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainLevel'.
+[2026.05.27-18.54.58:512][573]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.05.27-18.54.58:556][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.27-18.54.58:557][573]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.27-18.54.58:567][573]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.05.27-20.54.58
+[2026.05.27-18.54.58:569][573]LogWorld: Bringing up level for play took: 0.011247
+[2026.05.27-18.54.58:571][573]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2026.05.27-18.54.58:579][573]PIE: El servidor ha iniciado sesión
+[2026.05.27-18.54.58:583][573]PIE: Tiempo de inicio total de la reproducción en el editor de 0,444 segundos.
+[2026.05.27-18.55.07:234][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.27-18.55.07:234][ 12]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.27-18.55.07:234][ 12]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.27-18.55.07:236][ 12]LogSlate: Window 'Previsualización de LiesOfP_Level [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2026.05.27-18.55.07:241][ 12]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.05.27-18.55.07:242][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-18.55.07:243][ 12]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.05.27-18.55.07:245][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.27-18.55.07:251][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-18.55.07:284][ 12]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.05.27-18.55.07:284][ 12]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.05.27-18.55.07:286][ 12]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.05.27-18.55.07:298][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2026.05.27-18.55.07:436][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2026.05.27-18.56.15:231][602]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.56.15:281][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatAIController] ([2] browsable assets)...
+[2026.05.27-18.56.15:281][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatAIController]
+[2026.05.27-18.56.15:290][602]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatAIController
+[2026.05.27-18.56.15:290][602]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatAIControllerD5300B04458950DD06E6C8821819C752.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatAIController.uasset'
+[2026.05.27-18.56.15:299][602]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.950 ms (total: 4.26 sec)
+[2026.05.27-18.56.15:349][602]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.56.15:349][602]LogContentValidation: Enabled validators:
+[2026.05.27-18.56.15:349][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.56.15:349][602]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.56.15:349][602]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.56.15:349][602]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.56.15:349][602]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.56.15:350][602]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.56.15:350][602]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatAIController Validando recurso
+[2026.05.27-18.56.15:387][602]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.27-18.56.40:913][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.56.40:966][162]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.56.40:979][162]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.56.40:979][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.56.41:031][162]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.56.41:031][162]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemyE1A790DC44F5A92264098583FC4844AB.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.56.41:044][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.314 ms (total: 4.39 sec)
+[2026.05.27-18.56.41:088][162]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.56.41:088][162]LogContentValidation: Enabled validators:
+[2026.05.27-18.56.41:088][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.56.41:088][162]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.56.41:088][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.56.41:088][162]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.56.41:088][162]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.56.41:088][162]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.56.41:089][162]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.56.50:728][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.05.27-18.56.51:674][860]LogDebuggerCommands: Repeating last play command: Nueva ventana del editor (PIE)
+[2026.05.27-18.56.51:679][860]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.27-18.56.51:679][860]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.05.27-18.56.51:681][860]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 1.114 ms (total: 14.918 ms)
+[2026.05.27-18.56.51:683][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.27-18.56.51:683][860]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.27-18.56.51:746][860]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.27-18.56.51:750][860]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.448 ms (total: 62.431 ms)
+[2026.05.27-18.56.51:750][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067151s)
+[2026.05.27-18.56.51:751][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.067194s)
+[2026.05.27-18.56.51:784][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.05.27-18.56.51:795][860]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.05.27-18.56.51:798][860]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.27-18.56.51:798][860]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.27-18.56.51:798][860]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.27-18.56.51:798][860]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.27-18.56.51:804][860]LogWorldPartition: Display: WorldPartition initialize took 5.777 ms (total: 380.065 ms)
+[2026.05.27-18.56.51:804][860]LogPlayLevel: PIE: World Init took: (0.007989s)
+[2026.05.27-18.56.51:804][860]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.05.27-18.56.51:804][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.27-18.56.51:805][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.27-18.56.51:805][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.27-18.56.51:805][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.27-18.56.51:805][860]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.27-18.56.51:805][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.27-18.56.51:805][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.27-18.56.51:805][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.27-18.56.51:805][860]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.27-18.56.51:805][860]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.27-18.56.51:805][860]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.27-18.56.51:807][860]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.27-18.56.51:822][860]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.27-18.56.51:822][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.27-18.56.51:822][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.27-18.56.51:822][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.27-18.56.51:823][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.05.27-18.56.51:823][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.05.27-18.56.51:826][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.05.27-18.56.51:826][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.05.27-18.56.51:826][860]LogInit: FAudioDevice initialized with ID 15.
+[2026.05.27-18.56.51:826][860]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainLevel'.
+[2026.05.27-18.56.51:826][860]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.05.27-18.56.51:880][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.27-18.56.51:880][860]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.27-18.56.51:891][860]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.05.27-20.56.51
+[2026.05.27-18.56.51:892][860]LogWorld: Bringing up level for play took: 0.011749
+[2026.05.27-18.56.51:895][860]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.05.27-18.56.51:911][860]PIE: El servidor ha iniciado sesión
+[2026.05.27-18.56.51:923][860]PIE: Tiempo de inicio total de la reproducción en el editor de 0,244 segundos.
+[2026.05.27-18.56.55:708][ 57]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.56.56:887][120]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.56.58:910][229]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.56.59:559][264]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.57.00:024][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.27-18.57.00:024][288]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.27-18.57.00:024][288]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.27-18.57.00:025][288]LogSlate: Window 'Previsualización de LiesOfP_Level [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2026.05.27-18.57.00:031][288]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.05.27-18.57.00:033][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-18.57.00:033][288]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.05.27-18.57.00:036][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.27-18.57.00:041][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-18.57.00:073][288]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.27-18.57.00:073][288]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.05.27-18.57.00:073][288]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.05.27-18.57.00:076][288]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.05.27-18.57.00:086][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.05.27-18.57.00:323][289]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.05.27-18.57.01:242][332]LogSlate: Window 'Registro de mensajes' being destroyed
+[2026.05.27-18.57.01:250][332]LogSlate: Window 'Registro de mensajes' being destroyed
+[2026.05.27-18.57.50:295][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.05.27-18.57.51:597][339]LogDebuggerCommands: Repeating last play command: Nueva ventana del editor (PIE)
+[2026.05.27-18.57.51:604][339]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.27-18.57.51:604][339]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.05.27-18.57.51:605][339]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 1.270 ms (total: 16.188 ms)
+[2026.05.27-18.57.51:607][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.27-18.57.51:607][339]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.27-18.57.51:668][339]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.27-18.57.51:673][339]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.727 ms (total: 67.159 ms)
+[2026.05.27-18.57.51:673][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066421s)
+[2026.05.27-18.57.51:673][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.066451s)
+[2026.05.27-18.57.51:708][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.05.27-18.57.51:718][339]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.05.27-18.57.51:719][339]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.27-18.57.51:719][339]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.27-18.57.51:719][339]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.27-18.57.51:719][339]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.27-18.57.51:725][339]LogWorldPartition: Display: WorldPartition initialize took 6.042 ms (total: 386.108 ms)
+[2026.05.27-18.57.51:726][339]LogPlayLevel: PIE: World Init took: (0.008020s)
+[2026.05.27-18.57.51:726][339]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.05.27-18.57.51:726][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.27-18.57.51:726][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.27-18.57.51:726][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.27-18.57.51:726][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.27-18.57.51:726][339]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.27-18.57.51:726][339]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.27-18.57.51:726][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.27-18.57.51:726][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.27-18.57.51:726][339]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.27-18.57.51:726][339]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.27-18.57.51:726][339]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.27-18.57.51:728][339]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.27-18.57.51:744][339]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.27-18.57.51:744][339]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.27-18.57.51:744][339]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.27-18.57.51:744][339]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.27-18.57.51:745][339]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.05.27-18.57.51:745][339]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.05.27-18.57.51:748][339]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.05.27-18.57.51:748][339]LogInit: FAudioDevice initialized with ID 16.
+[2026.05.27-18.57.51:748][339]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.05.27-18.57.51:748][339]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainLevel'.
+[2026.05.27-18.57.51:748][339]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.05.27-18.57.51:788][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.27-18.57.51:788][339]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.27-18.57.51:799][339]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.05.27-20.57.51
+[2026.05.27-18.57.51:801][339]LogWorld: Bringing up level for play took: 0.011472
+[2026.05.27-18.57.51:803][339]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.05.27-18.57.51:819][339]PIE: El servidor ha iniciado sesión
+[2026.05.27-18.57.51:830][339]PIE: Tiempo de inicio total de la reproducción en el editor de 0,227 segundos.
+[2026.05.27-18.57.56:431][600]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.57.57:817][677]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.57.58:037][689]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.57.59:445][768]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.57.59:708][783]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.58.01:074][862]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.58.05:213][ 98]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_1.StateTreeTask_FaceLocation_C
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:00B2
+[2026.05.27-18.58.05:213][ 98]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.58.06:413][166]LogScript: Warning: Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.
+	StateTreeTask_FaceLocation_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIController_C_1.StateTreeTask_FaceLocation_C
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_FaceLocation.StateTreeTask_FaceLocation_C:ExecuteUbergraph_StateTreeTask_FaceLocation:0050
+[2026.05.27-18.58.06:413][166]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.58.06:413][166]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.58.07:928][252]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.58.11:013][424]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.58.11:634][459]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.58.17:066][771]LogCharacterMovement: BP_CombatEnemy_C_0 is stuck and failed to move! Velocity: X=122.81 Y=322.44 Z=0.00 Location: X=-6104.08 Y=721.76 Z=20.48 Normal: X=0.27 Y=-0.78 Z=-0.57 PenetrationDepth:8.063 Actor:BP_ThirdPersonCharacter_C_0 Component:Weapon BoneName:None (0 other events since notify)
+[2026.05.27-18.58.20:593][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.27-18.58.20:593][972]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.27-18.58.20:593][972]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.27-18.58.20:595][972]LogSlate: Window 'Previsualización de LiesOfP_Level [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2026.05.27-18.58.20:600][972]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.05.27-18.58.20:602][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-18.58.20:602][972]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.05.27-18.58.20:605][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.27-18.58.20:613][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-18.58.20:645][972]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.27-18.58.20:645][972]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.05.27-18.58.20:645][972]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.05.27-18.58.20:647][972]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.05.27-18.58.20:657][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.05.27-18.58.20:929][973]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.05.27-18.58.27:708][409]LogSlate: Window 'Registro de mensajes' being destroyed
+[2026.05.27-18.58.27:717][409]LogSlate: Window 'Registro de mensajes' being destroyed
+[2026.05.27-18.58.34:393][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.58.34:440][845]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.58.34:453][845]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.58.34:453][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.58.34:508][845]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.58.34:508][845]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemy1F0E0339408BF9DED2DB89BCA0002C60.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.58.34:522][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.172 ms (total: 4.51 sec)
+[2026.05.27-18.58.34:567][845]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.58.34:567][845]LogContentValidation: Enabled validators:
+[2026.05.27-18.58.34:567][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.58.34:567][845]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.58.34:567][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.58.34:567][845]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.58.34:567][845]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.58.34:567][845]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.58.34:567][845]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.58.40:934][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.58.40:976][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.58.40:976][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.58.41:027][273]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.58.41:028][273]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemy5A0362A94D2F22A981F3DF9C6A6B78D3.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.58.41:038][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.817 ms (total: 4.62 sec)
+[2026.05.27-18.58.41:087][273]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.58.41:087][273]LogContentValidation: Enabled validators:
+[2026.05.27-18.58.41:087][273]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.58.41:087][273]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.58.41:087][273]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.58.41:087][273]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.58.41:087][273]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.58.41:087][273]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.58.41:087][273]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
+[2026.05.27-18.58.46:139][613]LogDebuggerCommands: Repeating last play command: Nueva ventana del editor (PIE)
+[2026.05.27-18.58.46:144][613]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.27-18.58.46:144][613]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.05.27-18.58.46:145][613]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 1.091 ms (total: 17.280 ms)
+[2026.05.27-18.58.46:153][613]LogPlayLevel: [PlayLevel] Compiling BP_CombatEnemy before play...
+[2026.05.27-18.58.46:383][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.05.27-18.58.46:392][613]LogPlayLevel: PlayLevel: Blueprint regeneration took 244 ms (1 blueprints)
+[2026.05.27-18.58.46:392][613]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.27-18.58.46:455][613]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.27-18.58.46:459][613]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.874 ms (total: 72.033 ms)
+[2026.05.27-18.58.46:459][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066905s)
+[2026.05.27-18.58.46:459][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.066934s)
+[2026.05.27-18.58.46:490][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.05.27-18.58.46:493][613]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.05.27-18.58.46:494][613]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.27-18.58.46:494][613]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.27-18.58.46:494][613]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.27-18.58.46:494][613]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.27-18.58.46:500][613]LogWorldPartition: Display: WorldPartition initialize took 5.351 ms (total: 391.459 ms)
+[2026.05.27-18.58.46:500][613]LogPlayLevel: PIE: World Init took: (0.007170s)
+[2026.05.27-18.58.46:500][613]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.05.27-18.58.46:500][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.27-18.58.46:500][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.27-18.58.46:501][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.27-18.58.46:501][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.27-18.58.46:501][613]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.27-18.58.46:501][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.27-18.58.46:501][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.27-18.58.46:501][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.27-18.58.46:501][613]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.27-18.58.46:501][613]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.27-18.58.46:501][613]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.27-18.58.46:502][613]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.27-18.58.46:518][613]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.27-18.58.46:518][613]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.27-18.58.46:518][613]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.27-18.58.46:518][613]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.27-18.58.46:518][613]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.05.27-18.58.46:518][613]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.05.27-18.58.46:520][613]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.05.27-18.58.46:520][613]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.05.27-18.58.46:520][613]LogInit: FAudioDevice initialized with ID 17.
+[2026.05.27-18.58.46:520][613]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainLevel'.
+[2026.05.27-18.58.46:520][613]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.05.27-18.58.46:563][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.27-18.58.46:563][613]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.27-18.58.46:573][613]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.05.27-20.58.46
+[2026.05.27-18.58.46:574][613]LogWorld: Bringing up level for play took: 0.011288
+[2026.05.27-18.58.46:576][613]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.05.27-18.58.46:585][613]PIE: El servidor ha iniciado sesión
+[2026.05.27-18.58.46:589][613]PIE: Tiempo de inicio total de la reproducción en el editor de 0,444 segundos.
+[2026.05.27-18.58.49:694][777]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.58.50:246][810]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.58.53:265][982]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  SetFocalPoint Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.58.54:408][ 47]PIE: Error: Blueprint tiempo de ejecución Error: "Accessed None intentando leer (real) propiedad Controller en StateTreeTask_FaceLocation_C.". Nodo:  ClearFocus Grafo:  EventGraph Función:  Execute Ubergraph State Tree Task Face Location Blueprint:  StateTreeTask_FaceLocation
+[2026.05.27-18.59.08:084][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.27-18.59.08:084][821]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.05.27-18.59.08:084][821]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.27-18.59.08:085][821]LogSlate: Window 'Previsualización de LiesOfP_Level [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2026.05.27-18.59.08:091][821]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.05.27-18.59.08:093][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-18.59.08:093][821]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.05.27-18.59.08:095][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.27-18.59.08:101][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-18.59.08:133][821]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.05.27-18.59.08:133][821]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.05.27-18.59.08:136][821]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.05.27-18.59.08:146][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.05.27-18.59.08:414][822]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.05.27-18.59.09:463][877]LogSlate: Window 'Registro de mensajes' being destroyed
+[2026.05.27-18.59.09:471][877]LogSlate: Window 'Registro de mensajes' being destroyed
+[2026.05.27-18.59.11:248][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.27-18.59.11:294][992]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.05.27-18.59.11:306][992]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.05.27-18.59.11:306][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.05.27-18.59.11:358][992]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.05.27-18.59.11:358][992]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemy101402424087D52B56E3FDAB228539FB.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.05.27-18.59.11:370][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.560 ms (total: 4.74 sec)
+[2026.05.27-18.59.11:418][992]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.27-18.59.11:418][992]LogContentValidation: Enabled validators:
+[2026.05.27-18.59.11:418][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.27-18.59.11:418][992]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.27-18.59.11:418][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.27-18.59.11:418][992]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.27-18.59.11:418][992]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.27-18.59.11:418][992]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.27-18.59.11:418][992]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validando recurso
