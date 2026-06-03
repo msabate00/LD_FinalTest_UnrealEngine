@@ -2443,3 +2443,522 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.03-21.05.48:062][656]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 667.556702
 [2026.06.03-21.05.48:207][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.06.03-21.05.48:207][666]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 667.684814, Update Interval: 358.013245
+[2026.06.03-21.06.14:238][758]LogSlate: Window 'Cambiar tipo de variable' being destroyed
+[2026.06.03-21.06.22:106][122]LogSlate: Window 'Cambiar tipo de variable' being destroyed
+[2026.06.03-21.06.33:201][769]LogSlate: Window 'Cambiar tipo de variable' being destroyed
+[2026.06.03-21.06.53:974][538]LogSlate: Window 'Buscar en blueprints' being destroyed
+[2026.06.03-21.06.53:984][538]LogSlate: Window 'Buscar en blueprints' being destroyed
+[2026.06.03-21.06.55:450][628]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.03-21.06.55:495][628]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner] ([2] browsable assets)...
+[2026.06.03-21.06.55:510][628]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner.BP_Combat_EnemySpawner]
+[2026.06.03-21.06.55:510][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner]
+[2026.06.03-21.06.55:529][628]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner
+[2026.06.03-21.06.55:530][628]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_Combat_EnemySpawnerB30239A745E26185913EDC89826D3AC4.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner.uasset'
+[2026.06.03-21.06.55:540][628]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.985 ms (total: 1.83 sec)
+[2026.06.03-21.06.55:592][628]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.03-21.06.55:592][628]LogContentValidation: Enabled validators:
+[2026.06.03-21.06.55:592][628]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.03-21.06.55:592][628]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.03-21.06.55:592][628]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.03-21.06.55:592][628]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.03-21.06.55:592][628]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.03-21.06.55:592][628]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.03-21.06.55:592][628]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner Validando recurso
+[2026.06.03-21.06.55:985][651]LogBlueprint: Error: [AssetLog] E:\_GITHUB\LD_FinalTest_UnrealEngine\LiesOfP_Level\Content\Variant_Combat\Blueprints\AI\BP_Combat_EnemySpawner.uasset: [Compiler] El pin en uso  Enemy Class  ya no existe en el nodo  Obtener . Actualiza el nodo o rompe vínculos para quitar el pin.
+[2026.06.03-21.06.56:021][651]LogStreaming: Display: FlushAsyncLoading(1052): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.03-21.06.56:115][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.06.03-21.07.10:340][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.03-21.07.10:374][524]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner] ([2] browsable assets)...
+[2026.06.03-21.07.10:387][524]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner.BP_Combat_EnemySpawner]
+[2026.06.03-21.07.10:387][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner]
+[2026.06.03-21.07.10:406][524]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner
+[2026.06.03-21.07.10:407][524]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_Combat_EnemySpawner6B8D3D0F41AC2D5BAE50A28C3359E479.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner.uasset'
+[2026.06.03-21.07.10:414][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.802 ms (total: 1.90 sec)
+[2026.06.03-21.07.10:442][524]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.03-21.07.10:442][524]LogContentValidation: Enabled validators:
+[2026.06.03-21.07.10:442][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.03-21.07.10:442][524]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.03-21.07.10:442][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.03-21.07.10:442][524]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.03-21.07.10:442][524]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.03-21.07.10:442][524]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.03-21.07.10:442][524]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner Validando recurso
+[2026.06.03-21.07.11:556][580]LogBlueprint: Error: [AssetLog] E:\_GITHUB\LD_FinalTest_UnrealEngine\LiesOfP_Level\Content\Variant_Combat\Blueprints\AI\BP_Combat_EnemySpawner.uasset: [Compiler] Este blueprint (sí mismo) no es un BP_CombatEnemy_C, por lo que “ Target ” debe tener una conexión.
+[2026.06.03-21.07.11:647][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.06.03-21.07.47:308][ 36]LogBlueprint: Error: [AssetLog] E:\_GITHUB\LD_FinalTest_UnrealEngine\LiesOfP_Level\Content\Variant_Combat\Blueprints\AI\BP_Combat_EnemySpawner.uasset: [Compiler] Este blueprint (sí mismo) no es un BP_CombatEnemy_C, por lo que “ Target ” debe tener una conexión.
+[2026.06.03-21.07.47:309][ 36]LogBlueprint: Error: [AssetLog] E:\_GITHUB\LD_FinalTest_UnrealEngine\LiesOfP_Level\Content\Variant_Combat\Blueprints\AI\BP_Combat_EnemySpawner.uasset: [Compiler] El tipo de  Object  está sin determinar. Conecta algo a  Cast To BP_CombatEnemy  para implicar un tipo específico.
+[2026.06.03-21.07.47:309][ 36]LogBlueprint: Error: [AssetLog] E:\_GITHUB\LD_FinalTest_UnrealEngine\LiesOfP_Level\Content\Variant_Combat\Blueprints\AI\BP_Combat_EnemySpawner.uasset: [Compiler] El valor actual () del pin “ Object ” no es válido: Unsupported type Object Comodín on pin Object
+[2026.06.03-21.07.47:309][ 36]LogBlueprint: Error: [AssetLog] E:\_GITHUB\LD_FinalTest_UnrealEngine\LiesOfP_Level\Content\Variant_Combat\Blueprints\AI\BP_Combat_EnemySpawner.uasset: [Compiler] Crear evento  Error de firma: No se encuentran la función o el evento seleccionados, “On Enemy Died”: ¿se han eliminado?
+[2026.06.03-21.07.47:398][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.06.03-21.07.58:485][720]LogEditorTransaction: Undo Crear vínculo entre pines
+[2026.06.03-21.08.01:512][870]LogEditorTransaction: Undo Mover nodo
+[2026.06.03-21.08.04:003][ 10]LogEditorTransaction: Undo Añadir nodo
+[2026.06.03-21.08.05:913][ 81]LogEditorTransaction: Undo Mover nodo
+[2026.06.03-21.08.06:825][117]LogEditorTransaction: Undo Mover nodo
+[2026.06.03-21.08.34:863][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.06.03-21.08.34:875][418]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LiesOfPLevel/MainLevel/0/4M/FMQKLEB7SK2VYVKW30LO4Q_Auto1
+[2026.06.03-21.08.34:875][418]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/FMQKLEB7SK2VYVKW30LO4Q_Auto11B2BE01A46F15969CD8A1FAB945FF429.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/Autosaves/Game/__ExternalActors__/LiesOfPLevel/MainLevel/0/4M/FMQKLEB7SK2VYVKW30LO4Q_Auto1.uasset'
+[2026.06.03-21.08.34:882][418]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LiesOfPLevel/MainLevel/0/IW/B9ZDD8OWIRC8632G75RXR1_Auto1
+[2026.06.03-21.08.34:882][418]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/B9ZDD8OWIRC8632G75RXR1_Auto187A6C3C7452FCFED219396B9548F5432.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/Autosaves/Game/__ExternalActors__/LiesOfPLevel/MainLevel/0/IW/B9ZDD8OWIRC8632G75RXR1_Auto1.uasset'
+[2026.06.03-21.08.34:891][418]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/LiesOfPLevel/MainLevel/5/8O/ZTCU86TZ4EGKSW70JE130L_Auto1
+[2026.06.03-21.08.34:891][418]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/ZTCU86TZ4EGKSW70JE130L_Auto1AA6C4DDC47BC336F0D838AADD0ED5AC8.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/Autosaves/Game/__ExternalActors__/LiesOfPLevel/MainLevel/5/8O/ZTCU86TZ4EGKSW70JE130L_Auto1.uasset'
+[2026.06.03-21.08.34:892][418]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LiesOfPLevel/MainLevel' took 0.063
+[2026.06.03-21.08.34:892][418]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
+[2026.06.03-21.08.34:892][418]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner] ([2] browsable assets)...
+[2026.06.03-21.08.34:948][418]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner.BP_Combat_EnemySpawner]
+[2026.06.03-21.08.34:948][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner]
+[2026.06.03-21.08.34:969][418]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner_Auto1
+[2026.06.03-21.08.34:969][418]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_Combat_EnemySpawner_Auto1B2D560A742D32FE14B2A2B9752E71CFC.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/Autosaves/Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner_Auto1.uasset'
+[2026.06.03-21.08.34:970][418]LogFileHelpers: Auto-saving content packages took 0.079
+[2026.06.03-21.10.48:647][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.03-21.10.48:688][672]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner] ([2] browsable assets)...
+[2026.06.03-21.10.48:702][672]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner.BP_Combat_EnemySpawner]
+[2026.06.03-21.10.48:702][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner]
+[2026.06.03-21.10.48:722][672]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner
+[2026.06.03-21.10.48:722][672]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_Combat_EnemySpawnerC0C78A464FA29103D967018CB2EA5170.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner.uasset'
+[2026.06.03-21.10.48:731][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.343 ms (total: 1.99 sec)
+[2026.06.03-21.10.48:786][672]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.03-21.10.48:786][672]LogContentValidation: Enabled validators:
+[2026.06.03-21.10.48:786][672]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.03-21.10.48:786][672]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.03-21.10.48:786][672]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.03-21.10.48:786][672]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.03-21.10.48:786][672]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.03-21.10.48:786][672]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.03-21.10.48:786][672]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_Combat_EnemySpawner Validando recurso
+[2026.06.03-21.10.49:311][700]LogDebuggerCommands: Repeating last play command: Nueva ventana del editor (PIE)
+[2026.06.03-21.10.49:320][700]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.03-21.10.49:320][700]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.06.03-21.10.49:322][700]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 2.988 ms (total: 36.919 ms)
+[2026.06.03-21.10.49:328][700]LogPlayLevel: [PlayLevel] Compiling BP_Combat_EnemySpawner before play...
+[2026.06.03-21.10.49:538][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.06.03-21.10.49:539][700]LogPlayLevel: PlayLevel: Blueprint regeneration took 211 ms (1 blueprints)
+[2026.06.03-21.10.49:539][700]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.03-21.10.49:736][700]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.03-21.10.49:749][700]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 14.122 ms (total: 212.639 ms)
+[2026.06.03-21.10.49:749][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.209457s)
+[2026.06.03-21.10.49:749][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.209505s)
+[2026.06.03-21.10.49:778][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.06.03-21.10.49:779][700]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.06.03-21.10.49:782][700]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.03-21.10.49:782][700]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.03-21.10.49:782][700]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.03-21.10.49:782][700]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.03-21.10.49:798][700]LogWorldPartition: Display: WorldPartition initialize took 16.391 ms (total: 739.404 ms)
+[2026.06.03-21.10.49:798][700]LogPlayLevel: PIE: World Init took: (0.018699s)
+[2026.06.03-21.10.49:799][700]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.06.03-21.10.49:799][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.03-21.10.49:799][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.03-21.10.49:799][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.03-21.10.49:799][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.03-21.10.49:799][700]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.03-21.10.49:799][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.03-21.10.49:799][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.03-21.10.49:799][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.03-21.10.49:799][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.03-21.10.49:799][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.03-21.10.49:799][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.03-21.10.49:801][700]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.03-21.10.49:815][700]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.06.03-21.10.49:816][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.03-21.10.49:816][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.03-21.10.49:816][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.03-21.10.49:816][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.06.03-21.10.49:816][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.06.03-21.10.49:819][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.06.03-21.10.49:819][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.06.03-21.10.49:819][700]LogInit: FAudioDevice initialized with ID 15.
+[2026.06.03-21.10.49:819][700]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainLevel'.
+[2026.06.03-21.10.49:819][700]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.06.03-21.10.49:871][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.03-21.10.49:871][700]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.03-21.10.49:898][700]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.06.03-23.10.49
+[2026.06.03-21.10.49:898][700]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.10.49:899][700]LogWorld: Bringing up level for play took: 0.027220
+[2026.06.03-21.10.49:901][700]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.06.03-21.10.49:912][700]PIE: El servidor ha iniciado sesión
+[2026.06.03-21.10.49:916][700]PIE: Tiempo de inicio total de la reproducción en el editor de 0,596 segundos.
+[2026.06.03-21.10.51:202][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.03-21.10.51:202][738]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.03-21.10.51:202][738]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.03-21.10.51:203][738]LogSlate: Window 'Previsualización de LiesOfP_Level [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2026.06.03-21.10.51:212][738]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-21.10.51:219][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-21.10.51:220][738]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.06.03-21.10.51:227][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.03-21.10.51:234][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-21.10.51:271][738]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.06.03-21.10.51:271][738]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.06.03-21.10.51:274][738]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.06.03-21.10.51:300][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2026.06.03-21.10.51:451][739]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.06.03-21.11.04:935][ 58]LogDebuggerCommands: Repeating last play command: Nueva ventana del editor (PIE)
+[2026.06.03-21.11.04:941][ 58]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.03-21.11.04:941][ 58]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.06.03-21.11.04:942][ 58]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 2.340 ms (total: 39.259 ms)
+[2026.06.03-21.11.04:947][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.03-21.11.04:947][ 58]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.03-21.11.05:171][ 58]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.03-21.11.05:191][ 58]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 19.007 ms (total: 231.646 ms)
+[2026.06.03-21.11.05:191][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.242892s)
+[2026.06.03-21.11.05:191][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.242925s)
+[2026.06.03-21.11.05:221][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.06.03-21.11.05:224][ 58]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.06.03-21.11.05:226][ 58]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.03-21.11.05:226][ 58]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.03-21.11.05:226][ 58]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.03-21.11.05:226][ 58]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.03-21.11.05:244][ 58]LogWorldPartition: Display: WorldPartition initialize took 17.648 ms (total: 757.052 ms)
+[2026.06.03-21.11.05:244][ 58]LogPlayLevel: PIE: World Init took: (0.019762s)
+[2026.06.03-21.11.05:244][ 58]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.06.03-21.11.05:244][ 58]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.03-21.11.05:244][ 58]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.03-21.11.05:244][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.03-21.11.05:244][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.03-21.11.05:244][ 58]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.03-21.11.05:244][ 58]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.03-21.11.05:244][ 58]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.03-21.11.05:244][ 58]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.03-21.11.05:244][ 58]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.03-21.11.05:244][ 58]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.03-21.11.05:244][ 58]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.03-21.11.05:247][ 58]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.03-21.11.05:262][ 58]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.06.03-21.11.05:262][ 58]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.03-21.11.05:262][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.03-21.11.05:262][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.03-21.11.05:262][ 58]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.06.03-21.11.05:262][ 58]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.06.03-21.11.05:265][ 58]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.06.03-21.11.05:265][ 58]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.06.03-21.11.05:265][ 58]LogInit: FAudioDevice initialized with ID 16.
+[2026.06.03-21.11.05:265][ 58]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainLevel'.
+[2026.06.03-21.11.05:265][ 58]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.06.03-21.11.05:307][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.03-21.11.05:307][ 58]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.03-21.11.05:342][ 58]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.06.03-23.11.05
+[2026.06.03-21.11.05:344][ 58]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.11.05:344][ 58]LogWorld: Bringing up level for play took: 0.036078
+[2026.06.03-21.11.05:346][ 58]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.06.03-21.11.05:357][ 58]PIE: El servidor ha iniciado sesión
+[2026.06.03-21.11.05:362][ 58]PIE: Tiempo de inicio total de la reproducción en el editor de 0,422 segundos.
+[2026.06.03-21.11.05:469][ 58]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.11.31:123][394]LogCharacterMovement: BP_CombatEnemy_C_5 is stuck and failed to move! Velocity: X=195.96 Y=320.92 Z=0.00 Location: X=-5283.72 Y=4928.71 Z=20.06 Normal: X=0.62 Y=-0.72 Z=-0.31 PenetrationDepth:1.040 Actor:BP_EnemyProjecyile_C_0 Component:StaticMesh BoneName:None (0 other events since notify)
+[2026.06.03-21.11.32:723][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.03-21.11.32:723][474]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.03-21.11.32:723][474]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.03-21.11.32:724][474]LogSlate: Window 'Previsualización de LiesOfP_Level [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2026.06.03-21.11.32:735][474]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-21.11.32:741][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-21.11.32:741][474]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.06.03-21.11.32:750][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.03-21.11.32:763][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-21.11.32:879][474]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.06.03-21.11.32:879][474]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.06.03-21.11.32:882][474]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.06.03-21.11.32:992][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2026.06.03-21.11.33:082][475]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.06.03-21.11.36:290][686]LogStreaming: Display: FlushAsyncLoading(1053): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.03-21.11.44:875][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.03-21.11.44:913][102]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_EnemyProjecyile] ([2] browsable assets)...
+[2026.06.03-21.11.44:921][102]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_EnemyProjecyile.BP_EnemyProjecyile]
+[2026.06.03-21.11.44:922][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_EnemyProjecyile]
+[2026.06.03-21.11.44:932][102]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_EnemyProjecyile
+[2026.06.03-21.11.44:932][102]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_EnemyProjecyile0357ED7F4DD2881EA1F9E288B2EDC3F4.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_EnemyProjecyile.uasset'
+[2026.06.03-21.11.44:941][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.648 ms (total: 2.05 sec)
+[2026.06.03-21.11.44:995][102]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.03-21.11.44:995][102]LogContentValidation: Enabled validators:
+[2026.06.03-21.11.44:995][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.03-21.11.44:995][102]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.03-21.11.44:995][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.03-21.11.44:995][102]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.03-21.11.44:995][102]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.03-21.11.44:995][102]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.03-21.11.44:995][102]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_EnemyProjecyile Validando recurso
+[2026.06.03-21.11.46:926][208]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-21.11.46:926][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-21.11.46:989][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.06.03-21.11.50:548][399]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1030.043091
+[2026.06.03-21.11.50:703][408]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.03-21.11.50:703][408]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1030.180908, Update Interval: 356.852325
+[2026.06.03-21.12.43:781][101]Cmd: EDIT COPY
+[2026.06.03-21.12.43:998][119]Cmd: EDIT PASTE
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: ================================================
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Total job queries 687, among them cache hits 68 (9.90%), DDC hits 536 (78.02%), Duplicates 80 (11.64%)
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Tracking 539 distinct input hashes that result in 379 distinct outputs (70.32%)
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: RAM used: 4,55 MiB of 1,60 GiB budget. Usage: 0.28%
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Shaders Compiled: 3
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Average time worker was idle: 0.22 s
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.04 s
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Job execution time: average 0.75 s, max 1.22 s
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Job life time (pending + execution): average 0.76 s, max 1.22
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Shader code size: total 24,156 KiB, numShaders 3, average 8,052 KiB, min 5,738 KiB, max 11,047 KiB
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.67 s
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Average processing rate: 1.80 jobs/sec
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Total thread time: 1,82 s
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Total thread preprocess time: 10,762 s
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Percentage time preprocessing: 591.30%
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Effective parallelization: 1.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.136359
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.01 sec, max 1.01 sec, min 1.01 sec)
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.40 sec, max 0.43 sec, min 0.38 sec)
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 55.63% of total time (compiled    1 times, average 1.01 sec, max 1.01 sec, min 1.01 sec)
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 44.37% of total time (compiled    2 times, average 0.40 sec, max 0.43 sec, min 0.38 sec)
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: === Material stats ===
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Materials Translated:    166
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Material Translation Only: 0.06 s (44%)
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: Material Cache Hits: 39 (23%)
+[2026.06.03-21.12.45:086][186]LogShaderCompilers: Display: ================================================
+[2026.06.03-21.12.59:102][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.03-21.12.59:168][454]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/5/8O/ZTCU86TZ4EGKSW70JE130L
+[2026.06.03-21.12.59:168][454]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/ZTCU86TZ4EGKSW70JE130L8BA2DE614CA4EF827748F897948CC3D9.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/5/8O/ZTCU86TZ4EGKSW70JE130L.uasset'
+[2026.06.03-21.12.59:177][454]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/C/OL/DRHBVJPCEOTH0HQ5JZ4PF6
+[2026.06.03-21.12.59:178][454]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/DRHBVJPCEOTH0HQ5JZ4PF6F6A8A7DF40891F8AC61468A78726114D.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/C/OL/DRHBVJPCEOTH0HQ5JZ4PF6.uasset'
+[2026.06.03-21.12.59:186][454]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/A/DA/G256Y3U16V3GS4A5RYFIAL
+[2026.06.03-21.12.59:186][454]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/G256Y3U16V3GS4A5RYFIALF348ED7E4C40FB43A484FDB40C937CF0.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/A/DA/G256Y3U16V3GS4A5RYFIAL.uasset'
+[2026.06.03-21.12.59:206][454]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/8/9F/HUUY03YTYROB09MN88CP8W
+[2026.06.03-21.12.59:206][454]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/HUUY03YTYROB09MN88CP8W9A3721974F30F9D1A32E8C99C0F6E535.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/8/9F/HUUY03YTYROB09MN88CP8W.uasset'
+[2026.06.03-21.12.59:213][454]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/6/MV/2EC977UXI3UPXENKTSCBG5
+[2026.06.03-21.12.59:213][454]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/2EC977UXI3UPXENKTSCBG58661159B40B4DF2CD65AD7AF919B3AAD.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/6/MV/2EC977UXI3UPXENKTSCBG5.uasset'
+[2026.06.03-21.12.59:221][454]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/5/ST/OZG1E9K9V7601H0AKIYAY2
+[2026.06.03-21.12.59:222][454]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/OZG1E9K9V7601H0AKIYAY2E66CC2EA4C0648534D4019886E8521CD.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/5/ST/OZG1E9K9V7601H0AKIYAY2.uasset'
+[2026.06.03-21.12.59:229][454]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/4/T2/B0YU8W8AT4417JIIBK5GM5
+[2026.06.03-21.12.59:229][454]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/B0YU8W8AT4417JIIBK5GM53F7C6D8242DEA9F1F3A2BD807EC65389.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/4/T2/B0YU8W8AT4417JIIBK5GM5.uasset'
+[2026.06.03-21.12.59:237][454]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/0/IW/B9ZDD8OWIRC8632G75RXR1
+[2026.06.03-21.12.59:238][454]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/B9ZDD8OWIRC8632G75RXR1B830AA2D432D6CAC7B7DEC8B458E5760.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/0/IW/B9ZDD8OWIRC8632G75RXR1.uasset'
+[2026.06.03-21.12.59:245][454]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/0/4M/FMQKLEB7SK2VYVKW30LO4Q
+[2026.06.03-21.12.59:245][454]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/FMQKLEB7SK2VYVKW30LO4Q91528F1B4B7C2A76353B09B830C15C12.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/0/4M/FMQKLEB7SK2VYVKW30LO4Q.uasset'
+[2026.06.03-21.12.59:253][454]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/0/XY/5O3R5O9QRNO2ZNPTGM9UHL
+[2026.06.03-21.12.59:253][454]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/5O3R5O9QRNO2ZNPTGM9UHL83D4F0F74DF8256E9F08FD9A40495953.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/0/XY/5O3R5O9QRNO2ZNPTGM9UHL.uasset'
+[2026.06.03-21.12.59:276][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.562 ms (total: 2.23 sec)
+[2026.06.03-21.12.59:325][454]LogContentValidation: Display: Starting to validate 10 assets
+[2026.06.03-21.12.59:325][454]LogContentValidation: Enabled validators:
+[2026.06.03-21.12.59:325][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.03-21.12.59:325][454]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.03-21.12.59:325][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.03-21.12.59:325][454]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.03-21.12.59:325][454]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.03-21.12.59:325][454]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.03-21.12.59:325][454]AssetCheck: /Game/LiesOfPLevel/MainLevel Validando recurso
+[2026.06.03-21.12.59:430][454]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.03-21.13.00:909][556]LogDebuggerCommands: Repeating last play command: Nueva ventana del editor (PIE)
+[2026.06.03-21.13.00:915][556]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.03-21.13.00:915][556]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.06.03-21.13.00:918][556]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 2.189 ms (total: 41.449 ms)
+[2026.06.03-21.13.00:923][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.03-21.13.00:923][556]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.03-21.13.01:122][556]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.03-21.13.01:138][556]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 15.346 ms (total: 246.992 ms)
+[2026.06.03-21.13.01:138][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.214235s)
+[2026.06.03-21.13.01:138][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.214264s)
+[2026.06.03-21.13.01:170][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.06.03-21.13.01:176][556]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.06.03-21.13.01:178][556]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.03-21.13.01:178][556]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.03-21.13.01:178][556]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.03-21.13.01:178][556]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.03-21.13.01:196][556]LogWorldPartition: Display: WorldPartition initialize took 17.549 ms (total: 774.601 ms)
+[2026.06.03-21.13.01:196][556]LogPlayLevel: PIE: World Init took: (0.020175s)
+[2026.06.03-21.13.01:196][556]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.06.03-21.13.01:196][556]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.03-21.13.01:196][556]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.03-21.13.01:196][556]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.03-21.13.01:196][556]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.03-21.13.01:198][556]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.03-21.13.01:198][556]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.03-21.13.01:198][556]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.03-21.13.01:198][556]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.03-21.13.01:198][556]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.03-21.13.01:198][556]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.03-21.13.01:198][556]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.03-21.13.01:199][556]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.03-21.13.01:215][556]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.06.03-21.13.01:215][556]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.03-21.13.01:215][556]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.03-21.13.01:215][556]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.03-21.13.01:216][556]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.06.03-21.13.01:216][556]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.06.03-21.13.01:218][556]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.06.03-21.13.01:218][556]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.06.03-21.13.01:218][556]LogInit: FAudioDevice initialized with ID 17.
+[2026.06.03-21.13.01:218][556]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainLevel'.
+[2026.06.03-21.13.01:218][556]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.06.03-21.13.01:271][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.03-21.13.01:271][556]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.03-21.13.01:297][556]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.06.03-23.13.01
+[2026.06.03-21.13.01:298][556]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.01:298][556]LogWorld: Bringing up level for play took: 0.027435
+[2026.06.03-21.13.01:302][556]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.06.03-21.13.01:314][556]PIE: El servidor ha iniciado sesión
+[2026.06.03-21.13.01:320][556]PIE: Tiempo de inicio total de la reproducción en el editor de 0,404 segundos.
+[2026.06.03-21.13.01:352][556]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.01:363][556]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.01:373][556]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.01:381][556]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.01:403][556]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.01:429][556]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.01:458][556]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.01:461][556]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.03:283][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.03-21.13.03:283][633]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.03-21.13.03:283][633]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.03-21.13.03:284][633]LogSlate: Window 'Previsualización de LiesOfP_Level [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2026.06.03-21.13.03:303][633]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-21.13.03:310][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-21.13.03:310][633]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.06.03-21.13.03:323][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.03-21.13.03:330][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-21.13.03:374][633]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.06.03-21.13.03:375][633]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.06.03-21.13.03:376][633]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.06.03-21.13.03:399][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.06.03-21.13.03:477][634]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.06.03-21.13.06:179][811]Cmd: DELETE
+[2026.06.03-21.13.06:180][811]Cmd: ACTOR DELETE
+[2026.06.03-21.13.06:192][811]LogEditorActor: Deleted Actor: BP_CombatEnemyDistance_C
+[2026.06.03-21.13.06:224][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.06.03-21.13.06:227][811]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2026.06.03-21.13.06:558][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.03-21.13.06:664][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.06.03-21.13.06:692][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.06.03-21.13.06:717][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.06.03-21.13.06:735][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.803 ms (total: 2.40 sec)
+[2026.06.03-21.13.07:601][916]LogDebuggerCommands: Repeating last play command: Nueva ventana del editor (PIE)
+[2026.06.03-21.13.07:607][916]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.03-21.13.07:607][916]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.06.03-21.13.07:610][916]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 3.383 ms (total: 44.832 ms)
+[2026.06.03-21.13.07:615][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.03-21.13.07:615][916]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.03-21.13.07:807][916]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.03-21.13.07:824][916]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 16.004 ms (total: 262.996 ms)
+[2026.06.03-21.13.07:824][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.208049s)
+[2026.06.03-21.13.07:824][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.208079s)
+[2026.06.03-21.13.07:851][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.06.03-21.13.07:853][916]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.06.03-21.13.07:855][916]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.03-21.13.07:855][916]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.03-21.13.07:855][916]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.03-21.13.07:855][916]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.03-21.13.07:871][916]LogWorldPartition: Display: WorldPartition initialize took 16.698 ms (total: 791.300 ms)
+[2026.06.03-21.13.07:871][916]LogPlayLevel: PIE: World Init took: (0.019197s)
+[2026.06.03-21.13.07:872][916]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.06.03-21.13.07:872][916]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.03-21.13.07:872][916]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.03-21.13.07:872][916]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.03-21.13.07:872][916]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.03-21.13.07:872][916]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.03-21.13.07:872][916]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.03-21.13.07:872][916]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.03-21.13.07:872][916]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.03-21.13.07:872][916]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.03-21.13.07:872][916]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.03-21.13.07:872][916]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.03-21.13.07:874][916]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.03-21.13.07:893][916]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.06.03-21.13.07:893][916]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.03-21.13.07:893][916]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.03-21.13.07:893][916]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.03-21.13.07:893][916]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.06.03-21.13.07:893][916]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.06.03-21.13.07:896][916]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.06.03-21.13.07:896][916]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.06.03-21.13.07:896][916]LogInit: FAudioDevice initialized with ID 18.
+[2026.06.03-21.13.07:896][916]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainLevel'.
+[2026.06.03-21.13.07:896][916]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.06.03-21.13.07:943][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.03-21.13.07:943][916]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.03-21.13.07:970][916]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.06.03-23.13.07
+[2026.06.03-21.13.07:970][916]LogWorld: Bringing up level for play took: 0.026325
+[2026.06.03-21.13.07:972][916]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.06.03-21.13.07:984][916]PIE: El servidor ha iniciado sesión
+[2026.06.03-21.13.07:989][916]PIE: Tiempo de inicio total de la reproducción en el editor de 0,382 segundos.
+[2026.06.03-21.13.08:018][916]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.08:029][916]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.08:036][916]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.08:044][916]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.08:065][916]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.08:086][916]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.08:127][916]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.08:129][916]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.13.35:817][289]LogCharacterMovement: BP_CombatEnemy_C_4 is stuck and failed to move! Velocity: X=394.99 Y=-214.43 Z=-0.00 Location: X=-6213.60 Y=-2870.59 Z=22.15 Normal: X=0.85 Y=0.53 Z=-0.00 PenetrationDepth:18.058 Actor:BP_ThirdPersonCharacter_C_0 Component:Weapon BoneName:None (0 other events since notify)
+[2026.06.03-21.13.45:362][788]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.03-21.13.45:362][788]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.03-21.13.45:362][788]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.03-21.13.45:363][788]LogSlate: Window 'Previsualización de LiesOfP_Level [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2026.06.03-21.13.45:384][788]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-21.13.45:391][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-21.13.45:391][788]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.06.03-21.13.45:395][788]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.03-21.13.45:415][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-21.13.45:551][788]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.03-21.13.45:560][788]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.06.03-21.13.45:560][788]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.06.03-21.13.45:561][788]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.06.03-21.13.45:698][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2026.06.03-21.13.45:755][789]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.06.03-21.13.53:756][404]Cmd: EDIT COPY
+[2026.06.03-21.13.58:981][761]Cmd: EDIT COPY
+[2026.06.03-21.13.59:261][784]Cmd: EDIT PASTE
+[2026.06.03-21.14.16:449][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.03-21.14.16:517][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.06.03-21.14.16:549][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.06.03-21.14.16:578][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.06.03-21.14.16:587][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/1/MU/NZVVZA5KPTX0NW4EIRZVQA
+[2026.06.03-21.14.16:587][ 94]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/NZVVZA5KPTX0NW4EIRZVQA7C264DF744C7E6E4DF68EAB7E23F7D8B.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/1/MU/NZVVZA5KPTX0NW4EIRZVQA.uasset'
+[2026.06.03-21.14.16:596][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/A/OZ/LYQZLJPS6L774NKV4BTQUG
+[2026.06.03-21.14.16:596][ 94]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/LYQZLJPS6L774NKV4BTQUGAC49C2B04FD104654DBAFC9764552B56.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/A/OZ/LYQZLJPS6L774NKV4BTQUG.uasset'
+[2026.06.03-21.14.16:604][ 94]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/B/WD/CRGKA2E85MRB29OFM32SHX
+[2026.06.03-21.14.16:604][ 94]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/CRGKA2E85MRB29OFM32SHXB39F803745007CE1EBC00FBBA9EDB5AA.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/B/WD/CRGKA2E85MRB29OFM32SHX.uasset'
+[2026.06.03-21.14.16:624][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 174.658 ms (total: 2.58 sec)
+[2026.06.03-21.14.16:670][ 94]LogContentValidation: Display: Starting to validate 3 assets
+[2026.06.03-21.14.16:670][ 94]LogContentValidation: Enabled validators:
+[2026.06.03-21.14.16:670][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.03-21.14.16:670][ 94]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.03-21.14.16:670][ 94]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.03-21.14.16:670][ 94]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.03-21.14.16:670][ 94]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.03-21.14.16:671][ 94]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.03-21.14.16:671][ 94]AssetCheck: /Game/LiesOfPLevel/MainLevel Validando recurso
+[2026.06.03-21.14.16:728][ 94]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.03-21.14.30:428][165]Cmd: EDIT COPY
+[2026.06.03-21.14.30:733][176]Cmd: EDIT PASTE
+[2026.06.03-21.14.45:149][239]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.06.03-21.14.45:921][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.03-21.14.46:014][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.06.03-21.14.46:041][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.06.03-21.14.46:072][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.06.03-21.14.46:081][295]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/F/09/UA82W9KXWUFS97XEX9CQO2
+[2026.06.03-21.14.46:081][295]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/UA82W9KXWUFS97XEX9CQO2A3D2AA2146C51723A1BFBAA98AB4694E.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/F/09/UA82W9KXWUFS97XEX9CQO2.uasset'
+[2026.06.03-21.14.46:090][295]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/7/BB/PKQGFUDAV76MQJCXZT3JIM
+[2026.06.03-21.14.46:090][295]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/PKQGFUDAV76MQJCXZT3JIM6386E7B14604C2B9928C069B24D4A5A6.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/7/BB/PKQGFUDAV76MQJCXZT3JIM.uasset'
+[2026.06.03-21.14.46:099][295]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/0/GZ/2NNMTZEND81CDWK8AGKJRY
+[2026.06.03-21.14.46:099][295]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/2NNMTZEND81CDWK8AGKJRYE4C0A1E64B00DC5B84AAE1A8893CFE75.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/0/GZ/2NNMTZEND81CDWK8AGKJRY.uasset'
+[2026.06.03-21.14.46:107][295]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/A/AU/RZ88Y6OQ4Q6DBSDOLYMONG
+[2026.06.03-21.14.46:107][295]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/RZ88Y6OQ4Q6DBSDOLYMONGF9E45D914E1AE90566E293A8ABDE8643.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/A/AU/RZ88Y6OQ4Q6DBSDOLYMONG.uasset'
+[2026.06.03-21.14.46:139][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 218.183 ms (total: 2.80 sec)
+[2026.06.03-21.14.46:194][295]LogContentValidation: Display: Starting to validate 4 assets
+[2026.06.03-21.14.46:194][295]LogContentValidation: Enabled validators:
+[2026.06.03-21.14.46:194][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.03-21.14.46:194][295]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.03-21.14.46:194][295]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.03-21.14.46:194][295]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.03-21.14.46:194][295]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.03-21.14.46:194][295]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.03-21.14.46:194][295]AssetCheck: /Game/LiesOfPLevel/MainLevel Validando recurso
+[2026.06.03-21.14.46:244][295]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.03-21.14.49:848][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
