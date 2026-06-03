@@ -2962,3 +2962,245 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.03-21.14.46:194][295]AssetCheck: /Game/LiesOfPLevel/MainLevel Validando recurso
 [2026.06.03-21.14.46:244][295]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
 [2026.06.03-21.14.49:848][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.06.03-21.15.43:823][608]Cmd: EDIT COPY
+[2026.06.03-21.15.44:642][682]Cmd: EDIT PASTE
+[2026.06.03-21.15.49:354][999]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy_C
+[2026.06.03-21.15.49:354][999]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy_C
+[2026.06.03-21.15.49:361][999]LogActorFactory: Actor Factory spawned Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy as actor: BP_CombatEnemy_C /Game/LiesOfPLevel/MainLevel.MainLevel:PersistentLevel.BP_CombatEnemy_C_0
+[2026.06.03-21.15.49:364][999]LogActorFactory: Actor Factory spawned Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy as actor: BP_CombatEnemy_C /Game/LiesOfPLevel/MainLevel.MainLevel:PersistentLevel.BP_CombatEnemy_C_0
+[2026.06.03-21.15.49:371][999]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.06.03-21.15.50:207][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.06.03-21.15.50:213][ 54]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2026.06.03-21.15.50:222][ 54]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy_C
+[2026.06.03-21.15.50:222][ 54]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy_C
+[2026.06.03-21.15.50:228][ 54]LogActorFactory: Actor Factory spawned Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy as actor: BP_CombatEnemy_C /Game/LiesOfPLevel/MainLevel.MainLevel:PersistentLevel.BP_CombatEnemy_C_UAID_D85ED32CBAE363E102_1506105529
+[2026.06.03-21.15.50:233][ 54]LogActorFactory: Actor Factory spawned Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy as actor: BP_CombatEnemy_C /Game/LiesOfPLevel/MainLevel.MainLevel:PersistentLevel.BP_CombatEnemy_C_UAID_D85ED32CBAE363E102_1506105529
+[2026.06.03-21.16.19:753][ 91]LogStreaming: Display: FlushAsyncLoading(1054): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.03-21.16.19:774][ 91]LogMaterial: Display: Material /Engine/VREditor/BasicMeshes/MI_Pyramid_01.MI_Pyramid_01 needed to have new flag set bUsedWithSkeletalMesh !
+[2026.06.03-21.16.22:471][183]Cmd: TRANSACTION UNDO
+[2026.06.03-21.16.22:471][183]LogEditorTransaction: Undo Sustituir material usado en componentes
+[2026.06.03-21.16.42:541][872]LogStreaming: Display: FlushAsyncLoading(1055): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.03-21.16.42:553][872]LogMaterial: Display: Material /Engine/EditorMaterials/Cascade/CASC_RenderCross_MAT.CASC_RenderCross_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2026.06.03-21.17.09:901][742]LogStreaming: Display: FlushAsyncLoading(1056): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.03-21.17.09:906][742]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2026.06.03-21.17.09:906][742]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2026.06.03-21.17.09:906][742]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2026.06.03-21.17.10:025][743]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2026.06.03-21.17.10:025][743]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2026.06.03-21.17.10:025][743]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2026.06.03-21.17.10:123][745]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2026.06.03-21.17.10:123][745]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2026.06.03-21.17.10:123][745]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2026.06.03-21.17.21:330][512]LogStreaming: Display: FlushAsyncLoading(1057): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.03-21.17.31:914][170]LogStreaming: Display: FlushAsyncLoading(1058): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.03-21.17.31:989][170]LogMaterial: Display: Material /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/TextureBasedMorphDemo.TextureBasedMorphDemo needed to have new flag set bUsedWithSkeletalMesh !
+[2026.06.03-21.17.44:721][  1]LogStreaming: Display: FlushAsyncLoading(1059): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.03-21.17.44:734][  1]LogMaterial: Display: Material /Engine/EditorMaterials/Cascade/CASC_RenderNormal_MAT.CASC_RenderNormal_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2026.06.03-21.17.56:342][726]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1395.839600
+[2026.06.03-21.17.56:493][742]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.03-21.17.56:493][742]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1395.980103, Update Interval: 307.328094
+[2026.06.03-21.18.02:488][212]LogDebuggerCommands: Repeating last play command: Nueva ventana del editor (PIE)
+[2026.06.03-21.18.02:494][212]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.03-21.18.02:494][212]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.06.03-21.18.02:497][212]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 2.736 ms (total: 47.569 ms)
+[2026.06.03-21.18.02:503][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.03-21.18.02:503][212]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.03-21.18.02:709][212]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.03-21.18.02:726][212]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 16.386 ms (total: 279.383 ms)
+[2026.06.03-21.18.02:726][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.223635s)
+[2026.06.03-21.18.02:726][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.223669s)
+[2026.06.03-21.18.02:759][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.06.03-21.18.02:764][212]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.06.03-21.18.02:765][212]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.03-21.18.02:765][212]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.03-21.18.02:765][212]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.03-21.18.02:765][212]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.03-21.18.02:782][212]LogWorldPartition: Display: WorldPartition initialize took 16.685 ms (total: 807.986 ms)
+[2026.06.03-21.18.02:782][212]LogPlayLevel: PIE: World Init took: (0.018747s)
+[2026.06.03-21.18.02:783][212]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.06.03-21.18.02:783][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.03-21.18.02:783][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.03-21.18.02:783][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.03-21.18.02:783][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.03-21.18.02:783][212]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.03-21.18.02:783][212]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.03-21.18.02:783][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.03-21.18.02:783][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.03-21.18.02:783][212]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.03-21.18.02:783][212]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.03-21.18.02:783][212]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.03-21.18.02:785][212]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.03-21.18.02:802][212]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.06.03-21.18.02:802][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.03-21.18.02:802][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.03-21.18.02:802][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.03-21.18.02:803][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.06.03-21.18.02:803][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.06.03-21.18.02:806][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.06.03-21.18.02:806][212]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.06.03-21.18.02:806][212]LogInit: FAudioDevice initialized with ID 19.
+[2026.06.03-21.18.02:806][212]LogAudio: Display: Audio Device (ID: 19) registered with world 'MainLevel'.
+[2026.06.03-21.18.02:806][212]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.06.03-21.18.02:855][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.03-21.18.02:855][212]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.03-21.18.02:881][212]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.06.03-23.18.02
+[2026.06.03-21.18.02:882][212]LogWorld: Bringing up level for play took: 0.027729
+[2026.06.03-21.18.02:884][212]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.06.03-21.18.02:897][212]PIE: El servidor ha iniciado sesión
+[2026.06.03-21.18.02:902][212]PIE: Tiempo de inicio total de la reproducción en el editor de 0,408 segundos.
+[2026.06.03-21.18.02:938][212]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.18.02:952][212]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.18.02:961][212]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.18.02:969][212]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.18.02:997][212]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.18.03:029][212]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.18.03:060][212]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.18.03:062][212]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: ================================================
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Total job queries 1037, among them cache hits 128 (12.34%), DDC hits 687 (66.25%), Duplicates 105 (10.13%)
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Tracking 804 distinct input hashes that result in 570 distinct outputs (70.90%)
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: RAM used: 6,07 MiB of 1,60 GiB budget. Usage: 0.37%
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Shaders Compiled: 117
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Jobs assigned 117, completed 117 (100%)
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Average time worker was idle: 13.11 s
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Time job spent in pending queue: average 0.23 s, longest 1.88 s
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Job execution time: average 1.05 s, max 2.94 s
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Job life time (pending + execution): average 1.28 s, max 3.01
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Shader code size: total 1,089 MiB, numShaders 125, average 8,928 KiB, min 2,312 KiB, max 15,508 KiB
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 30.70 s
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Jobs were issued in 96 batches (only local compilation was used), average 1.22 jobs/batch
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Average processing rate: 3.81 jobs/sec
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Total thread time: 79,524 s
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Total thread preprocess time: 15,54 s
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Percentage time preprocessing: 19.54%
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Effective parallelization: 2.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.323843
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    2 times, average 1.51 sec, max 1.58 sec, min 1.44 sec)
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 1.46 sec, max 1.60 sec, min 1.32 sec)
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    7 times, average 1.25 sec, max 1.68 sec, min 1.00 sec)
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   12 times, average 0.89 sec, max 1.23 sec, min 0.73 sec)
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 0.87 sec, max 0.88 sec, min 0.86 sec)
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.94% of total time (compiled   35 times, average 0.50 sec, max 0.87 sec, min 0.36 sec)
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.48% of total time (compiled   12 times, average 0.89 sec, max 1.23 sec, min 0.73 sec)
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 11.02% of total time (compiled    7 times, average 1.25 sec, max 1.68 sec, min 1.00 sec)
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.35% of total time (compiled    4 times, average 1.46 sec, max 1.60 sec, min 1.32 sec)
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.61% of total time (compiled    8 times, average 0.66 sec, max 0.73 sec, min 0.48 sec)
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: === Material stats ===
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Materials Translated:    176
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Material Translation Only: 0.07 s (44%)
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: Material Cache Hits: 39 (22%)
+[2026.06.03-21.18.45:119][237]LogShaderCompilers: Display: ================================================
+[2026.06.03-21.19.20:652][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.03-21.19.20:652][986]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.03-21.19.20:652][986]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.03-21.19.20:653][986]LogSlate: Window 'Previsualización de LiesOfP_Level [Modo de red: Standalone 0]  (64 bits/PC D3D SM6)' being destroyed
+[2026.06.03-21.19.20:673][986]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-21.19.20:680][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-21.19.20:680][986]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.06.03-21.19.20:684][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.03-21.19.20:704][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-21.19.20:919][986]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.03-21.19.20:922][986]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.06.03-21.19.20:922][986]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.06.03-21.19.20:925][986]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.06.03-21.19.21:207][986]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2026.06.03-21.19.21:361][987]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.06.03-21.19.24:077][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.03-21.19.24:156][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.06.03-21.19.24:187][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.06.03-21.19.24:216][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.06.03-21.19.24:227][192]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/A/Z2/V66D7ELGBFODFU4JYCGJNQ
+[2026.06.03-21.19.24:227][192]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/V66D7ELGBFODFU4JYCGJNQ2838DC2E4A6F68972572C6823335A407.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/A/Z2/V66D7ELGBFODFU4JYCGJNQ.uasset'
+[2026.06.03-21.19.24:234][192]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/6/29/I08YCE0T4N52FNZ21HDNEX
+[2026.06.03-21.19.24:234][192]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/I08YCE0T4N52FNZ21HDNEXF8F08E0D426559CD71B821A6997430D3.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/6/29/I08YCE0T4N52FNZ21HDNEX.uasset'
+[2026.06.03-21.19.24:243][192]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/E/56/6DD5IITIOL64L16L6MTA0P
+[2026.06.03-21.19.24:243][192]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/6DD5IITIOL64L16L6MTA0P06A4D50B4838D5FB303265A878E0AAC8.tmp' to 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/E/56/6DD5IITIOL64L16L6MTA0P.uasset'
+[2026.06.03-21.19.24:253][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.485 ms (total: 2.97 sec)
+[2026.06.03-21.19.24:291][192]LogContentValidation: Display: Starting to validate 3 assets
+[2026.06.03-21.19.24:291][192]LogContentValidation: Enabled validators:
+[2026.06.03-21.19.24:291][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.03-21.19.24:291][192]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.03-21.19.24:291][192]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.03-21.19.24:291][192]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.03-21.19.24:291][192]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.03-21.19.24:291][192]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.03-21.19.24:291][192]AssetCheck: /Game/LiesOfPLevel/MainLevel Validando recurso
+[2026.06.03-21.19.24:377][192]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.03-21.19.28:062][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.06.03-21.19.28:069][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.03-21.19.28:115][523]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EditorMaterials/Cascade/CASC_RenderCross_MAT] ([1] browsable assets)...
+[2026.06.03-21.19.28:115][523]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorMaterials/Cascade/CASC_RenderCross_MAT]
+[2026.06.03-21.19.28:116][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorMaterials/Cascade/CASC_RenderCross_MAT" FILE="../../../Engine/Content/EditorMaterials/Cascade/CASC_RenderCross_MAT.uasset" SILENT=true
+[2026.06.03-21.19.28:123][523]LogSavePackage: Moving output files for package: /Engine/EditorMaterials/Cascade/CASC_RenderCross_MAT
+[2026.06.03-21.19.28:123][523]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/CASC_RenderCross_MAT82ABEB97471107C6C7EF538A94D9C35E.tmp' to '../../../Engine/Content/EditorMaterials/Cascade/CASC_RenderCross_MAT.uasset'
+[2026.06.03-21.19.28:125][523]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/TextureBasedMorphDemo] ([1] browsable assets)...
+[2026.06.03-21.19.28:125][523]OBJ SavePackage: Finished generating thumbnails for package [/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/TextureBasedMorphDemo]
+[2026.06.03-21.19.28:133][523]LogSavePackage: Moving output files for package: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/TextureBasedMorphDemo
+[2026.06.03-21.19.28:134][523]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/TextureBasedMorphDemo613072AB45519247509A0794403241D7.tmp' to '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/TextureBasedMorphDemo.uasset'
+[2026.06.03-21.19.28:135][523]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/EditorMaterials/Cascade/CASC_RenderNormal_MAT] ([1] browsable assets)...
+[2026.06.03-21.19.28:135][523]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EditorMaterials/Cascade/CASC_RenderNormal_MAT]
+[2026.06.03-21.19.28:135][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EditorMaterials/Cascade/CASC_RenderNormal_MAT" FILE="../../../Engine/Content/EditorMaterials/Cascade/CASC_RenderNormal_MAT.uasset" SILENT=true
+[2026.06.03-21.19.28:142][523]LogSavePackage: Moving output files for package: /Engine/EditorMaterials/Cascade/CASC_RenderNormal_MAT
+[2026.06.03-21.19.28:143][523]LogSavePackage: Moving 'E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/CASC_RenderNormal_MATFB59703F4968A3B8280AAC9DA28CCCED.tmp' to '../../../Engine/Content/EditorMaterials/Cascade/CASC_RenderNormal_MAT.uasset'
+[2026.06.03-21.19.28:170][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.024 ms (total: 3.07 sec)
+[2026.06.03-21.19.28:226][523]LogContentValidation: Display: Starting to validate 3 assets
+[2026.06.03-21.19.28:226][523]LogContentValidation: Enabled validators:
+[2026.06.03-21.19.28:226][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.03-21.19.28:226][523]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.03-21.19.28:226][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.03-21.19.28:226][523]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.03-21.19.28:226][523]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.03-21.19.28:226][523]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.03-21.19.28:226][523]AssetCheck: /Engine/EditorMaterials/Cascade/CASC_RenderCross_MAT Validando recurso
+[2026.06.03-21.19.28:226][523]AssetCheck: /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/TextureBasedWPO/TextureBasedMorphDemo Validando recurso
+[2026.06.03-21.19.28:226][523]AssetCheck: /Engine/EditorMaterials/Cascade/CASC_RenderNormal_MAT Validando recurso
+[2026.06.03-21.19.28:248][523]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.03-21.19.38:690][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.06.03-21.19.41:642][530]LogTurnkeySupport: Project requires temp target (GameplayStateTree complemento está habilitado)
+[2026.06.03-21.19.41:642][530]LogLauncherProfile: Unable to use promoted target - E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Binaries/Win64/UnrealGame-Win64-Shipping.target does not exist.
+[2026.06.03-21.19.41:665][530]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/LiesOfP_Level.uproject" Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=55310  -project="E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/LiesOfP_Level.uproject" BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook  -project="E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/LiesOfP_Level.uproject"  -unrealexe="C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -build -pak -iostore -compressed -prereqs -archivedirectory="E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Build" -clientconfig=Shipping -nodebuginfo" -nocompile -nocompileuat ]
+[2026.06.03-21.19.41:673][530]LogStreaming: Display: FlushAsyncLoading(1060): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.03-21.19.41:716][530]UATHelper: Empaquetado (Windows): Running AutomationTool...
+[2026.06.03-21.19.41:791][535]UATHelper: Empaquetado (Windows): Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.06.03-21.19.41:927][541]UATHelper: Empaquetado (Windows): Starting AutomationTool...
+[2026.06.03-21.19.41:938][542]UATHelper: Empaquetado (Windows): Parsing command line: -ScriptsForProject=E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/LiesOfP_Level.uproject Turnkey -command=VerifySdk -platform=Win64 -UpdateIfNeeded -EditorIO -EditorIOPort=55310 -project=E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/LiesOfP_Level.uproject BuildCookRun -nop4 -utf8output -nocompileeditor -skipbuildeditor -cook -project=E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/LiesOfP_Level.uproject -unrealexe="C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\Win64\UnrealEditor-Cmd.exe" -platform=Win64 -installed -stage -archive -package -build -pak -iostore -compressed -prereqs -archivedirectory=E:/_GITHUB/LD_FinalTest_UnrealEngine/LiesOfP_Level/Build -clientconfig=Shipping -nodebuginfo -nocompile -nocompileuat
+[2026.06.03-21.19.42:087][553]UATHelper: Empaquetado (Windows): Initializing script modules...
+[2026.06.03-21.19.42:470][583]UATHelper: Empaquetado (Windows): Total script module initialization time: 0.38 s.
+[2026.06.03-21.19.42:533][588]UATHelper: Empaquetado (Windows): Using C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe
+[2026.06.03-21.19.42:841][612]UATHelper: Empaquetado (Windows): Executing commands...
+[2026.06.03-21.19.42:958][621]UATHelper: Empaquetado (Windows): Installed Sdk validity:
+[2026.06.03-21.19.42:958][621]UATHelper: Empaquetado (Windows): Win64: (Status=Valid, MinAllowed_Sdk=10.0.19041.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.22621.0, Allowed_AutoSdk=10.0.22621.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists, Sdk_HasBestVersion")
+[2026.06.03-21.19.42:958][621]UATHelper: Empaquetado (Windows): Scanning for envvar changes...
+[2026.06.03-21.19.42:958][621]UATHelper: Empaquetado (Windows): ... done! 
+[2026.06.03-21.19.42:958][621]UATHelper: Empaquetado (Windows): Cleaning Temp Paths...
+[2026.06.03-21.19.42:958][621]UATHelper: Empaquetado (Windows): BUILD SUCCESSFUL
+[2026.06.03-21.19.42:958][621]UATHelper: Empaquetado (Windows): Setting up ProjectParams for E:\_GITHUB\LD_FinalTest_UnrealEngine\LiesOfP_Level\LiesOfP_Level.uproject
+[2026.06.03-21.19.44:379][734]UATHelper: Empaquetado (Windows): ********** BUILD COMMAND STARTED **********
+[2026.06.03-21.19.44:402][736]UATHelper: Empaquetado (Windows): Running: C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\ThirdParty\DotNet\8.0.300\win-x64\dotnet.exe "C:\Program Files\Epic Games\UE_5.6\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" LiesOfP_Level Win64 Shipping -Project=E:\_GITHUB\LD_FinalTest_UnrealEngine\LiesOfP_Level\LiesOfP_Level.uproject -Manifest=E:\_GITHUB\LD_FinalTest_UnrealEngine\LiesOfP_Level\Intermediate\Build\Manifest.xml  -remoteini="E:\_GITHUB\LD_FinalTest_UnrealEngine\LiesOfP_Level"  -skipdeploy  -log="C:\Users\aitra\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.6\UBA-LiesOfP_Level-Win64-Shipping.txt"
+[2026.06.03-21.19.44:734][762]UATHelper: Empaquetado (Windows): Log file: C:\Users\aitra\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.6\UBA-LiesOfP_Level-Win64-Shipping.txt
+[2026.06.03-21.19.45:352][809]UATHelper: Empaquetado (Windows): Using 'git status' to determine working set for adaptive non-unity build (E:\_GITHUB\LD_FinalTest_UnrealEngine).
+[2026.06.03-21.19.45:491][820]UATHelper: Empaquetado (Windows): Creating makefile for LiesOfP_Level (manifest 'E:\_GITHUB\LD_FinalTest_UnrealEngine\LiesOfP_Level\Intermediate\Build\Manifest.xml' not found)
+[2026.06.03-21.19.45:756][841]UATHelper: Empaquetado (Windows): Available x64 toolchains (1):
+[2026.06.03-21.19.45:756][841]UATHelper: Empaquetado (Windows):  * C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808
+[2026.06.03-21.19.45:756][841]UATHelper: Empaquetado (Windows):     (Family=14.43.34808, FamilyRank=1, Version=14.43.34809, HostArchitecture=x64, ReleaseChannel=Latest, Architecture=x64)
+[2026.06.03-21.19.45:767][841]UATHelper: Empaquetado (Windows): Visual Studio 2022 compiler version 14.43.34809 is not a preferred version. Please use the latest preferred version 14.38.33130
+[2026.06.03-21.19.50:091][181]UATHelper: Empaquetado (Windows): Writing manifest to E:\_GITHUB\LD_FinalTest_UnrealEngine\LiesOfP_Level\Intermediate\Build\Manifest.xml
+[2026.06.03-21.19.50:197][189]UATHelper: Empaquetado (Windows): Building LiesOfP_Level...
+[2026.06.03-21.19.50:197][189]UATHelper: Empaquetado (Windows): Using Visual Studio 2022 14.43.34809 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2026.06.03-21.19.50:208][190]UATHelper: Empaquetado (Windows): Warning: Visual Studio 2022 compiler is not a preferred version
+[2026.06.03-21.19.50:208][190]UATHelper: Empaquetado (Windows): Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2026.06.03-21.19.50:208][190]UATHelper: Empaquetado (Windows):   Executing up to 8 processes, one per physical core
+[2026.06.03-21.19.50:208][190]UATHelper: Empaquetado (Windows):   Requested 1.5 GB memory per action, 9.56 GB available: limiting max parallel actions to 6
+[2026.06.03-21.19.50:211][190]PackagingResults: Warning: Visual Studio 2022 compiler is not a preferred version
+[2026.06.03-21.19.50:218][191]UATHelper: Empaquetado (Windows): Using Unreal Build Accelerator local executor to run 3 action(s)
+[2026.06.03-21.19.50:240][193]UATHelper: Empaquetado (Windows):   Storage capacity 40Gb
+[2026.06.03-21.19.50:251][194]UATHelper: Empaquetado (Windows): ---- Starting trace: 260603_231950 ----
+[2026.06.03-21.19.50:262][195]UATHelper: Empaquetado (Windows): UbaSessionServer - Disable remote execution (remote sessions will finish current processes)
+[2026.06.03-21.19.50:262][195]UATHelper: Empaquetado (Windows): ------ Building 3 action(s) started ------
