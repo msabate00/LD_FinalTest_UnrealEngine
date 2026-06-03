@@ -52,6 +52,9 @@ Plugins/**/Binaries/*
 
 # Builds
 Build/*
+Build/
+LiesOfP_Level/
+LiesOfP_Level/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
