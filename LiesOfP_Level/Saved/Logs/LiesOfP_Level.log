@@ -5949,3 +5949,1195 @@ Make sure '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCh
 [2026.06.05-17.29.11:752][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.06.05-17.29.11:752][367]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.06.05-17.29.11:752][367]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.06.05-17.29.42:179][ 66]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemyDistance.BP_CombatEnemyDistance
+[2026.06.05-17.29.42:180][ 66]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.06.05-17.32.37:389][ 65]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12152.541992
+[2026.06.05-17.32.38:389][ 68]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-17.32.38:389][ 68]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12153.208008, Update Interval: 320.332642
+[2026.06.05-17.38.30:758][287]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12505.914062
+[2026.06.05-17.38.31:758][290]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-17.38.31:758][290]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12506.578125, Update Interval: 324.421509
+[2026.06.05-17.44.42:471][403]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12877.633789
+[2026.06.05-17.44.43:472][405]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-17.44.43:472][405]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12878.300781, Update Interval: 347.843262
+[2026.06.05-17.47.17:016][866]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=扬声器 (HECATE G6 PRO), InstanceID=1
+[2026.06.05-17.47.17:016][866]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{4d040758-cdaf-4f3f-9121-221fc5c4302b}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.06.05-17.47.17:128][866]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=扬声器 (HECATE G6 PRO), InstanceID=1
+[2026.06.05-17.47.17:129][866]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2026.06.05-17.47.17:129][866]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '{0.0.0.00000000}.{4d040758-cdaf-4f3f-9121-221fc5c4302b}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.06.05-17.47.17:146][866]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{4d040758-cdaf-4f3f-9121-221fc5c4302b}]
+[2026.06.05-17.47.17:146][866]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.06.05-17.47.17:146][866]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.06.05-17.47.17:482][867]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{4d040758-cdaf-4f3f-9121-221fc5c4302b}, Name=扬声器 (HECATE G6 PRO)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=13.37
+[2026.06.05-17.47.17:482][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.06.05-17.47.17:482][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.06.05-17.47.17:483][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.06.05-17.48.27:008][143]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Variant_Combat/Blueprints/AI/BP_EnemyProjecyile.BP_EnemyProjecyile
+[2026.06.05-17.48.27:009][143]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.06.05-17.49.25:216][382]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.05-17.49.25:221][382]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.05-17.49.25:221][382]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.06.05-17.49.25:224][382]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 2.972 ms (total: 58.984 ms)
+[2026.06.05-17.49.25:228][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.05-17.49.25:249][382]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.05-17.49.25:414][382]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.05-17.49.25:426][382]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 10.987 ms (total: 324.425 ms)
+[2026.06.05-17.49.25:426][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.176259s)
+[2026.06.05-17.49.25:426][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.176298s)
+[2026.06.05-17.49.25:480][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.06.05-17.49.25:484][382]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.06.05-17.49.25:485][382]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.05-17.49.25:485][382]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.05-17.49.25:485][382]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.05-17.49.25:485][382]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.05-17.49.25:497][382]LogWorldPartition: Display: WorldPartition initialize took 11.116 ms (total: 725.628 ms)
+[2026.06.05-17.49.25:497][382]LogPlayLevel: PIE: World Init took: (0.012988s)
+[2026.06.05-17.49.25:497][382]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2026.06.05-17.49.25:497][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.05-17.49.25:497][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.05-17.49.25:497][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.05-17.49.25:497][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.05-17.49.25:497][382]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.05-17.49.25:497][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.05-17.49.25:497][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.05-17.49.25:497][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.05-17.49.25:497][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.05-17.49.25:497][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.05-17.49.25:497][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.05-17.49.25:499][382]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.05-17.49.25:515][382]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (HECATE G6 PRO)
+[2026.06.05-17.49.25:515][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.05-17.49.25:515][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.05-17.49.25:515][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.05-17.49.25:515][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2026.06.05-17.49.25:515][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2026.06.05-17.49.25:517][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2026.06.05-17.49.25:517][382]LogInit: FAudioDevice initialized with ID 31.
+[2026.06.05-17.49.25:517][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2026.06.05-17.49.25:517][382]LogAudio: Display: Audio Device (ID: 31) registered with world 'MainLevel'.
+[2026.06.05-17.49.25:517][382]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2026.06.05-17.49.25:520][382]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.05-17.49.25:540][382]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.06.05-19.49.25
+[2026.06.05-17.49.25:541][382]LogWorld: Bringing up level for play took: 0.019695
+[2026.06.05-17.49.25:543][382]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2026.06.05-17.49.25:548][382]PIE: Server logged in
+[2026.06.05-17.49.25:550][382]PIE: Play in editor total start time 0.328 seconds.
+[2026.06.05-17.49.25:565][382]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.49.25:569][382]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.49.25:575][382]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.49.25:580][382]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.49.25:585][382]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.49.25:590][382]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.49.25:595][382]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.49.25:607][382]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.49.25:620][382]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.49.25:705][383]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.05-17.49.37:262][221]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99
+[2026.06.05-17.49.37:262][221]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98
+[2026.06.05-17.49.37:262][221]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 97
+[2026.06.05-17.49.37:262][221]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 96
+[2026.06.05-17.49.37:262][221]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 95
+[2026.06.05-17.49.37:262][221]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 94
+[2026.06.05-17.49.37:262][221]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 93
+[2026.06.05-17.49.37:262][221]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 92
+[2026.06.05-17.49.37:262][221]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 91
+[2026.06.05-17.49.37:262][221]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 90
+[2026.06.05-17.49.37:319][225]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 89
+[2026.06.05-17.49.37:319][225]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 88
+[2026.06.05-17.49.37:319][225]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 87
+[2026.06.05-17.49.37:319][225]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 86
+[2026.06.05-17.49.37:319][225]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 85
+[2026.06.05-17.49.37:319][225]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 84
+[2026.06.05-17.49.37:319][225]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 83
+[2026.06.05-17.49.37:319][225]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 82
+[2026.06.05-17.49.45:057][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 81
+[2026.06.05-17.49.45:057][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 80
+[2026.06.05-17.49.45:057][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 79
+[2026.06.05-17.49.45:057][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 78
+[2026.06.05-17.49.45:057][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 77
+[2026.06.05-17.49.45:057][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 76
+[2026.06.05-17.49.45:057][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 75
+[2026.06.05-17.49.45:057][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 74
+[2026.06.05-17.49.45:057][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 73
+[2026.06.05-17.49.45:057][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 72
+[2026.06.05-17.49.45:057][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 71
+[2026.06.05-17.49.45:057][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70
+[2026.06.05-17.49.45:057][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 69
+[2026.06.05-17.49.45:057][831]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 68
+[2026.06.05-17.49.45:596][874]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 67
+[2026.06.05-17.49.45:596][874]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 66
+[2026.06.05-17.49.45:596][874]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 65
+[2026.06.05-17.49.45:596][874]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 64
+[2026.06.05-17.49.45:596][874]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 63
+[2026.06.05-17.49.45:596][874]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 62
+[2026.06.05-17.49.45:596][874]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 61
+[2026.06.05-17.49.46:096][914]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 60
+[2026.06.05-17.49.50:251][238]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 59
+[2026.06.05-17.49.50:251][238]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 58
+[2026.06.05-17.49.50:251][238]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 57
+[2026.06.05-17.49.50:251][238]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 56
+[2026.06.05-17.49.50:251][238]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 55
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 54
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 53
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 52
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 51
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 50
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 49
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 48
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 47
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 46
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 45
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 44
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 43
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 42
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 41
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 39
+[2026.06.05-17.49.50:793][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 38
+[2026.06.05-17.49.52:556][419]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 37
+[2026.06.05-17.49.52:556][419]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 36
+[2026.06.05-17.49.52:556][419]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 35
+[2026.06.05-17.49.52:556][419]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 34
+[2026.06.05-17.49.52:556][419]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 33
+[2026.06.05-17.49.52:556][419]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 32
+[2026.06.05-17.49.52:556][419]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 31
+[2026.06.05-17.49.52:556][419]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 30
+[2026.06.05-17.49.52:556][419]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 29
+[2026.06.05-17.49.52:556][419]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 28
+[2026.06.05-17.49.52:556][419]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 27
+[2026.06.05-17.49.55:928][667]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 26
+[2026.06.05-17.49.55:928][667]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 25
+[2026.06.05-17.49.55:928][667]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 24
+[2026.06.05-17.49.55:928][667]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 23
+[2026.06.05-17.49.55:928][667]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 22
+[2026.06.05-17.49.55:928][667]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 21
+[2026.06.05-17.49.55:928][667]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 20
+[2026.06.05-17.49.55:928][667]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 19
+[2026.06.05-17.49.55:928][667]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 18
+[2026.06.05-17.49.55:928][667]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 17
+[2026.06.05-17.49.55:928][667]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 16
+[2026.06.05-17.49.59:346][940]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 15
+[2026.06.05-17.49.59:346][940]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 14
+[2026.06.05-17.49.59:346][940]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 13
+[2026.06.05-17.49.59:890][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 12
+[2026.06.05-17.49.59:890][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 11
+[2026.06.05-17.49.59:890][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 10
+[2026.06.05-17.49.59:890][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 9
+[2026.06.05-17.49.59:890][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 8
+[2026.06.05-17.49.59:890][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 7
+[2026.06.05-17.49.59:890][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 6
+[2026.06.05-17.49.59:890][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 5
+[2026.06.05-17.49.59:890][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 4
+[2026.06.05-17.49.59:890][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 3
+[2026.06.05-17.49.59:890][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 2
+[2026.06.05-17.49.59:890][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1
+[2026.06.05-17.49.59:890][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 0
+[2026.06.05-17.49.59:890][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99
+[2026.06.05-17.49.59:890][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98
+[2026.06.05-17.49.59:890][982]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 97
+[2026.06.05-17.50.06:556][480]LogBlueprintUserMessages: [BP_RestArea_C_UAID_2C0DA7DEA87CEDE102_1338333808] Reset!
+[2026.06.05-17.50.06:571][480]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.06:576][480]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.06:583][480]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.06:587][480]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.06:593][480]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.06:599][480]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.06:604][480]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.06:617][480]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.06:632][480]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.15:431][ 30]LogBlueprintUserMessages: [BP_RestArea_C_UAID_2C0DA7DEA87CEDE102_1338333808] Reset!
+[2026.06.05-17.50.15:444][ 30]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.15:449][ 30]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.15:456][ 30]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.15:461][ 30]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.15:466][ 30]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.15:472][ 30]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.15:477][ 30]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.15:490][ 30]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.15:504][ 30]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.50.55:809][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99
+[2026.06.05-17.50.55:809][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98
+[2026.06.05-17.50.55:809][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 97
+[2026.06.05-17.50.55:809][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 96
+[2026.06.05-17.50.55:809][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 95
+[2026.06.05-17.50.55:809][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 94
+[2026.06.05-17.50.55:809][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 93
+[2026.06.05-17.50.55:809][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 92
+[2026.06.05-17.50.55:809][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 91
+[2026.06.05-17.50.55:809][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 90
+[2026.06.05-17.50.55:809][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 89
+[2026.06.05-17.50.55:809][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 88
+[2026.06.05-17.50.55:809][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 87
+[2026.06.05-17.50.55:809][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 86
+[2026.06.05-17.50.55:809][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 85
+[2026.06.05-17.50.55:809][885]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 84
+[2026.06.05-17.50.56:345][921]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 83
+[2026.06.05-17.51.01:097][241]LogBlueprintUserMessages: [BP_RestArea_C_UAID_2C0DA7DEA87CF2E102_1528072689] Reset!
+[2026.06.05-17.51.01:109][241]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.51.01:115][241]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.51.01:122][241]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.51.01:126][241]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.51.01:131][241]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.51.01:137][241]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.51.01:142][241]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.51.01:156][241]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.51.01:170][241]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.51.01:230][242]LogScript: Warning: Accessed None trying to read (real) property Character in StateTreeTask_WaitForLanding_C
+	StateTreeTask_WaitForLanding_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIControllerDistance_C_19.StateTreeTask_WaitForLanding_C
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_WaitForLanding.StateTreeTask_WaitForLanding_C:ExecuteUbergraph_StateTreeTask_WaitForLanding:00C3
+[2026.06.05-17.51.01:230][242]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Character in StateTreeTask_WaitForLanding_C". Node:  Bind Event to Landed Delegate Graph:  EventGraph Function:  Execute Ubergraph State Tree Task Wait for Landing Blueprint:  StateTreeTask_WaitForLanding
+[2026.06.05-17.51.10:466][806]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13265.615234
+[2026.06.05-17.51.10:598][816]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-17.51.10:599][816]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13265.733398, Update Interval: 321.733459
+[2026.06.05-17.51.22:256][678]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99
+[2026.06.05-17.51.22:256][678]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98
+[2026.06.05-17.51.22:256][678]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 97
+[2026.06.05-17.51.22:256][678]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 96
+[2026.06.05-17.51.22:256][678]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 95
+[2026.06.05-17.51.22:256][678]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 94
+[2026.06.05-17.51.22:256][678]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 93
+[2026.06.05-17.51.22:256][678]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 92
+[2026.06.05-17.51.22:256][678]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 91
+[2026.06.05-17.51.22:256][678]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 90
+[2026.06.05-17.51.22:256][678]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 89
+[2026.06.05-17.51.22:429][689]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 88
+[2026.06.05-17.51.22:430][689]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 87
+[2026.06.05-17.51.22:430][689]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 86
+[2026.06.05-17.51.22:430][689]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 85
+[2026.06.05-17.51.22:430][689]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 84
+[2026.06.05-17.51.22:430][689]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 83
+[2026.06.05-17.51.22:430][689]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 82
+[2026.06.05-17.51.22:430][689]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 81
+[2026.06.05-17.51.22:430][689]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 80
+[2026.06.05-17.51.22:430][689]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 79
+[2026.06.05-17.51.22:430][689]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 78
+[2026.06.05-17.51.22:958][729]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 77
+[2026.06.05-17.51.24:830][873]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 76
+[2026.06.05-17.51.24:830][873]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 75
+[2026.06.05-17.51.24:830][873]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 74
+[2026.06.05-17.51.25:367][915]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 73
+[2026.06.05-17.51.25:873][953]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 72
+[2026.06.05-17.51.25:873][953]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 71
+[2026.06.05-17.51.25:873][953]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70
+[2026.06.05-17.51.25:873][953]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 69
+[2026.06.05-17.51.26:436][996]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 68
+[2026.06.05-17.51.26:436][996]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 67
+[2026.06.05-17.51.26:437][996]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 66
+[2026.06.05-17.51.30:459][295]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 65
+[2026.06.05-17.51.30:986][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 64
+[2026.06.05-17.51.30:986][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 63
+[2026.06.05-17.51.30:986][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 62
+[2026.06.05-17.51.30:986][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 61
+[2026.06.05-17.51.30:986][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 60
+[2026.06.05-17.51.30:986][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 59
+[2026.06.05-17.51.30:986][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 58
+[2026.06.05-17.51.30:986][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 57
+[2026.06.05-17.51.30:986][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 56
+[2026.06.05-17.51.30:986][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 55
+[2026.06.05-17.51.30:986][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 54
+[2026.06.05-17.51.30:986][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 53
+[2026.06.05-17.51.30:986][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 52
+[2026.06.05-17.51.30:986][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 51
+[2026.06.05-17.51.30:986][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 50
+[2026.06.05-17.51.30:986][331]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 49
+[2026.06.05-17.51.33:103][485]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 48
+[2026.06.05-17.51.33:103][485]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 47
+[2026.06.05-17.51.33:103][485]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 46
+[2026.06.05-17.51.33:103][485]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 45
+[2026.06.05-17.51.33:103][485]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 44
+[2026.06.05-17.51.33:103][485]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 43
+[2026.06.05-17.51.33:103][485]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 42
+[2026.06.05-17.51.33:103][485]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 41
+[2026.06.05-17.51.33:103][485]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40
+[2026.06.05-17.51.33:103][485]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 39
+[2026.06.05-17.51.35:904][685]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 38
+[2026.06.05-17.51.35:904][685]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 37
+[2026.06.05-17.51.35:904][685]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 36
+[2026.06.05-17.51.35:904][685]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 35
+[2026.06.05-17.51.35:904][685]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 34
+[2026.06.05-17.51.35:904][685]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 33
+[2026.06.05-17.51.35:904][685]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 32
+[2026.06.05-17.51.37:564][810]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 31
+[2026.06.05-17.51.37:564][810]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 30
+[2026.06.05-17.51.37:564][810]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 29
+[2026.06.05-17.51.37:564][810]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 28
+[2026.06.05-17.51.38:097][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 27
+[2026.06.05-17.51.38:097][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 26
+[2026.06.05-17.51.38:097][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 25
+[2026.06.05-17.51.38:097][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 24
+[2026.06.05-17.51.38:097][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 23
+[2026.06.05-17.51.38:097][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 22
+[2026.06.05-17.51.38:097][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 21
+[2026.06.05-17.51.38:097][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 20
+[2026.06.05-17.51.38:097][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 19
+[2026.06.05-17.51.38:097][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 18
+[2026.06.05-17.51.38:097][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 17
+[2026.06.05-17.51.38:097][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 16
+[2026.06.05-17.51.38:097][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 15
+[2026.06.05-17.51.38:097][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 14
+[2026.06.05-17.51.38:097][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 13
+[2026.06.05-17.51.38:097][850]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 12
+[2026.06.05-17.51.38:609][888]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 11
+[2026.06.05-17.51.38:609][888]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 10
+[2026.06.05-17.51.38:609][888]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 9
+[2026.06.05-17.51.38:609][888]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 8
+[2026.06.05-17.51.38:609][888]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 7
+[2026.06.05-17.51.38:609][888]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 6
+[2026.06.05-17.51.38:609][888]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 5
+[2026.06.05-17.51.38:609][888]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 4
+[2026.06.05-17.51.38:609][888]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 3
+[2026.06.05-17.51.44:616][339]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 2
+[2026.06.05-17.51.44:617][339]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1
+[2026.06.05-17.51.44:617][339]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 0
+[2026.06.05-17.51.44:617][339]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99
+[2026.06.05-17.51.44:617][339]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98
+[2026.06.05-17.51.44:617][339]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 97
+[2026.06.05-17.51.52:349][895]LogCharacterMovement: BP_CombatEnemy_C_109 is stuck and failed to move! Velocity: X=473.86 Y=-29.01 Z=0.00 Location: X=-1588.96 Y=-3060.29 Z=421.97 Normal: X=-0.61 Y=-0.79 Z=-0.00 PenetrationDepth:14.529 Actor:BP_ThirdPersonCharacter_C_0 Component:Weapon BoneName:None (0 other events since notify)
+[2026.06.05-17.51.52:434][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 96
+[2026.06.05-17.51.52:434][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 95
+[2026.06.05-17.51.52:434][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 94
+[2026.06.05-17.51.52:434][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 93
+[2026.06.05-17.51.52:434][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 92
+[2026.06.05-17.51.52:434][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 91
+[2026.06.05-17.51.52:434][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 90
+[2026.06.05-17.51.52:434][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 89
+[2026.06.05-17.51.52:434][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 88
+[2026.06.05-17.51.52:434][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 87
+[2026.06.05-17.51.52:434][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 86
+[2026.06.05-17.51.52:434][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 85
+[2026.06.05-17.51.52:434][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 84
+[2026.06.05-17.51.52:434][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 83
+[2026.06.05-17.51.52:434][900]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 82
+[2026.06.05-17.51.59:791][409]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 81
+[2026.06.05-17.51.59:791][409]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 80
+[2026.06.05-17.51.59:791][409]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 79
+[2026.06.05-17.51.59:791][409]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 78
+[2026.06.05-17.51.59:791][409]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 77
+[2026.06.05-17.51.59:791][409]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 76
+[2026.06.05-17.51.59:791][409]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 75
+[2026.06.05-17.51.59:791][409]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 74
+[2026.06.05-17.51.59:791][409]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 73
+[2026.06.05-17.51.59:791][409]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 72
+[2026.06.05-17.51.59:791][409]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 71
+[2026.06.05-17.51.59:791][409]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70
+[2026.06.05-17.51.59:791][409]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 69
+[2026.06.05-17.51.59:791][409]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 68
+[2026.06.05-17.51.59:791][409]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 67
+[2026.06.05-17.51.59:791][409]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 66
+[2026.06.05-17.52.00:321][448]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 65
+[2026.06.05-17.52.00:321][448]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 64
+[2026.06.05-17.52.00:321][448]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 63
+[2026.06.05-17.52.00:321][448]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 62
+[2026.06.05-17.52.00:321][448]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 61
+[2026.06.05-17.52.02:123][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 60
+[2026.06.05-17.52.02:123][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 59
+[2026.06.05-17.52.02:123][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 58
+[2026.06.05-17.52.02:123][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 57
+[2026.06.05-17.52.02:123][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 56
+[2026.06.05-17.52.02:123][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 55
+[2026.06.05-17.52.02:123][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 54
+[2026.06.05-17.52.02:123][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 53
+[2026.06.05-17.52.02:123][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 52
+[2026.06.05-17.52.02:123][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 51
+[2026.06.05-17.52.02:123][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 50
+[2026.06.05-17.52.02:123][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 49
+[2026.06.05-17.52.02:123][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 48
+[2026.06.05-17.52.02:123][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 47
+[2026.06.05-17.52.02:123][584]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 46
+[2026.06.05-17.52.02:344][601]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 45
+[2026.06.05-17.52.02:344][601]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 44
+[2026.06.05-17.52.02:344][601]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 43
+[2026.06.05-17.52.02:891][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 42
+[2026.06.05-17.52.02:891][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 41
+[2026.06.05-17.52.02:891][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40
+[2026.06.05-17.52.02:891][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 39
+[2026.06.05-17.52.02:891][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 38
+[2026.06.05-17.52.02:891][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 37
+[2026.06.05-17.52.02:891][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 36
+[2026.06.05-17.52.02:891][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 35
+[2026.06.05-17.52.02:891][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 34
+[2026.06.05-17.52.02:891][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 33
+[2026.06.05-17.52.02:891][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 32
+[2026.06.05-17.52.02:891][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 31
+[2026.06.05-17.52.02:891][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 30
+[2026.06.05-17.52.02:891][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 29
+[2026.06.05-17.52.02:891][642]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 28
+[2026.06.05-17.52.03:407][682]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 27
+[2026.06.05-17.52.08:651][ 75]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 26
+[2026.06.05-17.52.08:651][ 75]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 25
+[2026.06.05-17.52.08:651][ 75]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 24
+[2026.06.05-17.52.08:651][ 75]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 23
+[2026.06.05-17.52.08:651][ 75]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 22
+[2026.06.05-17.52.08:651][ 75]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 21
+[2026.06.05-17.52.11:779][308]LogBlueprintUserMessages: [BP_RestArea_C_UAID_2C0DA7DEA87CF2E102_1528072689] Reset!
+[2026.06.05-17.52.11:793][308]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.11:800][308]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.11:807][308]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.11:812][308]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.11:818][308]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.11:825][308]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.11:830][308]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.11:845][308]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.11:859][308]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.16:355][540]LogScript: Warning: Accessed None trying to read (real) property Character in StateTreeTask_WaitForLanding_C
+	StateTreeTask_WaitForLanding_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIControllerDistance_C_28.StateTreeTask_WaitForLanding_C
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_WaitForLanding.StateTreeTask_WaitForLanding_C:ExecuteUbergraph_StateTreeTask_WaitForLanding:00C3
+[2026.06.05-17.52.16:355][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Character in StateTreeTask_WaitForLanding_C". Node:  Bind Event to Landed Delegate Graph:  EventGraph Function:  Execute Ubergraph State Tree Task Wait for Landing Blueprint:  StateTreeTask_WaitForLanding
+[2026.06.05-17.52.21:962][929]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=69.38 Y=-8.64 Z=0.00 Location: X=-2560.26 Y=-3942.08 Z=420.03 Normal: X=-0.86 Y=0.50 Z=-0.14 PenetrationDepth:0.876 Actor:BP_EnemyProjecyile_C_6 Component:StaticMesh BoneName:None (0 other events since notify)
+[2026.06.05-17.52.23:511][ 46]LogScript: Warning: Accessed None trying to read (real) property Character in StateTreeTask_WaitForLanding_C
+	StateTreeTask_WaitForLanding_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIControllerDistance_C_37.StateTreeTask_WaitForLanding_C
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_WaitForLanding.StateTreeTask_WaitForLanding_C:ExecuteUbergraph_StateTreeTask_WaitForLanding:00C3
+[2026.06.05-17.52.23:511][ 46]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Character in StateTreeTask_WaitForLanding_C". Node:  Bind Event to Landed Delegate Graph:  EventGraph Function:  Execute Ubergraph State Tree Task Wait for Landing Blueprint:  StateTreeTask_WaitForLanding
+[2026.06.05-17.52.23:524][ 47]LogScript: Warning: Accessed None trying to read (real) property Character in StateTreeTask_WaitForLanding_C
+	StateTreeTask_WaitForLanding_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIControllerDistance_C_37.StateTreeTask_WaitForLanding_C
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_WaitForLanding.StateTreeTask_WaitForLanding_C:ExecuteUbergraph_StateTreeTask_WaitForLanding:007C
+[2026.06.05-17.52.23:524][ 47]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Character in StateTreeTask_WaitForLanding_C". Node:  Unbind Event from Landed Delegate Graph:  EventGraph Function:  Execute Ubergraph State Tree Task Wait for Landing Blueprint:  StateTreeTask_WaitForLanding
+[2026.06.05-17.52.23:532][ 48]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=58.01 Y=1.66 Z=0.00 Location: X=-2580.11 Y=-3919.18 Z=420.10 Normal: X=-0.75 Y=0.63 Z=-0.18 PenetrationDepth:4.988 Actor:BP_EnemyProjecyile_C_7 Component:StaticMesh BoneName:None (2 other events since notify)
+[2026.06.05-17.52.33:764][805]LogBlueprintUserMessages: [BP_RestArea_C_UAID_2C0DA7DEA87CF2E102_1528072689] Reset!
+[2026.06.05-17.52.33:777][805]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.33:782][805]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.33:789][805]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.33:794][805]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.33:798][805]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.33:805][805]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.33:809][805]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.33:822][805]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.33:838][805]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.52.45:533][564]LogCharacterMovement: BP_CombatEnemyDistance_C_46 is stuck and failed to move! Velocity: X=65.56 Y=152.11 Z=0.00 Location: X=-2411.78 Y=-3982.67 Z=422.15 Normal: X=0.78 Y=-0.63 Z=-0.00 PenetrationDepth:16.943 Actor:BP_EnemyProjecyile_C_9 Component:StaticMesh BoneName:None (0 other events since notify)
+[2026.06.05-17.53.07:258][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.05-17.53.07:258][140]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.05-17.53.07:259][140]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.05-17.53.07:261][140]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-17.53.07:266][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-17.53.07:267][140]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.06.05-17.53.07:270][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.05-17.53.07:277][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-17.53.07:343][140]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.05-17.53.07:344][140]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2026.06.05-17.53.07:344][140]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=4
+[2026.06.05-17.53.07:345][140]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=2
+[2026.06.05-17.53.07:350][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.05-17.53.07:400][140]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2026.06.05-17.53.07:495][141]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2026.06.05-17.55.12:253][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.06.05-17.55.13:532][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.05-17.55.13:568][921]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemyDistance] ([2] browsable assets)...
+[2026.06.05-17.55.13:608][921]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemyDistance.BP_CombatEnemyDistance]
+[2026.06.05-17.55.13:608][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemyDistance]
+[2026.06.05-17.55.13:648][921]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemyDistance
+[2026.06.05-17.55.13:650][921]LogSavePackage: Moving 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemyDistance47E29B2142EC65B5BF9EE2A501B1A2E6.tmp' to 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemyDistance.uasset'
+[2026.06.05-17.55.13:663][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.741 ms (total: 2.34 sec)
+[2026.06.05-17.55.13:696][921]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.05-17.55.13:696][921]LogContentValidation: Enabled validators:
+[2026.06.05-17.55.13:696][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.05-17.55.13:696][921]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.05-17.55.13:696][921]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.05-17.55.13:696][921]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.05-17.55.13:696][921]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.05-17.55.13:696][921]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.05-17.55.13:696][921]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemyDistance Validating asset
+[2026.06.05-17.55.13:724][921]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.05-17.55.20:382][446]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.05-17.55.20:387][446]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.05-17.55.20:387][446]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.06.05-17.55.20:389][446]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 2.520 ms (total: 61.505 ms)
+[2026.06.05-17.55.20:393][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.05-17.55.20:423][446]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.05-17.55.20:584][446]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.05-17.55.20:594][446]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 10.261 ms (total: 334.686 ms)
+[2026.06.05-17.55.20:595][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.172260s)
+[2026.06.05-17.55.20:595][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.172299s)
+[2026.06.05-17.55.20:627][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.06.05-17.55.20:630][446]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.06.05-17.55.20:633][446]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.05-17.55.20:633][446]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.05-17.55.20:633][446]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.05-17.55.20:633][446]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.05-17.55.20:644][446]LogWorldPartition: Display: WorldPartition initialize took 11.093 ms (total: 736.721 ms)
+[2026.06.05-17.55.20:644][446]LogPlayLevel: PIE: World Init took: (0.012980s)
+[2026.06.05-17.55.20:644][446]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2026.06.05-17.55.20:645][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.05-17.55.20:645][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.05-17.55.20:645][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.05-17.55.20:645][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.05-17.55.20:645][446]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.05-17.55.20:645][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.05-17.55.20:645][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.05-17.55.20:645][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.05-17.55.20:645][446]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.05-17.55.20:645][446]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.05-17.55.20:645][446]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.05-17.55.20:647][446]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.05-17.55.20:663][446]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (HECATE G6 PRO)
+[2026.06.05-17.55.20:664][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.05-17.55.20:664][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.05-17.55.20:664][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.05-17.55.20:664][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2026.06.05-17.55.20:664][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2026.06.05-17.55.20:666][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2026.06.05-17.55.20:666][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2026.06.05-17.55.20:666][446]LogInit: FAudioDevice initialized with ID 32.
+[2026.06.05-17.55.20:666][446]LogAudio: Display: Audio Device (ID: 32) registered with world 'MainLevel'.
+[2026.06.05-17.55.20:666][446]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2026.06.05-17.55.20:669][446]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.05-17.55.20:688][446]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.06.05-19.55.20
+[2026.06.05-17.55.20:689][446]LogWorld: Bringing up level for play took: 0.020050
+[2026.06.05-17.55.20:692][446]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2026.06.05-17.55.20:697][446]PIE: Server logged in
+[2026.06.05-17.55.20:699][446]PIE: Play in editor total start time 0.312 seconds.
+[2026.06.05-17.55.20:715][446]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.55.20:719][446]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.55.20:726][446]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.55.20:730][446]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.55.20:735][446]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.55.20:742][446]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.55.20:747][446]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.55.20:760][446]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.55.20:774][446]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-17.55.20:857][447]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.05-17.55.59:160][218]LogCharacterMovement: BP_CombatEnemyDistance_C_1 is stuck and failed to move! Velocity: X=301.79 Y=314.24 Z=0.00 Location: X=-2366.22 Y=-3705.03 Z=420.20 Normal: X=0.50 Y=-0.85 Z=-0.19 PenetrationDepth:14.094 Actor:BP_EnemyProjecyile_C_1 Component:StaticMesh BoneName:None (0 other events since notify)
+[2026.06.05-17.56.02:896][485]LogScript: Warning: Accessed None trying to read (real) property Character in StateTreeTask_WaitForLanding_C
+	StateTreeTask_WaitForLanding_C /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_CombatAIControllerDistance_C_1.StateTreeTask_WaitForLanding_C
+	Function /Game/Variant_Combat/Blueprints/AI/StateTreeTasks/StateTreeTask_WaitForLanding.StateTreeTask_WaitForLanding_C:ExecuteUbergraph_StateTreeTask_WaitForLanding:00C3
+[2026.06.05-17.56.02:896][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property Character in StateTreeTask_WaitForLanding_C". Node:  Bind Event to Landed Delegate Graph:  EventGraph Function:  Execute Ubergraph State Tree Task Wait for Landing Blueprint:  StateTreeTask_WaitForLanding
+[2026.06.05-17.56.19:461][668]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-58.01 Y=-65.12 Z=0.00 Location: X=-3231.51 Y=-1373.87 Z=420.02 Normal: X=0.67 Y=0.73 Z=-0.11 PenetrationDepth:0.577 Actor:BP_EnemyProjecyile_C_4 Component:StaticMesh BoneName:None (0 other events since notify)
+[2026.06.05-17.56.21:629][822]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 99
+[2026.06.05-17.56.22:170][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 98
+[2026.06.05-17.56.22:170][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 97
+[2026.06.05-17.56.22:170][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 96
+[2026.06.05-17.56.22:170][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 95
+[2026.06.05-17.56.22:170][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 94
+[2026.06.05-17.56.22:170][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 93
+[2026.06.05-17.56.22:170][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 92
+[2026.06.05-17.56.22:170][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 91
+[2026.06.05-17.56.22:170][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 90
+[2026.06.05-17.56.22:170][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 89
+[2026.06.05-17.56.22:170][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 88
+[2026.06.05-17.56.22:170][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 87
+[2026.06.05-17.56.22:170][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 86
+[2026.06.05-17.56.22:170][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 85
+[2026.06.05-17.56.22:170][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 84
+[2026.06.05-17.56.22:170][863]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 83
+[2026.06.05-17.56.29:403][410]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 82
+[2026.06.05-17.56.29:931][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 81
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 80
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 79
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 78
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 77
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 76
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 75
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 74
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 73
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 72
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 71
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 69
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 68
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 67
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 66
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 65
+[2026.06.05-17.56.29:933][446]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 64
+[2026.06.05-17.56.30:647][494]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 63
+[2026.06.05-17.56.30:647][494]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 62
+[2026.06.05-17.56.30:647][494]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 61
+[2026.06.05-17.56.30:647][494]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 60
+[2026.06.05-17.56.30:647][494]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 59
+[2026.06.05-17.56.30:647][494]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 58
+[2026.06.05-17.56.30:648][494]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 57
+[2026.06.05-17.56.30:648][494]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 56
+[2026.06.05-17.56.30:648][494]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 55
+[2026.06.05-17.56.30:648][494]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 54
+[2026.06.05-17.56.30:648][494]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 53
+[2026.06.05-17.56.34:928][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 52
+[2026.06.05-17.56.34:928][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 51
+[2026.06.05-17.56.34:928][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 50
+[2026.06.05-17.56.34:928][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 49
+[2026.06.05-17.56.34:928][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 48
+[2026.06.05-17.56.34:928][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 47
+[2026.06.05-17.56.34:928][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 46
+[2026.06.05-17.56.34:928][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 45
+[2026.06.05-17.56.34:928][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 44
+[2026.06.05-17.56.34:928][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 43
+[2026.06.05-17.56.38:988][123]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 42
+[2026.06.05-17.56.38:988][123]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 41
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 39
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 38
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 37
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 36
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 35
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 34
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 33
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 32
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 31
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 30
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 29
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 28
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 27
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 26
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 25
+[2026.06.05-17.56.39:523][163]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 24
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 23
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 22
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 21
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 20
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 19
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 18
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 17
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 16
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 15
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 14
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 13
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 12
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 11
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 10
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 9
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 8
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 7
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 6
+[2026.06.05-17.56.44:740][557]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 5
+[2026.06.05-17.56.52:256][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.05-17.56.52:256][116]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.05-17.56.52:256][116]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.05-17.56.52:259][116]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-17.56.52:264][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-17.56.52:264][116]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.06.05-17.56.52:267][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.05-17.56.52:278][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-17.56.52:455][116]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.05-17.56.52:456][116]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2026.06.05-17.56.52:456][116]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=4
+[2026.06.05-17.56.52:458][116]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=2
+[2026.06.05-17.56.52:463][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.05-17.56.52:599][116]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2026.06.05-17.56.52:704][117]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2026.06.05-17.57.06:990][544]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13622.210938
+[2026.06.05-17.57.07:990][547]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-17.57.07:991][547]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13622.876953, Update Interval: 354.244812
+[2026.06.05-17.57.22:960][592]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=扬声器 (Realtek USB2.0 Audio), InstanceID=1
+[2026.06.05-17.57.22:960][592]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{de27b3b4-5d59-4e89-a9e2-7028921f27aa}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.06.05-17.57.22:985][592]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{de27b3b4-5d59-4e89-a9e2-7028921f27aa}]
+[2026.06.05-17.57.22:985][592]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.06.05-17.57.22:985][592]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.06.05-17.57.23:654][594]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{de27b3b4-5d59-4e89-a9e2-7028921f27aa}, Name=扬声器 (Realtek USB2.0 Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=345.71
+[2026.06.05-17.57.23:654][594]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.06.05-17.57.23:654][594]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.06.05-17.57.23:655][594]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.06.05-18.03.43:897][814]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14019.127930
+[2026.06.05-18.03.44:897][817]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.06.05-18.03.44:897][818]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14019.793945, Update Interval: 342.419495
+[2026.06.05-18.04.48:991][812]LogBlueprint: Error: [AssetLog] D:\Github\LD_FinalTest_UnrealEngine\LiesOfP_Level\Content\Variant_Combat\Blueprints\AI\BP_EnemyProjecyile.uasset: [Compiler] Message node  Apply Damage  must have a valid target or reference to self.
+[2026.06.05-18.04.49:071][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.06.05-18.04.59:425][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.06.05-18.05.17:582][391]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.05-18.05.17:645][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.06.05-18.05.17:674][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.06.05-18.05.17:700][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.06.05-18.05.17:718][391]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/D/S0/K58CG6C34BU10C4DS6PORP
+[2026.06.05-18.05.17:719][391]LogSavePackage: Moving 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/K58CG6C34BU10C4DS6PORPDDB0464B4EFB3413904EF38FFE43CB04.tmp' to 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/D/S0/K58CG6C34BU10C4DS6PORP.uasset'
+[2026.06.05-18.05.17:729][391]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.268 ms (total: 2.49 sec)
+[2026.06.05-18.05.17:760][391]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.05-18.05.17:760][391]LogContentValidation: Enabled validators:
+[2026.06.05-18.05.17:760][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.05-18.05.17:760][391]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.05-18.05.17:760][391]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.05-18.05.17:760][391]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.05-18.05.17:760][391]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.05-18.05.17:760][391]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.05-18.05.17:760][391]AssetCheck: /Game/LiesOfPLevel/MainLevel Validating asset
+[2026.06.05-18.05.17:781][391]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.05-18.05.18:290][442]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.05-18.05.18:296][442]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.05-18.05.18:296][442]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.06.05-18.05.18:298][442]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 2.141 ms (total: 63.646 ms)
+[2026.06.05-18.05.18:302][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.05-18.05.18:302][442]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.05-18.05.18:469][442]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.05-18.05.18:478][442]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 10.337 ms (total: 345.023 ms)
+[2026.06.05-18.05.18:478][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.176073s)
+[2026.06.05-18.05.18:478][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.176102s)
+[2026.06.05-18.05.18:505][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.06.05-18.05.18:508][442]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.06.05-18.05.18:510][442]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.05-18.05.18:510][442]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.05-18.05.18:510][442]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.05-18.05.18:510][442]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.05-18.05.18:520][442]LogWorldPartition: Display: WorldPartition initialize took 10.983 ms (total: 747.704 ms)
+[2026.06.05-18.05.18:520][442]LogPlayLevel: PIE: World Init took: (0.012781s)
+[2026.06.05-18.05.18:520][442]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2026.06.05-18.05.18:520][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.05-18.05.18:520][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.05-18.05.18:520][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.05-18.05.18:520][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.05-18.05.18:520][442]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.05-18.05.18:520][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.05-18.05.18:520][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.05-18.05.18:520][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.05-18.05.18:520][442]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.05-18.05.18:520][442]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.05-18.05.18:520][442]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.05-18.05.18:524][442]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.05-18.05.18:559][442]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek USB2.0 Audio)
+[2026.06.05-18.05.18:559][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.05-18.05.18:559][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.05-18.05.18:559][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.05-18.05.18:559][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2026.06.05-18.05.18:560][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2026.06.05-18.05.18:561][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2026.06.05-18.05.18:561][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2026.06.05-18.05.18:561][442]LogInit: FAudioDevice initialized with ID 33.
+[2026.06.05-18.05.18:561][442]LogAudio: Display: Audio Device (ID: 33) registered with world 'MainLevel'.
+[2026.06.05-18.05.18:561][442]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2026.06.05-18.05.18:565][442]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.05-18.05.18:583][442]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.06.05-20.05.18
+[2026.06.05-18.05.18:584][442]LogWorld: Bringing up level for play took: 0.019090
+[2026.06.05-18.05.18:586][442]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2026.06.05-18.05.18:591][442]PIE: Server logged in
+[2026.06.05-18.05.18:593][442]PIE: Play in editor total start time 0.297 seconds.
+[2026.06.05-18.05.18:608][442]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.05.18:613][442]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.05.18:619][442]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.05.18:623][442]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.05.18:628][442]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.05.18:635][442]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.05.18:639][442]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.05.18:650][442]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.05.18:664][442]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.05.18:671][442]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.05.18:742][443]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.05-18.05.24:274][845]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 85
+[2026.06.05-18.05.27:977][137]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70
+[2026.06.05-18.05.29:327][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 55
+[2026.06.05-18.05.30:667][348]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40
+[2026.06.05-18.05.31:319][400]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 39
+[2026.06.05-18.05.31:319][400]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 38
+[2026.06.05-18.05.31:319][400]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 37
+[2026.06.05-18.05.31:319][400]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 36
+[2026.06.05-18.05.31:320][400]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 35
+[2026.06.05-18.05.31:320][400]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 34
+[2026.06.05-18.05.31:320][400]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 33
+[2026.06.05-18.05.31:881][444]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 18
+[2026.06.05-18.05.33:429][568]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 3
+[2026.06.05-18.05.34:593][660]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -12
+[2026.06.05-18.05.39:830][ 38]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 85
+[2026.06.05-18.05.45:044][444]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70
+[2026.06.05-18.05.47:420][624]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 69
+[2026.06.05-18.05.47:420][624]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 68
+[2026.06.05-18.05.47:420][624]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 67
+[2026.06.05-18.05.48:861][738]LogCharacterMovement: BP_CombatEnemy_C_3 is stuck and failed to move! Velocity: X=-115.91 Y=276.70 Z=0.00 Location: X=-5126.59 Y=-309.37 Z=20.08 Normal: X=-0.68 Y=0.45 Z=-0.58 PenetrationDepth:16.093 Actor:BP_ThirdPersonCharacter_C_0 Component:Weapon BoneName:None (0 other events since notify)
+[2026.06.05-18.05.53:289][ 59]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 66
+[2026.06.05-18.05.53:289][ 59]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 65
+[2026.06.05-18.05.53:289][ 59]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 64
+[2026.06.05-18.05.53:289][ 59]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 63
+[2026.06.05-18.05.53:289][ 59]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 62
+[2026.06.05-18.05.53:289][ 59]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 61
+[2026.06.05-18.05.53:289][ 59]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 60
+[2026.06.05-18.05.53:289][ 59]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 59
+[2026.06.05-18.05.53:289][ 59]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 58
+[2026.06.05-18.05.53:289][ 59]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 57
+[2026.06.05-18.05.53:289][ 59]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 56
+[2026.06.05-18.05.53:289][ 59]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 55
+[2026.06.05-18.05.53:289][ 59]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 54
+[2026.06.05-18.05.53:823][ 95]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 53
+[2026.06.05-18.05.53:823][ 95]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 52
+[2026.06.05-18.05.53:823][ 95]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 51
+[2026.06.05-18.05.53:823][ 95]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 50
+[2026.06.05-18.05.53:823][ 95]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 49
+[2026.06.05-18.05.53:823][ 95]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 48
+[2026.06.05-18.05.53:823][ 95]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 47
+[2026.06.05-18.05.53:823][ 95]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 46
+[2026.06.05-18.05.53:823][ 95]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 45
+[2026.06.05-18.05.54:339][128]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 44
+[2026.06.05-18.05.54:339][128]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 43
+[2026.06.05-18.05.54:339][128]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 42
+[2026.06.05-18.05.54:339][128]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 41
+[2026.06.05-18.05.54:339][128]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40
+[2026.06.05-18.05.54:339][128]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 39
+[2026.06.05-18.05.54:339][128]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 38
+[2026.06.05-18.05.56:408][280]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 23
+[2026.06.05-18.05.58:360][430]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 8
+[2026.06.05-18.05.59:833][546]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -7
+[2026.06.05-18.06.01:504][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.05-18.06.01:504][664]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.05-18.06.01:504][664]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.05-18.06.01:507][664]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-18.06.01:514][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-18.06.01:515][664]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.06.05-18.06.01:518][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.05-18.06.01:529][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-18.06.01:643][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.05-18.06.01:645][664]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2026.06.05-18.06.01:645][664]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=4
+[2026.06.05-18.06.01:647][664]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=2
+[2026.06.05-18.06.01:740][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2026.06.05-18.06.01:794][665]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2026.06.05-18.06.26:436][264]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.05-18.06.26:442][264]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.05-18.06.26:442][264]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.06.05-18.06.26:444][264]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 2.216 ms (total: 65.862 ms)
+[2026.06.05-18.06.26:456][264]LogPlayLevel: [PlayLevel] Compiling BP_CombatEnemy before play...
+[2026.06.05-18.06.26:700][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.06.05-18.06.26:705][264]LogPlayLevel: PlayLevel: Blueprint regeneration took 256 ms (1 blueprints)
+[2026.06.05-18.06.26:755][264]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.05-18.06.26:939][264]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.05-18.06.26:952][264]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 12.673 ms (total: 357.697 ms)
+[2026.06.05-18.06.26:952][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.197200s)
+[2026.06.05-18.06.26:952][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.197239s)
+[2026.06.05-18.06.26:977][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.06.05-18.06.26:980][264]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.06.05-18.06.26:982][264]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.05-18.06.26:982][264]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.05-18.06.26:982][264]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.05-18.06.26:982][264]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.05-18.06.26:996][264]LogWorldPartition: Display: WorldPartition initialize took 13.735 ms (total: 761.439 ms)
+[2026.06.05-18.06.26:996][264]LogPlayLevel: PIE: World Init took: (0.015800s)
+[2026.06.05-18.06.26:997][264]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2026.06.05-18.06.26:997][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.05-18.06.26:997][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.05-18.06.26:997][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.05-18.06.26:997][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.05-18.06.26:997][264]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.05-18.06.26:997][264]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.05-18.06.26:997][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.05-18.06.26:997][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.05-18.06.26:997][264]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.05-18.06.26:997][264]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.05-18.06.26:997][264]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.05-18.06.26:999][264]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.05-18.06.27:033][264]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek USB2.0 Audio)
+[2026.06.05-18.06.27:033][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.05-18.06.27:033][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.05-18.06.27:033][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.05-18.06.27:034][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2026.06.05-18.06.27:034][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2026.06.05-18.06.27:037][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2026.06.05-18.06.27:037][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2026.06.05-18.06.27:037][264]LogInit: FAudioDevice initialized with ID 34.
+[2026.06.05-18.06.27:037][264]LogAudio: Display: Audio Device (ID: 34) registered with world 'MainLevel'.
+[2026.06.05-18.06.27:037][264]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2026.06.05-18.06.27:042][264]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.05-18.06.27:064][264]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.06.05-20.06.27
+[2026.06.05-18.06.27:065][264]LogWorld: Bringing up level for play took: 0.022973
+[2026.06.05-18.06.27:068][264]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2026.06.05-18.06.27:073][264]PIE: Server logged in
+[2026.06.05-18.06.27:075][264]PIE: Play in editor total start time 0.633 seconds.
+[2026.06.05-18.06.27:092][264]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.27:097][264]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.27:104][264]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.27:109][264]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.27:114][264]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.27:122][264]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.27:127][264]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.27:142][264]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.27:156][264]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.27:165][264]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.27:241][265]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.05-18.06.33:133][681]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 85
+[2026.06.05-18.06.35:008][829]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 75
+[2026.06.05-18.06.35:051][832]LogCharacterMovement: BP_CombatEnemy_C_3 is stuck and failed to move! Velocity: X=23.84 Y=343.80 Z=0.00 Location: X=-3821.21 Y=-77.77 Z=22.15 Normal: X=-0.98 Y=0.16 Z=-0.10 PenetrationDepth:16.159 Actor:BP_EnemyProjecyile_C_1 Component:StaticMesh BoneName:None (0 other events since notify)
+[2026.06.05-18.06.35:079][834]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 60
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 50
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 30
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 20
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 10
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 0
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 90
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 80
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 60
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 50
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 30
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 20
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 10
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 0
+[2026.06.05-18.06.35:553][872]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 90
+[2026.06.05-18.06.37:236][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.05-18.06.37:236][  0]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.05-18.06.37:236][  0]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.05-18.06.37:238][  0]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-18.06.37:243][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-18.06.37:243][  0]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.06.05-18.06.37:247][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.05-18.06.37:255][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-18.06.37:314][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.05-18.06.37:316][  0]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2026.06.05-18.06.37:316][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=4
+[2026.06.05-18.06.37:318][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=2
+[2026.06.05-18.06.37:366][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.06.05-18.06.37:423][  1]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2026.06.05-18.06.47:007][679]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.05-18.06.47:013][679]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.05-18.06.47:013][679]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.06.05-18.06.47:015][679]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 2.366 ms (total: 68.228 ms)
+[2026.06.05-18.06.47:022][679]LogPlayLevel: [PlayLevel] Compiling BP_CombatEnemy before play...
+[2026.06.05-18.06.47:229][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.06.05-18.06.47:233][679]LogPlayLevel: PlayLevel: Blueprint regeneration took 213 ms (1 blueprints)
+[2026.06.05-18.06.47:233][679]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.05-18.06.47:391][679]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.05-18.06.47:401][679]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 10.297 ms (total: 367.995 ms)
+[2026.06.05-18.06.47:401][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.167738s)
+[2026.06.05-18.06.47:401][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.167767s)
+[2026.06.05-18.06.47:428][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.06.05-18.06.47:430][679]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.06.05-18.06.47:431][679]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.05-18.06.47:431][679]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.05-18.06.47:431][679]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.05-18.06.47:431][679]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.05-18.06.47:443][679]LogWorldPartition: Display: WorldPartition initialize took 11.250 ms (total: 772.689 ms)
+[2026.06.05-18.06.47:443][679]LogPlayLevel: PIE: World Init took: (0.013012s)
+[2026.06.05-18.06.47:443][679]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2026.06.05-18.06.47:443][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.05-18.06.47:443][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.05-18.06.47:443][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.05-18.06.47:443][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.05-18.06.47:443][679]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.05-18.06.47:443][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.05-18.06.47:443][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.05-18.06.47:443][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.05-18.06.47:443][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.05-18.06.47:443][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.05-18.06.47:443][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.05-18.06.47:446][679]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.05-18.06.47:478][679]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek USB2.0 Audio)
+[2026.06.05-18.06.47:478][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.05-18.06.47:478][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.05-18.06.47:478][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.05-18.06.47:479][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2026.06.05-18.06.47:479][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2026.06.05-18.06.47:481][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2026.06.05-18.06.47:481][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2026.06.05-18.06.47:481][679]LogInit: FAudioDevice initialized with ID 35.
+[2026.06.05-18.06.47:481][679]LogAudio: Display: Audio Device (ID: 35) registered with world 'MainLevel'.
+[2026.06.05-18.06.47:481][679]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2026.06.05-18.06.47:484][679]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.05-18.06.47:502][679]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.06.05-20.06.47
+[2026.06.05-18.06.47:503][679]LogWorld: Bringing up level for play took: 0.018948
+[2026.06.05-18.06.47:506][679]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2026.06.05-18.06.47:511][679]PIE: Server logged in
+[2026.06.05-18.06.47:513][679]PIE: Play in editor total start time 0.5 seconds.
+[2026.06.05-18.06.47:528][679]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.47:532][679]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.47:539][679]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.47:543][679]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.47:548][679]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.47:554][679]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.47:558][679]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.47:571][679]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.47:583][679]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.47:592][679]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.06.47:660][680]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.05-18.06.54:431][172]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 85
+[2026.06.05-18.06.56:405][327]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70
+[2026.06.05-18.06.58:050][454]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 55
+[2026.06.05-18.07.00:659][647]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40
+[2026.06.05-18.07.02:177][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.05-18.07.02:177][756]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.05-18.07.02:177][756]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.05-18.07.02:179][756]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-18.07.02:185][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-18.07.02:185][756]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.06.05-18.07.02:188][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.05-18.07.02:196][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-18.07.02:271][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.05-18.07.02:272][756]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2026.06.05-18.07.02:272][756]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=4
+[2026.06.05-18.07.02:274][756]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=2
+[2026.06.05-18.07.02:337][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2026.06.05-18.07.02:394][757]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2026.06.05-18.07.14:298][874]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.05-18.07.14:304][874]LogContentBundle: [MainLevel(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.06.05-18.07.14:304][874]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' started...
+[2026.06.05-18.07.14:306][874]LogWorldPartition: Display: GenerateStreaming for 'MainLevel' took 2.174 ms (total: 70.403 ms)
+[2026.06.05-18.07.14:309][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.05-18.07.14:310][874]LogPlayLevel: Creating play world package: /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.05-18.07.14:470][874]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.06.05-18.07.14:481][874]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 10.275 ms (total: 378.270 ms)
+[2026.06.05-18.07.14:481][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.171105s)
+[2026.06.05-18.07.14:481][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LiesOfPLevel/MainLevel.MainLevel to /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel (0.171131s)
+[2026.06.05-18.07.14:509][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.06.05-18.07.14:514][874]LogChaosDD: Creating Chaos Debug Draw Scene for world MainLevel
+[2026.06.05-18.07.14:516][874]LogWorldPartition: ULevel::OnLevelLoaded(MainLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.06.05-18.07.14:516][874]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.06.05-18.07.14:516][874]LogWorldPartition: UWorldPartition::Initialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.06.05-18.07.14:516][874]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.06.05-18.07.14:528][874]LogWorldPartition: Display: WorldPartition initialize took 12.240 ms (total: 784.930 ms)
+[2026.06.05-18.07.14:528][874]LogPlayLevel: PIE: World Init took: (0.014145s)
+[2026.06.05-18.07.14:528][874]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2026.06.05-18.07.14:528][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.05-18.07.14:529][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.05-18.07.14:529][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.05-18.07.14:529][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.05-18.07.14:529][874]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.05-18.07.14:529][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.05-18.07.14:529][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.05-18.07.14:529][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.05-18.07.14:529][874]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.05-18.07.14:529][874]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.05-18.07.14:529][874]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.05-18.07.14:531][874]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.05-18.07.14:563][874]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek USB2.0 Audio)
+[2026.06.05-18.07.14:563][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.05-18.07.14:563][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.05-18.07.14:563][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.05-18.07.14:564][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2026.06.05-18.07.14:564][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2026.06.05-18.07.14:566][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2026.06.05-18.07.14:566][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2026.06.05-18.07.14:566][874]LogInit: FAudioDevice initialized with ID 36.
+[2026.06.05-18.07.14:566][874]LogAudio: Display: Audio Device (ID: 36) registered with world 'MainLevel'.
+[2026.06.05-18.07.14:566][874]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2026.06.05-18.07.14:569][874]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.06.05-18.07.14:588][874]LogWorld: Bringing World /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2026.06.05-20.07.14
+[2026.06.05-18.07.14:589][874]LogWorld: Bringing up level for play took: 0.019290
+[2026.06.05-18.07.14:591][874]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2026.06.05-18.07.14:596][874]PIE: Server logged in
+[2026.06.05-18.07.14:597][874]PIE: Play in editor total start time 0.293 seconds.
+[2026.06.05-18.07.14:613][874]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.07.14:617][874]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.07.14:623][874]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.07.14:628][874]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.07.14:632][874]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.07.14:638][874]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.07.14:643][874]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.07.14:654][874]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.07.14:668][874]LogStateTree: Warning: Parameters for 'ST_CombatEnemyDistance' stored in StateTreeReference were auto-fixed to be usable at runtime.
+[2026.06.05-18.07.14:746][875]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.06.05-18.07.21:907][381]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 97
+[2026.06.05-18.07.21:907][381]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 94
+[2026.06.05-18.07.21:907][381]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 91
+[2026.06.05-18.07.21:907][381]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 88
+[2026.06.05-18.07.21:907][381]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 85
+[2026.06.05-18.07.21:907][381]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 82
+[2026.06.05-18.07.21:907][381]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 79
+[2026.06.05-18.07.21:907][381]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 76
+[2026.06.05-18.07.21:908][381]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 73
+[2026.06.05-18.07.21:908][381]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 70
+[2026.06.05-18.07.33:248][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 67
+[2026.06.05-18.07.33:248][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 64
+[2026.06.05-18.07.33:248][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 61
+[2026.06.05-18.07.33:248][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 58
+[2026.06.05-18.07.33:248][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 55
+[2026.06.05-18.07.33:248][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 52
+[2026.06.05-18.07.33:248][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 49
+[2026.06.05-18.07.33:248][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 46
+[2026.06.05-18.07.33:248][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 43
+[2026.06.05-18.07.33:248][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 40
+[2026.06.05-18.07.33:248][244]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 37
+[2026.06.05-18.07.34:790][363]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 34
+[2026.06.05-18.07.34:790][363]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 31
+[2026.06.05-18.07.34:790][363]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 28
+[2026.06.05-18.07.34:790][363]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 25
+[2026.06.05-18.07.34:790][363]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 22
+[2026.06.05-18.07.34:790][363]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 19
+[2026.06.05-18.07.34:790][363]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 16
+[2026.06.05-18.07.34:790][363]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 13
+[2026.06.05-18.07.34:790][363]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 10
+[2026.06.05-18.07.34:790][363]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 7
+[2026.06.05-18.07.39:272][710]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 4
+[2026.06.05-18.07.39:272][710]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 1
+[2026.06.05-18.07.39:272][710]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] -2
+[2026.06.05-18.07.39:272][710]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 97
+[2026.06.05-18.07.39:272][710]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 94
+[2026.06.05-18.07.39:272][710]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 91
+[2026.06.05-18.07.39:272][710]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 88
+[2026.06.05-18.07.39:272][710]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 85
+[2026.06.05-18.07.39:272][710]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 82
+[2026.06.05-18.07.39:272][710]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 79
+[2026.06.05-18.07.39:272][710]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] 76
+[2026.06.05-18.07.40:138][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.05-18.07.40:138][774]LogWorld: BeginTearingDown for /Game/LiesOfPLevel/UEDPIE_0_MainLevel
+[2026.06.05-18.07.40:138][774]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.05-18.07.40:141][774]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-18.07.40:147][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-18.07.40:147][774]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/LiesOfPLevel/UEDPIE_0_MainLevel.MainLevel
+[2026.06.05-18.07.40:150][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.05-18.07.40:157][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-18.07.40:229][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.05-18.07.40:231][774]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2026.06.05-18.07.40:231][774]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=4
+[2026.06.05-18.07.40:233][774]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=2
+[2026.06.05-18.07.40:294][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2026.06.05-18.07.40:347][775]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2026.06.05-18.08.01:865][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.06.05-18.08.05:513][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.06.05-18.08.08:810][700]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.05-18.08.08:855][700]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy] ([2] browsable assets)...
+[2026.06.05-18.08.09:005][700]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy.BP_CombatEnemy]
+[2026.06.05-18.08.09:005][700]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy]
+[2026.06.05-18.08.09:046][700]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy
+[2026.06.05-18.08.09:046][700]LogSavePackage: Moving 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_CombatEnemyD681EA4749F002E5EF09119D05452B18.tmp' to 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_CombatEnemy.uasset'
+[2026.06.05-18.08.09:057][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 247.055 ms (total: 2.73 sec)
+[2026.06.05-18.08.09:092][700]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.05-18.08.09:092][700]LogContentValidation: Enabled validators:
+[2026.06.05-18.08.09:092][700]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.05-18.08.09:092][700]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.05-18.08.09:092][700]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.05-18.08.09:092][700]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.05-18.08.09:092][700]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.05-18.08.09:092][700]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.05-18.08.09:092][700]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_CombatEnemy Validating asset
+[2026.06.05-18.08.11:712][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.05-18.08.11:746][875]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Variant_Combat/Blueprints/AI/BP_EnemyProjecyile] ([2] browsable assets)...
+[2026.06.05-18.08.11:784][875]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Variant_Combat/Blueprints/AI/BP_EnemyProjecyile.BP_EnemyProjecyile]
+[2026.06.05-18.08.11:784][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/Variant_Combat/Blueprints/AI/BP_EnemyProjecyile]
+[2026.06.05-18.08.11:793][875]LogSavePackage: Moving output files for package: /Game/Variant_Combat/Blueprints/AI/BP_EnemyProjecyile
+[2026.06.05-18.08.11:794][875]LogSavePackage: Moving 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_EnemyProjecyileB270F3C3447A998B879D57806CE3FC17.tmp' to 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/Variant_Combat/Blueprints/AI/BP_EnemyProjecyile.uasset'
+[2026.06.05-18.08.11:803][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.219 ms (total: 2.83 sec)
+[2026.06.05-18.08.11:840][875]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.05-18.08.11:840][875]LogContentValidation: Enabled validators:
+[2026.06.05-18.08.11:840][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.05-18.08.11:840][875]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.05-18.08.11:840][875]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.05-18.08.11:840][875]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.05-18.08.11:840][875]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.05-18.08.11:840][875]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.05-18.08.11:840][875]AssetCheck: /Game/Variant_Combat/Blueprints/AI/BP_EnemyProjecyile Validating asset
+[2026.06.05-18.08.11:865][875]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.05-18.08.13:304][979]LogSlate: Window 'BP_EnemyProjecyile' being destroyed
+[2026.06.05-18.08.13:311][979]LogSlate: Window 'BP_EnemyProjecyile' being destroyed
+[2026.06.05-18.08.13:314][979]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-18.08.13:315][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-18.08.13:382][979]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.05-18.08.13:383][979]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-18.08.13:383][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-18.08.13:443][979]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.05-18.08.13:443][979]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-18.08.13:443][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-18.08.13:490][979]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.05-18.08.13:490][979]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-18.08.13:490][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-18.08.13:535][979]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.05-18.08.13:535][979]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.06.05-18.08.13:535][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.05-18.08.13:590][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.06.05-18.08.16:297][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.06.05-18.08.16:302][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.05-18.08.16:342][245]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/D/S0/K58CG6C34BU10C4DS6PORP
+[2026.06.05-18.08.16:342][245]LogSavePackage: Moving 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/K58CG6C34BU10C4DS6PORPA21DB5F240D0A5E14F0F83A246B5ECB1.tmp' to 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/D/S0/K58CG6C34BU10C4DS6PORP.uasset'
+[2026.06.05-18.08.16:350][245]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/E/56/6DD5IITIOL64L16L6MTA0P
+[2026.06.05-18.08.16:351][245]LogSavePackage: Moving 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/6DD5IITIOL64L16L6MTA0P4F3843684F5FD9D282ACDEA2AC3B45B2.tmp' to 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/E/56/6DD5IITIOL64L16L6MTA0P.uasset'
+[2026.06.05-18.08.16:366][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.723 ms (total: 2.89 sec)
+[2026.06.05-18.08.16:395][245]LogContentValidation: Display: Starting to validate 4 assets
+[2026.06.05-18.08.16:395][245]LogContentValidation: Enabled validators:
+[2026.06.05-18.08.16:395][245]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.05-18.08.16:395][245]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.05-18.08.16:395][245]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.05-18.08.16:395][245]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.05-18.08.16:395][245]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.05-18.08.16:395][245]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.05-18.08.16:395][245]AssetCheck: /Game/LiesOfPLevel/MainLevel Validating asset
+[2026.06.05-18.08.16:416][245]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
