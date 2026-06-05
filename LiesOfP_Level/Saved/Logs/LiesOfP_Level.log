@@ -4518,3 +4518,29 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.05-15.58.46:357][  1]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6521.587402
 [2026.06.05-15.58.47:358][  4]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.06.05-15.58.47:358][  4]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6522.254395, Update Interval: 300.459595
+[2026.06.05-16.01.46:695][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.06.05-16.01.46:700][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.05-16.01.46:789][616]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/5/XA/W8PX2RJDSPSOBZTW5P5HC7
+[2026.06.05-16.01.46:789][616]LogSavePackage: Moving 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/W8PX2RJDSPSOBZTW5P5HC75698DC904B7F688A8F929A80E5E839CA.tmp' to 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/5/XA/W8PX2RJDSPSOBZTW5P5HC7.uasset'
+[2026.06.05-16.01.46:790][616]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.06.05-16.01.46:790][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.06.05-16.01.46:804][616]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.06.05-16.01.46:804][616]LogSavePackage: Moving 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_ThirdPersonCharacterB256AD464481BAB8802D18B634436F29.tmp' to 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.06.05-16.01.46:805][616]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/BP_RestArea] ([2] browsable assets)...
+[2026.06.05-16.01.46:805][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BP_RestArea]
+[2026.06.05-16.01.46:805][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BP_RestArea" FILE="D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/UI/BP_RestArea.uasset" SILENT=true
+[2026.06.05-16.01.46:823][616]LogSavePackage: Moving output files for package: /Game/UI/BP_RestArea
+[2026.06.05-16.01.46:823][616]LogSavePackage: Moving 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/BP_RestArea0CAE9B71448FB834F7778D89C796DCD9.tmp' to 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/UI/BP_RestArea.uasset'
+[2026.06.05-16.01.46:833][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.451 ms (total: 1.41 sec)
+[2026.06.05-16.01.46:871][616]LogContentValidation: Display: Starting to validate 3 assets
+[2026.06.05-16.01.46:871][616]LogContentValidation: Enabled validators:
+[2026.06.05-16.01.46:871][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.05-16.01.46:871][616]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.05-16.01.46:871][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.05-16.01.46:871][616]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.05-16.01.46:871][616]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.05-16.01.46:871][616]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.05-16.01.46:871][616]AssetCheck: /Game/LiesOfPLevel/MainLevel Validating asset
+[2026.06.05-16.01.46:871][616]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.06.05-16.01.46:871][616]AssetCheck: /Game/UI/BP_RestArea Validating asset
+[2026.06.05-16.01.46:919][616]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
