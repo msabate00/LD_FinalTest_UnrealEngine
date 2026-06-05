@@ -1971,3 +1971,18 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.06.05-14.36.34:354][219]LogSavePackage: Moving 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/FV1J7IBZJ1FUL83GXIUIIH_Auto2FFCF5EA24D17B6D04129AB9CA718DA68.tmp' to 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/Autosaves/Game/__ExternalActors__/LiesOfPLevel/MainLevel/A/E7/FV1J7IBZJ1FUL83GXIUIIH_Auto2.uasset'
 [2026.06.05-14.36.34:354][219]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LiesOfPLevel/MainLevel' took 0.063
 [2026.06.05-14.36.34:354][219]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
+[2026.06.05-14.37.13:761][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.06.05-14.37.13:764][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.05-14.37.13:818][519]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/LiesOfPLevel/MainLevel/A/E7/FV1J7IBZJ1FUL83GXIUIIH
+[2026.06.05-14.37.13:818][519]LogSavePackage: Moving 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/FV1J7IBZJ1FUL83GXIUIIH97560143438801EBAADABDB51ED890AC.tmp' to 'D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Content/__ExternalActors__/LiesOfPLevel/MainLevel/A/E7/FV1J7IBZJ1FUL83GXIUIIH.uasset'
+[2026.06.05-14.37.13:839][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.281 ms (total: 316.301 ms)
+[2026.06.05-14.37.13:868][519]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.05-14.37.13:868][519]LogContentValidation: Enabled validators:
+[2026.06.05-14.37.13:868][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.05-14.37.13:868][519]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.05-14.37.13:868][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.05-14.37.13:868][519]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.05-14.37.13:868][519]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.05-14.37.13:868][519]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.05-14.37.13:868][519]AssetCheck: /Game/LiesOfPLevel/MainLevel Validating asset
+[2026.06.05-14.37.13:913][519]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/Github/LD_FinalTest_UnrealEngine/LiesOfP_Level/Saved/SourceControl/UncontrolledChangelists.json
